@@ -1,0 +1,1693 @@
+CR_0_Contig_0	186538	Zaire ebolavirus	Zaire ebolavirus	100.000	0.0
+CR_100_Contig_0	93062	Staphylococcus aureus subsp. aureus COL	Staphylococcus aureus subsp. aureus COL	99.985	0.0
+CR_100_Contig_1	451516	Staphylococcus aureus subsp. aureus USA300_TCH1516	Staphylococcus aureus subsp. aureus USA300_TCH1516	99.971	0.0
+CR_101_Contig_0	562	Escherichia coli	Escherichia coli	99.738	0.0
+CR_101_Contig_1	562	Escherichia coli	Escherichia coli	99.881	0.0
+CR_101_Contig_2	562	Escherichia coli	Escherichia coli	99.924	0.0
+CR_101_Contig_3	562	Escherichia coli	Escherichia coli	99.980	0.0
+CR_102_Contig_0	1352	Enterococcus faecium	Enterococcus faecium	94.506	0.0
+CR_102_Contig_1	1352	Enterococcus faecium	Enterococcus faecium	91.178	0.0
+CR_102_Contig_2	1352	Enterococcus faecium	Enterococcus faecium	98.687	0.0
+CR_102_Contig_3	768486	Enterococcus hirae ATCC 9790	Enterococcus hirae ATCC 9790	79.382	0.0
+CR_102_Contig_4	1344042	Enterococcus faecium T110	Enterococcus faecium T110	99.529	0.0
+CR_102_Contig_5	1352	Enterococcus faecium	Enterococcus faecium	85.797	3.85e-93
+CR_103_Contig_0	630	Yersinia enterocolitica	Yersinia enterocolitica	99.750	0.0
+CR_104_Contig_0	588	Providencia stuartii	Providencia stuartii	99.969	0.0
+CR_105_Contig_0	1639	Listeria monocytogenes	Listeria monocytogenes	99.209	0.0
+CR_106_Contig_0	633	Yersinia pseudotuberculosis	Yersinia pseudotuberculosis	99.616	0.0
+CR_107_Contig_0	727	Haemophilus influenzae	Haemophilus influenzae	99.996	0.0
+CR_108_Contig_0	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.986	0.0
+CR_108_Contig_1	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.988	0.0
+CR_108_Contig_2	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.967	0.0
+CR_108_Contig_3	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.985	0.0
+CR_108_Contig_4	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.980	0.0
+CR_109_Contig_0	644	Aeromonas hydrophila	Aeromonas hydrophila	98.057	0.0
+CR_109_Contig_1	644	Aeromonas hydrophila	Aeromonas hydrophila	95.776	0.0
+CR_109_Contig_2	644	Aeromonas hydrophila	Aeromonas hydrophila	97.956	0.0
+CR_109_Contig_3	644	Aeromonas hydrophila	Aeromonas hydrophila	98.245	0.0
+CR_109_Contig_4	644	Aeromonas hydrophila	Aeromonas hydrophila	97.373	0.0
+CR_109_Contig_5	558964	Aeromonas aquatica	Aeromonas aquatica	96.605	0.0
+CR_109_Contig_6	558964	Aeromonas aquatica	Aeromonas aquatica	99.622	0.0
+CR_10_Contig_0	11036	Venezuelan equine encephalitis virus	Venezuelan equine encephalitis virus	99.929	0.0
+CR_110_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.969	0.0
+CR_110_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_110_Contig_2	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_110_Contig_3	1280	Staphylococcus aureus	Staphylococcus aureus	99.988	0.0
+CR_110_Contig_4	282458	Staphylococcus aureus subsp. aureus MRSA252	Staphylococcus aureus subsp. aureus MRSA252	99.973	0.0
+CR_110_Contig_5	1280	Staphylococcus aureus	Staphylococcus aureus	99.988	0.0
+CR_110_Contig_6	1280	Staphylococcus aureus	Staphylococcus aureus	99.969	0.0
+CR_110_Contig_7	1280	Staphylococcus aureus	Staphylococcus aureus	99.983	0.0
+CR_110_Contig_8	282458	Staphylococcus aureus subsp. aureus MRSA252	Staphylococcus aureus subsp. aureus MRSA252	99.984	0.0
+CR_110_Contig_9	282458	Staphylococcus aureus subsp. aureus MRSA252	Staphylococcus aureus subsp. aureus MRSA252	99.988	0.0
+CR_110_Contig_10	1280	Staphylococcus aureus	Staphylococcus aureus	99.991	0.0
+CR_110_Contig_11	1280	Staphylococcus aureus	Staphylococcus aureus	99.950	0.0
+CR_110_Contig_12	1280	Staphylococcus aureus	Staphylococcus aureus	99.719	0.0
+CR_110_Contig_13	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_110_Contig_14	1280	Staphylococcus aureus	Staphylococcus aureus	99.970	0.0
+CR_111_Contig_0	44275	Leptospira interrogans serovar Copenhageni	Leptospira interrogans serovar Copenhageni	99.997	0.0
+CR_111_Contig_1	44275	Leptospira interrogans serovar Copenhageni	Leptospira interrogans serovar Copenhageni	99.996	0.0
+CR_112_Contig_0	1400867	Acinetobacter baumannii ZW85-1	Acinetobacter baumannii ZW85-1	97.352	0.0
+CR_112_Contig_1	470	Acinetobacter baumannii	Acinetobacter baumannii	98.267	0.0
+CR_112_Contig_2	470	Acinetobacter baumannii	Acinetobacter baumannii	98.764	0.0
+CR_113_Contig_0	57975	Burkholderia thailandensis	Burkholderia thailandensis	99.998	0.0
+CR_113_Contig_1	57975	Burkholderia thailandensis	Burkholderia thailandensis	99.998	0.0
+CR_114_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.999	0.0
+CR_114_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.641	0.0
+CR_114_Contig_2	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_114_Contig_3	1280	Staphylococcus aureus	Staphylococcus aureus	96.897	0.0
+CR_114_Contig_4	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_114_Contig_5	1280	Staphylococcus aureus	Staphylococcus aureus	99.712	0.0
+CR_114_Contig_6	1280	Staphylococcus aureus	Staphylococcus aureus	99.910	0.0
+CR_114_Contig_7	1280	Staphylococcus aureus	Staphylococcus aureus	99.855	0.0
+CR_115_Contig_0	1392	Bacillus anthracis	Bacillus anthracis	99.991	0.0
+CR_115_Contig_1	1392	Bacillus anthracis	Bacillus anthracis	99.992	0.0
+CR_116_Contig_0	1639	Listeria monocytogenes	Listeria monocytogenes	99.999	0.0
+CR_117_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.938	0.0
+CR_117_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	98.789	0.0
+CR_117_Contig_2	889933	Staphylococcus aureus subsp. aureus ECT-R 2	Staphylococcus aureus subsp. aureus ECT-R 2	99.951	0.0
+CR_117_Contig_3	1280	Staphylococcus aureus	Staphylococcus aureus	99.990	0.0
+CR_117_Contig_4	1280	Staphylococcus aureus	Staphylococcus aureus	99.393	0.0
+CR_117_Contig_5	1280	Staphylococcus aureus	Staphylococcus aureus	99.982	0.0
+CR_117_Contig_6	546342	Staphylococcus aureus subsp. aureus str. JKD6008	Staphylococcus aureus subsp. aureus str. JKD6008	99.136	0.0
+CR_117_Contig_7	1280	Staphylococcus aureus	Staphylococcus aureus	99.979	0.0
+CR_117_Contig_8	1280	Staphylococcus aureus	Staphylococcus aureus	99.916	0.0
+CR_117_Contig_9	1280	Staphylococcus aureus	Staphylococcus aureus	99.654	0.0
+CR_118_Contig_0	1304	Streptococcus salivarius	Streptococcus salivarius	99.996	0.0
+CR_119_Contig_0	13373	Burkholderia mallei	Burkholderia mallei	99.994	0.0
+CR_119_Contig_1	13373	Burkholderia mallei	Burkholderia mallei	99.991	0.0
+CR_119_Contig_2	13373	Burkholderia mallei	Burkholderia mallei	99.736	0.0
+CR_11_Contig_0	29484	Yersinia frederiksenii	Yersinia frederiksenii	99.997	0.0
+CR_120_Contig_0	29385	Staphylococcus saprophyticus	Staphylococcus saprophyticus	100.000	0.0
+CR_120_Contig_1	29385	Staphylococcus saprophyticus	Staphylococcus saprophyticus	100.000	0.0
+CR_120_Contig_2	29385	Staphylococcus saprophyticus	Staphylococcus saprophyticus	100.000	0.0
+CR_121_Contig_0	67827	Citrobacter werkmanii	Citrobacter werkmanii	100.000	0.0
+CR_122_Contig_0	562	Escherichia coli	Escherichia coli	99.993	0.0
+CR_122_Contig_1	562	Escherichia coli	Escherichia coli	99.977	0.0
+CR_122_Contig_2	562	Escherichia coli	Escherichia coli	99.999	0.0
+CR_122_Contig_3	562	Escherichia coli	Escherichia coli	100.000	0.0
+CR_123_Contig_0	60552	Burkholderia vietnamiensis	Burkholderia vietnamiensis	99.995	0.0
+CR_123_Contig_1	60552	Burkholderia vietnamiensis	Burkholderia vietnamiensis	99.989	0.0
+CR_123_Contig_2	60552	Burkholderia vietnamiensis	Burkholderia vietnamiensis	99.995	0.0
+CR_123_Contig_3	60552	Burkholderia vietnamiensis	Burkholderia vietnamiensis	99.994	0.0
+CR_124_Contig_0	64320	Zika virus	Zika virus	99.942	0.0
+CR_124_Contig_1	64320	Zika virus	Zika virus	100.000	0.0
+CR_124_Contig_2	64320	Zika virus	Zika virus	100.000	0.0
+CR_125_Contig_0	64320	Zika virus	Zika virus	99.981	0.0
+CR_126_Contig_0	1408284	Clostridium botulinum Prevot_594	Clostridium botulinum Prevot_594	99.409	0.0
+CR_126_Contig_1	1509	Clostridium sporogenes	Clostridium sporogenes	99.871	0.0
+CR_126_Contig_2	1408284	Clostridium botulinum Prevot_594	Clostridium botulinum Prevot_594	99.430	0.0
+CR_126_Contig_3	1509	Clostridium sporogenes	Clostridium sporogenes	99.745	0.0
+CR_126_Contig_4	1509	Clostridium sporogenes	Clostridium sporogenes	98.725	0.0
+CR_126_Contig_5	1509	Clostridium sporogenes	Clostridium sporogenes	96.913	0.0
+CR_126_Contig_6	1408284	Clostridium botulinum Prevot_594	Clostridium botulinum Prevot_594	99.772	0.0
+CR_127_Contig_0	748678	Yersinia pestis str. Pestoides B	Yersinia pestis str. Pestoides B	99.995	0.0
+CR_127_Contig_1	748678	Yersinia pestis str. Pestoides B	Yersinia pestis str. Pestoides B	99.990	0.0
+CR_127_Contig_2	748678	Yersinia pestis str. Pestoides B	Yersinia pestis str. Pestoides B	99.995	0.0
+CR_128_Contig_0	435591	Parabacteroides distasonis ATCC 8503	Parabacteroides distasonis ATCC 8503	99.986	0.0
+CR_128_Contig_1	435591	Parabacteroides distasonis ATCC 8503	Parabacteroides distasonis ATCC 8503	99.819	0.0
+CR_128_Contig_2	435591	Parabacteroides distasonis ATCC 8503	Parabacteroides distasonis ATCC 8503	99.754	0.0
+CR_128_Contig_3	435591	Parabacteroides distasonis ATCC 8503	Parabacteroides distasonis ATCC 8503	99.779	0.0
+CR_128_Contig_4	435591	Parabacteroides distasonis ATCC 8503	Parabacteroides distasonis ATCC 8503	99.663	0.0
+CR_128_Contig_5	435591	Parabacteroides distasonis ATCC 8503	Parabacteroides distasonis ATCC 8503	97.742	0.0
+CR_128_Contig_6	435591	Parabacteroides distasonis ATCC 8503	Parabacteroides distasonis ATCC 8503	99.793	0.0
+CR_129_Contig_0	46170	Staphylococcus aureus subsp. aureus	Staphylococcus aureus subsp. aureus	99.985	0.0
+CR_129_Contig_1	1282	Staphylococcus epidermidis	Staphylococcus epidermidis	99.818	0.0
+CR_129_Contig_2	46170	Staphylococcus aureus subsp. aureus	Staphylococcus aureus subsp. aureus	99.955	0.0
+CR_12_Contig_0	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.771	0.0
+CR_12_Contig_1	2077147	Citrobacter freundii complex sp. CFNIH3	Citrobacter freundii complex sp. CFNIH3	99.950	0.0
+CR_12_Contig_2	573	Klebsiella pneumoniae	Klebsiella pneumoniae	88.462	0.0
+CR_12_Contig_3	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.986	0.0
+CR_12_Contig_4	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.429	0.0
+CR_130_Contig_0	1367494	Pseudomonas aeruginosa PAO1-VE13	Pseudomonas aeruginosa PAO1-VE13	99.596	0.0
+CR_130_Contig_1	287	Pseudomonas aeruginosa	Pseudomonas aeruginosa	99.828	0.0
+CR_130_Contig_2	287	Pseudomonas aeruginosa	Pseudomonas aeruginosa	99.810	0.0
+CR_130_Contig_3	1352355	Pseudomonas aeruginosa c7447m	Pseudomonas aeruginosa c7447m	97.409	0.0
+CR_130_Contig_4	1408272	Pseudomonas aeruginosa LES431	Pseudomonas aeruginosa LES431	98.467	0.0
+CR_131_Contig_0	214092	Yersinia pestis CO92	Yersinia pestis CO92	99.992	0.0
+CR_131_Contig_1	360102	Yersinia pestis Antiqua	Yersinia pestis Antiqua	99.990	0.0
+CR_131_Contig_2	632	Yersinia pestis	Yersinia pestis	99.996	0.0
+CR_131_Contig_3	214092	Yersinia pestis CO92	Yersinia pestis CO92	99.983	0.0
+CR_132_Contig_0	186539	Reston ebolavirus	Reston ebolavirus	99.952	0.0
+CR_133_Contig_0	37124	Chikungunya virus	Chikungunya virus	99.941	0.0
+CR_134_Contig_0	216591	Burkholderia cenocepacia J2315	Burkholderia cenocepacia J2315	99.999	0.0
+CR_134_Contig_1	216591	Burkholderia cenocepacia J2315	Burkholderia cenocepacia J2315	99.996	0.0
+CR_134_Contig_2	216591	Burkholderia cenocepacia J2315	Burkholderia cenocepacia J2315	99.998	0.0
+CR_134_Contig_3	216591	Burkholderia cenocepacia J2315	Burkholderia cenocepacia J2315	99.583	0.0
+CR_134_Contig_4	216591	Burkholderia cenocepacia J2315	Burkholderia cenocepacia J2315	99.861	0.0
+CR_134_Contig_5	216591	Burkholderia cenocepacia J2315	Burkholderia cenocepacia J2315	99.592	0.0
+CR_134_Contig_6	216591	Burkholderia cenocepacia J2315	Burkholderia cenocepacia J2315	99.887	0.0
+CR_134_Contig_7	216591	Burkholderia cenocepacia J2315	Burkholderia cenocepacia J2315	99.978	0.0
+CR_134_Contig_8	216591	Burkholderia cenocepacia J2315	Burkholderia cenocepacia J2315	99.997	0.0
+CR_135_Contig_0	57975	Burkholderia thailandensis	Burkholderia thailandensis	99.996	0.0
+CR_135_Contig_1	57975	Burkholderia thailandensis	Burkholderia thailandensis	99.996	0.0
+CR_136_Contig_0	480	Moraxella catarrhalis	Moraxella catarrhalis	99.996	0.0
+CR_137_Contig_0	1496	Clostridioides difficile	Clostridioides difficile	96.380	0.0
+CR_137_Contig_1	1496	Clostridioides difficile	Clostridioides difficile	99.914	0.0
+CR_137_Contig_2	1496	Clostridioides difficile	Clostridioides difficile	99.880	0.0
+CR_138_Contig_0	57975	Burkholderia thailandensis	Burkholderia thailandensis	99.946	0.0
+CR_138_Contig_1	57975	Burkholderia thailandensis	Burkholderia thailandensis	99.940	0.0
+CR_139_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.983	0.0
+CR_139_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.973	0.0
+CR_139_Contig_2	1381115	Staphylococcus aureus subsp. aureus Tager 104	Staphylococcus aureus subsp. aureus Tager 104	99.517	0.0
+CR_139_Contig_3	1351	Enterococcus faecalis	Enterococcus faecalis	98.886	0.0
+CR_139_Contig_4	1351	Enterococcus faecalis	Enterococcus faecalis	100.000	0.0
+CR_139_Contig_5	1280	Staphylococcus aureus	Staphylococcus aureus	99.866	0.0
+CR_139_Contig_6	1280	Staphylococcus aureus	Staphylococcus aureus	99.691	0.0
+CR_13_Contig_0	1270	Micrococcus luteus	Micrococcus luteus	98.703	0.0
+CR_140_Contig_0	588	Providencia stuartii	Providencia stuartii	100.000	0.0
+CR_141_Contig_0	271848	Burkholderia thailandensis E264	Burkholderia thailandensis E264	99.997	0.0
+CR_141_Contig_1	1241582	Burkholderia thailandensis 2002721723	Burkholderia thailandensis 2002721723	99.996	0.0
+CR_141_Contig_2	1249660	Burkholderia thailandensis 2002721643	Burkholderia thailandensis 2002721643	99.827	0.0
+CR_142_Contig_0	624	Shigella sonnei	Shigella sonnei	99.993	0.0
+CR_142_Contig_1	624	Shigella sonnei	Shigella sonnei	99.996	0.0
+CR_142_Contig_2	300268	Shigella boydii Sb227	Shigella boydii Sb227	93.100	0.0
+CR_143_Contig_0	292	Burkholderia cepacia	Burkholderia cepacia	99.994	0.0
+CR_143_Contig_1	292	Burkholderia cepacia	Burkholderia cepacia	99.993	0.0
+CR_143_Contig_2	292	Burkholderia cepacia	Burkholderia cepacia	99.991	0.0
+CR_143_Contig_3	292	Burkholderia cepacia	Burkholderia cepacia	99.994	0.0
+CR_143_Contig_4	983594	Burkholderia cepacia ATCC 25416	Burkholderia cepacia ATCC 25416	99.749	0.0
+CR_144_Contig_0	186538	Zaire ebolavirus	Zaire ebolavirus	100.000	0.0
+CR_145_Contig_0	210	Helicobacter pylori	Helicobacter pylori	99.992	0.0
+CR_145_Contig_1	102618	Helicobacter pylori NCTC 11637 = CCUG 17874 = ATCC 43504	Helicobacter pylori NCTC 11637 = CCUG 17874 = ATCC 43504	99.812	0.0
+CR_146_Contig_0	82985	Pragia fontium	Pragia fontium	88.475	0.0
+CR_147_Contig_0	584	Proteus mirabilis	Proteus mirabilis	99.989	0.0
+CR_147_Contig_1	588	Providencia stuartii	Providencia stuartii	99.754	0.0
+CR_148_Contig_0	1351	Enterococcus faecalis	Enterococcus faecalis	99.985	0.0
+CR_149_Contig_0	43674	Jonesia denitrificans	Jonesia denitrificans	99.996	0.0
+CR_14_Contig_0	1467	Bacillus lentus	Bacillus lentus	80.507	0.0
+CR_14_Contig_1	1367477	Bacillus infantis NRRL B-14911	Bacillus infantis NRRL B-14911	86.099	1.89e-55
+CR_14_Contig_2	1638	Listeria ivanovii	Listeria ivanovii	78.762	0.0
+CR_14_Contig_3	1196031	Bacillus oceanisediminis 2691	Bacillus oceanisediminis 2691	84.091	0.0
+CR_150_Contig_0	50719	Vibrio diabolicus	Vibrio diabolicus	99.999	0.0
+CR_150_Contig_1	50719	Vibrio diabolicus	Vibrio diabolicus	99.999	0.0
+CR_151_Contig_0	122586	Neisseria meningitidis MC58	Neisseria meningitidis MC58	99.993	0.0
+CR_152_Contig_0	170573	Staphylococcus pettenkoferi	Staphylococcus pettenkoferi	99.999	0.0
+CR_153_Contig_0	85962	Helicobacter pylori 26695	Helicobacter pylori 26695	99.919	0.0
+CR_153_Contig_1	210	Helicobacter pylori	Helicobacter pylori	99.749	0.0
+CR_153_Contig_2	210	Helicobacter pylori	Helicobacter pylori	98.079	0.0
+CR_154_Contig_0	51665	Aerococcus urinaeequi	Aerococcus urinaeequi	94.756	0.0
+CR_155_Contig_0	1448140	Pseudomonas aeruginosa YL84	Pseudomonas aeruginosa YL84	97.886	0.0
+CR_155_Contig_1	208963	Pseudomonas aeruginosa UCBPP-PA14	Pseudomonas aeruginosa UCBPP-PA14	98.809	0.0
+CR_155_Contig_2	1089456	Pseudomonas aeruginosa NCGM2.S1	Pseudomonas aeruginosa NCGM2.S1	99.328	0.0
+CR_156_Contig_0	446	Legionella pneumophila	Legionella pneumophila	99.994	0.0
+CR_156_Contig_1	446	Legionella pneumophila	Legionella pneumophila	99.841	0.0
+CR_156_Contig_2	446	Legionella pneumophila	Legionella pneumophila	99.815	0.0
+CR_157_Contig_0	287	Pseudomonas aeruginosa	Pseudomonas aeruginosa	99.455	0.0
+CR_157_Contig_1	47885	Pseudomonas oryzihabitans	Pseudomonas oryzihabitans	94.331	0.0
+CR_157_Contig_2	47885	Pseudomonas oryzihabitans	Pseudomonas oryzihabitans	90.582	0.0
+CR_157_Contig_3	47885	Pseudomonas oryzihabitans	Pseudomonas oryzihabitans	89.249	0.0
+CR_157_Contig_4	47885	Pseudomonas oryzihabitans	Pseudomonas oryzihabitans	91.964	0.0
+CR_157_Contig_5	47885	Pseudomonas oryzihabitans	Pseudomonas oryzihabitans	91.734	0.0
+CR_158_Contig_0	35703	Citrobacter amalonaticus	Citrobacter amalonaticus	99.997	0.0
+CR_158_Contig_1	35703	Citrobacter amalonaticus	Citrobacter amalonaticus	99.983	0.0
+CR_159_Contig_0	585	Proteus vulgaris	Proteus vulgaris	100.000	0.0
+CR_15_Contig_0	2083199	Mosso das Pedras virus	Mosso das Pedras virus	99.949	0.0
+CR_15_Contig_1	2083199	Mosso das Pedras virus	Mosso das Pedras virus	99.829	0.0
+CR_160_Contig_0	470934	Pantoea vagans	Pantoea vagans	95.461	0.0
+CR_160_Contig_1	470934	Pantoea vagans	Pantoea vagans	95.079	0.0
+CR_160_Contig_2	712898	Pantoea vagans C9-1	Pantoea vagans C9-1	86.092	0.0
+CR_160_Contig_3	712898	Pantoea vagans C9-1	Pantoea vagans C9-1	97.103	0.0
+CR_160_Contig_4	712898	Pantoea vagans C9-1	Pantoea vagans C9-1	95.725	0.0
+CR_161_Contig_0	648	Aeromonas caviae	Aeromonas caviae	99.982	0.0
+CR_163_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.999	0.0
+CR_163_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.989	0.0
+CR_164_Contig_0	29385	Staphylococcus saprophyticus	Staphylococcus saprophyticus	99.971	0.0
+CR_164_Contig_1	29385	Staphylococcus saprophyticus	Staphylococcus saprophyticus	99.992	0.0
+CR_164_Contig_2	29385	Staphylococcus saprophyticus	Staphylococcus saprophyticus	99.992	0.0
+CR_165_Contig_0	548479	Mobiluncus curtisii ATCC 43063	Mobiluncus curtisii ATCC 43063	96.821	0.0
+CR_165_Contig_1	548479	Mobiluncus curtisii ATCC 43063	Mobiluncus curtisii ATCC 43063	93.053	0.0
+CR_165_Contig_2	556288	Brachybacterium saurashtrense	Brachybacterium saurashtrense	76.275	4.79e-64
+CR_165_Contig_3	548479	Mobiluncus curtisii ATCC 43063	Mobiluncus curtisii ATCC 43063	98.325	0.0
+CR_165_Contig_4	548479	Mobiluncus curtisii ATCC 43063	Mobiluncus curtisii ATCC 43063	93.158	0.0
+CR_166_Contig_0	186538	Zaire ebolavirus	Zaire ebolavirus	100.000	0.0
+CR_167_Contig_0	767029	Pseudopropionibacterium propionicum F0230a	Pseudopropionibacterium propionicum F0230a	99.994	0.0
+CR_168_Contig_0	1496	Clostridioides difficile	Clostridioides difficile	99.977	0.0
+CR_168_Contig_1	1496	Clostridioides difficile	Clostridioides difficile	99.982	0.0
+CR_168_Contig_2	1496	Clostridioides difficile	Clostridioides difficile	99.983	0.0
+CR_169_Contig_0	1352	Enterococcus faecium	Enterococcus faecium	99.959	0.0
+CR_169_Contig_1	1352	Enterococcus faecium	Enterococcus faecium	99.987	0.0
+CR_169_Contig_2	1352	Enterococcus faecium	Enterococcus faecium	99.997	0.0
+CR_169_Contig_3	1352	Enterococcus faecium	Enterococcus faecium	98.361	0.0
+CR_169_Contig_4	1352	Enterococcus faecium	Enterococcus faecium	99.698	0.0
+CR_169_Contig_5	333849	Enterococcus faecium DO	Enterococcus faecium DO	99.090	0.0
+CR_169_Contig_6	1352	Enterococcus faecium	Enterococcus faecium	99.791	0.0
+CR_169_Contig_7	1352	Enterococcus faecium	Enterococcus faecium	99.964	0.0
+CR_16_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.999	0.0
+CR_16_Contig_1	53369	Staphylococcus virus 80alpha	Staphylococcus virus 80alpha	99.910	0.0
+CR_16_Contig_2	93061	Staphylococcus aureus subsp. aureus NCTC 8325	Staphylococcus aureus subsp. aureus NCTC 8325	99.934	0.0
+CR_170_Contig_0	666	Vibrio cholerae	Vibrio cholerae	99.996	0.0
+CR_170_Contig_1	666	Vibrio cholerae	Vibrio cholerae	99.997	0.0
+CR_171_Contig_0	38323	Bartonella henselae	Bartonella henselae	99.997	0.0
+CR_171_Contig_1	38323	Bartonella henselae	Bartonella henselae	99.515	0.0
+CR_172_Contig_0	1839800	Yersinia sp. FDAARGOS_228	Yersinia sp. FDAARGOS_228	99.996	0.0
+CR_173_Contig_0	38289	Corynebacterium jeikeium	Corynebacterium jeikeium	99.996	0.0
+CR_174_Contig_0	36855	Brucella canis	Brucella canis	99.998	0.0
+CR_174_Contig_1	36855	Brucella canis	Brucella canis	99.998	0.0
+CR_175_Contig_0	273123	Yersinia pseudotuberculosis IP 32953	Yersinia pseudotuberculosis IP 32953	99.828	0.0
+CR_175_Contig_1	633	Yersinia pseudotuberculosis	Yersinia pseudotuberculosis	99.544	0.0
+CR_176_Contig_0	271848	Burkholderia thailandensis E264	Burkholderia thailandensis E264	99.995	0.0
+CR_176_Contig_1	1249660	Burkholderia thailandensis 2002721643	Burkholderia thailandensis 2002721643	99.999	0.0
+CR_176_Contig_2	1249660	Burkholderia thailandensis 2002721643	Burkholderia thailandensis 2002721643	99.919	0.0
+CR_177_Contig_0	95486	Burkholderia cenocepacia	Burkholderia cenocepacia	99.977	0.0
+CR_177_Contig_1	95486	Burkholderia cenocepacia	Burkholderia cenocepacia	99.940	0.0
+CR_177_Contig_2	95486	Burkholderia cenocepacia	Burkholderia cenocepacia	99.977	0.0
+CR_177_Contig_3	95486	Burkholderia cenocepacia	Burkholderia cenocepacia	99.160	0.0
+CR_177_Contig_4	95486	Burkholderia cenocepacia	Burkholderia cenocepacia	99.069	0.0
+CR_177_Contig_5	1839799	Streptococcus sp. FDAARGOS_192	Streptococcus sp. FDAARGOS_192	99.333	0.0
+CR_178_Contig_0	747	Pasteurella multocida	Pasteurella multocida	100.000	0.0
+CR_178_Contig_1	747	Pasteurella multocida	Pasteurella multocida	99.999	0.0
+CR_179_Contig_0	37124	Chikungunya virus	Chikungunya virus	99.983	0.0
+CR_17_Contig_0	85698	Achromobacter xylosoxidans	Achromobacter xylosoxidans	99.991	0.0
+CR_17_Contig_1	85698	Achromobacter xylosoxidans	Achromobacter xylosoxidans	99.992	0.0
+CR_180_Contig_0	663	Vibrio alginolyticus	Vibrio alginolyticus	100.000	0.0
+CR_180_Contig_1	1219076	Vibrio alginolyticus NBRC 15630 = ATCC 17749	Vibrio alginolyticus NBRC 15630 = ATCC 17749	99.989	0.0
+CR_181_Contig_0	1261127	Citrobacter amalonaticus Y19	Citrobacter amalonaticus Y19	99.529	0.0
+CR_181_Contig_1	546367	Hafnia paralvei	Hafnia paralvei	98.805	0.0
+CR_181_Contig_2	546367	Hafnia paralvei	Hafnia paralvei	98.755	0.0
+CR_181_Contig_3	546367	Hafnia paralvei	Hafnia paralvei	99.480	0.0
+CR_181_Contig_4	546367	Hafnia paralvei	Hafnia paralvei	98.903	0.0
+CR_181_Contig_5	657337	Rahnella sp. WMR66	Rahnella sp. WMR66	79.229	0.0
+CR_181_Contig_6	569	Hafnia alvei	Hafnia alvei	100.000	0.0
+CR_182_Contig_0	339670	Burkholderia ambifaria AMMD	Burkholderia ambifaria AMMD	99.995	0.0
+CR_182_Contig_1	339670	Burkholderia ambifaria AMMD	Burkholderia ambifaria AMMD	99.994	0.0
+CR_182_Contig_2	1842727	Rhodoferax koreense	Rhodoferax koreense	99.982	0.0
+CR_182_Contig_3	339670	Burkholderia ambifaria AMMD	Burkholderia ambifaria AMMD	99.993	0.0
+CR_183_Contig_0	615	Serratia marcescens	Serratia marcescens	96.432	0.0
+CR_183_Contig_1	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.813	0.0
+CR_183_Contig_2	548	Klebsiella aerogenes	Klebsiella aerogenes	97.378	0.0
+CR_183_Contig_3	545	Citrobacter koseri	Citrobacter koseri	99.980	0.0
+CR_183_Contig_4	545	Citrobacter koseri	Citrobacter koseri	99.620	0.0
+CR_183_Contig_5	1420013	Klebsiella pneumoniae 30684/NJST258_2	Klebsiella pneumoniae 30684/NJST258_2	98.797	0.0
+CR_183_Contig_6	615	Serratia marcescens	Serratia marcescens	96.103	0.0
+CR_183_Contig_7	615	Serratia marcescens	Serratia marcescens	94.964	0.0
+CR_183_Contig_8	562	Escherichia coli	Escherichia coli	96.431	0.0
+CR_183_Contig_9	545	Citrobacter koseri	Citrobacter koseri	99.100	0.0
+CR_183_Contig_10	545	Citrobacter koseri	Citrobacter koseri	99.984	0.0
+CR_183_Contig_11	573	Klebsiella pneumoniae	Klebsiella pneumoniae	94.750	0.0
+CR_183_Contig_12	615	Serratia marcescens	Serratia marcescens	94.756	0.0
+CR_184_Contig_0	1352	Enterococcus faecium	Enterococcus faecium	99.993	0.0
+CR_184_Contig_1	1352	Enterococcus faecium	Enterococcus faecium	99.853	0.0
+CR_185_Contig_0	663	Vibrio alginolyticus	Vibrio alginolyticus	100.000	0.0
+CR_185_Contig_1	663	Vibrio alginolyticus	Vibrio alginolyticus	100.000	0.0
+CR_186_Contig_0	1440170	Madariaga virus	Madariaga virus	99.965	0.0
+CR_187_Contig_0	1338	Streptococcus intermedius	Streptococcus intermedius	99.994	0.0
+CR_188_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_189_Contig_0	210	Helicobacter pylori	Helicobacter pylori	99.987	0.0
+CR_18_Contig_0	1920107	Aeromonas sp. ASNIH7	Aeromonas sp. ASNIH7	99.144	0.0
+CR_18_Contig_1	67780	Edwardsiella ictaluri	Edwardsiella ictaluri	87.837	0.0
+CR_18_Contig_2	1920107	Aeromonas sp. ASNIH7	Aeromonas sp. ASNIH7	99.512	0.0
+CR_18_Contig_3	648	Aeromonas caviae	Aeromonas caviae	97.847	0.0
+CR_18_Contig_4	1636606	Aeromonas sp. ASNIH1	Aeromonas sp. ASNIH1	99.568	0.0
+CR_18_Contig_5	1324960	Aeromonas salmonicida subsp. pectinolytica 34mel	Aeromonas salmonicida subsp. pectinolytica 34mel	99.934	0.0
+CR_18_Contig_6	80866	Delftia acidovorans	Delftia acidovorans	96.856	0.0
+CR_18_Contig_7	1920107	Aeromonas sp. ASNIH7	Aeromonas sp. ASNIH7	98.988	0.0
+CR_18_Contig_8	645	Aeromonas salmonicida	Aeromonas salmonicida	95.719	0.0
+CR_18_Contig_9	1920107	Aeromonas sp. ASNIH7	Aeromonas sp. ASNIH7	99.380	0.0
+CR_190_Contig_0	272560	Burkholderia pseudomallei K96243	Burkholderia pseudomallei K96243	99.846	0.0
+CR_190_Contig_1	28450	Burkholderia pseudomallei	Burkholderia pseudomallei	99.824	0.0
+CR_191_Contig_0	573	Klebsiella pneumoniae	Klebsiella pneumoniae	96.560	0.0
+CR_191_Contig_1	575	Raoultella planticola	Raoultella planticola	99.986	0.0
+CR_191_Contig_2	548	Klebsiella aerogenes	Klebsiella aerogenes	99.730	0.0
+CR_191_Contig_3	575	Raoultella planticola	Raoultella planticola	99.990	0.0
+CR_192_Contig_0	28901	Salmonella enterica	Salmonella enterica	99.946	0.0
+CR_192_Contig_1	1271864	Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN002069	Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN002069	99.963	0.0
+CR_193_Contig_0	999541	Burkholderia gladioli BSR3	Burkholderia gladioli BSR3	99.207	0.0
+CR_193_Contig_1	32009	Burkholderia gladioli pv. gladioli	Burkholderia gladioli pv. gladioli	99.264	0.0
+CR_193_Contig_2	32009	Burkholderia gladioli pv. gladioli	Burkholderia gladioli pv. gladioli	99.406	0.0
+CR_193_Contig_3	32009	Burkholderia gladioli pv. gladioli	Burkholderia gladioli pv. gladioli	99.361	0.0
+CR_194_Contig_0	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.977	0.0
+CR_194_Contig_1	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.978	0.0
+CR_194_Contig_2	1087440	Klebsiella pneumoniae subsp. pneumoniae KPNIH1	Klebsiella pneumoniae subsp. pneumoniae KPNIH1	99.975	0.0
+CR_195_Contig_0	5061	Aspergillus niger	Aspergillus niger	99.746	0.0
+CR_195_Contig_1	5061	Aspergillus niger	Aspergillus niger	98.829	0.0
+CR_195_Contig_2	5061	Aspergillus niger	Aspergillus niger	99.740	0.0
+CR_195_Contig_3	5061	Aspergillus niger	Aspergillus niger	99.432	0.0
+CR_195_Contig_4	5061	Aspergillus niger	Aspergillus niger	99.332	0.0
+CR_195_Contig_5	5061	Aspergillus niger	Aspergillus niger	99.334	0.0
+CR_195_Contig_6	5061	Aspergillus niger	Aspergillus niger	99.719	0.0
+CR_195_Contig_7	5061	Aspergillus niger	Aspergillus niger	99.356	0.0
+CR_195_Contig_8	5061	Aspergillus niger	Aspergillus niger	99.919	0.0
+CR_195_Contig_9	5061	Aspergillus niger	Aspergillus niger	99.430	0.0
+CR_195_Contig_10	5061	Aspergillus niger	Aspergillus niger	99.727	0.0
+CR_195_Contig_11	5061	Aspergillus niger	Aspergillus niger	99.699	0.0
+CR_195_Contig_12	5061	Aspergillus niger	Aspergillus niger	99.675	0.0
+CR_195_Contig_13	5061	Aspergillus niger	Aspergillus niger	98.766	0.0
+CR_195_Contig_14	5061	Aspergillus niger	Aspergillus niger	98.448	0.0
+CR_195_Contig_15	5061	Aspergillus niger	Aspergillus niger	98.303	0.0
+CR_195_Contig_16	5061	Aspergillus niger	Aspergillus niger	89.159	3.51e-153
+CR_195_Contig_17	5061	Aspergillus niger	Aspergillus niger	97.122	0.0
+CR_195_Contig_18	5061	Aspergillus niger	Aspergillus niger	83.566	3.95e-142
+CR_195_Contig_19	5061	Aspergillus niger	Aspergillus niger	97.300	0.0
+CR_195_Contig_20	5061	Aspergillus niger	Aspergillus niger	94.122	0.0
+CR_195_Contig_21	5061	Aspergillus niger	Aspergillus niger	92.835	0.0
+CR_195_Contig_22	5061	Aspergillus niger	Aspergillus niger	97.188	0.0
+CR_195_Contig_23	510516	Aspergillus oryzae RIB40	Aspergillus oryzae RIB40	90.809	0.0
+CR_195_Contig_24	5061	Aspergillus niger	Aspergillus niger	88.777	0.0
+CR_196_Contig_0	562	Escherichia coli	Escherichia coli	99.956	0.0
+CR_196_Contig_1	562	Escherichia coli	Escherichia coli	99.987	0.0
+CR_197_Contig_0	862969	Streptococcus constellatus subsp. pharyngis C1050	Streptococcus constellatus subsp. pharyngis C1050	96.990	0.0
+CR_198_Contig_0	669	Vibrio harveyi	Vibrio harveyi	98.755	0.0
+CR_198_Contig_1	669	Vibrio harveyi	Vibrio harveyi	99.095	0.0
+CR_199_Contig_0	571	Klebsiella oxytoca	Klebsiella oxytoca	99.971	0.0
+CR_199_Contig_1	571	Klebsiella oxytoca	Klebsiella oxytoca	99.932	0.0
+CR_199_Contig_2	575	Raoultella planticola	Raoultella planticola	99.966	0.0
+CR_199_Contig_3	571	Klebsiella oxytoca	Klebsiella oxytoca	99.977	0.0
+CR_199_Contig_4	571	Klebsiella oxytoca	Klebsiella oxytoca	99.971	0.0
+CR_199_Contig_5	571	Klebsiella oxytoca	Klebsiella oxytoca	99.274	0.0
+CR_199_Contig_6	571	Klebsiella oxytoca	Klebsiella oxytoca	99.981	0.0
+CR_19_Contig_0	2018067	Pseudomonas sp. FDAARGOS_380	Pseudomonas sp. FDAARGOS_380	100.000	0.0
+CR_1_Contig_0	670	Vibrio parahaemolyticus	Vibrio parahaemolyticus	99.813	0.0
+CR_1_Contig_1	1429044	Vibrio parahaemolyticus UCM-V493	Vibrio parahaemolyticus UCM-V493	99.641	0.0
+CR_1_Contig_2	670	Vibrio parahaemolyticus	Vibrio parahaemolyticus	99.927	0.0
+CR_1_Contig_3	670	Vibrio parahaemolyticus	Vibrio parahaemolyticus	99.976	0.0
+CR_1_Contig_4	670	Vibrio parahaemolyticus	Vibrio parahaemolyticus	99.901	0.0
+CR_1_Contig_5	670	Vibrio parahaemolyticus	Vibrio parahaemolyticus	99.891	0.0
+CR_1_Contig_6	670	Vibrio parahaemolyticus	Vibrio parahaemolyticus	99.992	0.0
+CR_1_Contig_7	670	Vibrio parahaemolyticus	Vibrio parahaemolyticus	99.983	0.0
+CR_200_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.984	0.0
+CR_200_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.828	0.0
+CR_200_Contig_2	1280	Staphylococcus aureus	Staphylococcus aureus	99.870	0.0
+CR_200_Contig_3	1280	Staphylococcus aureus	Staphylococcus aureus	99.971	0.0
+CR_201_Contig_0	186538	Zaire ebolavirus	Zaire ebolavirus	99.974	0.0
+CR_202_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.995	0.0
+CR_203_Contig_0	263	Francisella tularensis	Francisella tularensis	99.932	0.0
+CR_203_Contig_1	510831	Francisella tularensis subsp. tularensis NE061598	Francisella tularensis subsp. tularensis NE061598	99.989	0.0
+CR_204_Contig_0	669	Vibrio harveyi	Vibrio harveyi	99.999	0.0
+CR_204_Contig_1	669	Vibrio harveyi	Vibrio harveyi	99.999	0.0
+CR_205_Contig_0	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.991	0.0
+CR_205_Contig_1	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.994	0.0
+CR_205_Contig_2	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.983	0.0
+CR_205_Contig_3	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.996	0.0
+CR_205_Contig_4	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.995	0.0
+CR_205_Contig_5	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.988	0.0
+CR_206_Contig_0	672	Vibrio vulnificus	Vibrio vulnificus	98.518	0.0
+CR_206_Contig_1	672	Vibrio vulnificus	Vibrio vulnificus	99.056	0.0
+CR_207_Contig_0	1176492	Burkholderia glumae LMG 2196 = ATCC 33617	Burkholderia glumae LMG 2196 = ATCC 33617	99.995	0.0
+CR_207_Contig_1	1176492	Burkholderia glumae LMG 2196 = ATCC 33617	Burkholderia glumae LMG 2196 = ATCC 33617	99.993	0.0
+CR_207_Contig_2	1176492	Burkholderia glumae LMG 2196 = ATCC 33617	Burkholderia glumae LMG 2196 = ATCC 33617	99.997	0.0
+CR_207_Contig_3	1176492	Burkholderia glumae LMG 2196 = ATCC 33617	Burkholderia glumae LMG 2196 = ATCC 33617	99.966	0.0
+CR_208_Contig_0	64320	Zika virus	Zika virus	99.879	0.0
+CR_209_Contig_0	1270	Micrococcus luteus	Micrococcus luteus	99.646	0.0
+CR_20_Contig_0	1639	Listeria monocytogenes	Listeria monocytogenes	98.539	0.0
+CR_20_Contig_1	1196161	Listeria monocytogenes serotype 4b str. 81-0861	Listeria monocytogenes serotype 4b str. 81-0861	98.043	0.0
+CR_20_Contig_2	1196162	Listeria monocytogenes serotype 4b str. 10-0809	Listeria monocytogenes serotype 4b str. 10-0809	99.052	0.0
+CR_20_Contig_3	265669	Listeria monocytogenes serotype 4b str. F2365	Listeria monocytogenes serotype 4b str. F2365	97.668	0.0
+CR_20_Contig_4	265669	Listeria monocytogenes serotype 4b str. F2365	Listeria monocytogenes serotype 4b str. F2365	99.909	0.0
+CR_210_Contig_0	64320	Zika virus	Zika virus	100.000	9.22e-112
+CR_210_Contig_1	64320	Zika virus	Zika virus	99.878	0.0
+CR_210_Contig_2	64320	Zika virus	Zika virus	99.857	0.0
+CR_211_Contig_0	624	Shigella sonnei	Shigella sonnei	100.000	0.0
+CR_211_Contig_1	624	Shigella sonnei	Shigella sonnei	100.000	0.0
+CR_211_Contig_2	624	Shigella sonnei	Shigella sonnei	100.000	0.0
+CR_211_Contig_3	624	Shigella sonnei	Shigella sonnei	99.993	0.0
+CR_211_Contig_4	624	Shigella sonnei	Shigella sonnei	99.874	0.0
+CR_211_Contig_5	624	Shigella sonnei	Shigella sonnei	99.998	0.0
+CR_212_Contig_0	93061	Staphylococcus aureus subsp. aureus NCTC 8325	Staphylococcus aureus subsp. aureus NCTC 8325	98.691	0.0
+CR_212_Contig_1	93061	Staphylococcus aureus subsp. aureus NCTC 8325	Staphylococcus aureus subsp. aureus NCTC 8325	99.301	0.0
+CR_212_Contig_2	93061	Staphylococcus aureus subsp. aureus NCTC 8325	Staphylococcus aureus subsp. aureus NCTC 8325	99.996	0.0
+CR_212_Contig_3	1280	Staphylococcus aureus	Staphylococcus aureus	99.997	0.0
+CR_212_Contig_4	1280	Staphylococcus aureus	Staphylococcus aureus	99.897	0.0
+CR_212_Contig_5	93061	Staphylococcus aureus subsp. aureus NCTC 8325	Staphylococcus aureus subsp. aureus NCTC 8325	99.995	0.0
+CR_212_Contig_6	93061	Staphylococcus aureus subsp. aureus NCTC 8325	Staphylococcus aureus subsp. aureus NCTC 8325	99.999	0.0
+CR_212_Contig_7	1280	Staphylococcus aureus	Staphylococcus aureus	99.963	0.0
+CR_212_Contig_8	1280	Staphylococcus aureus	Staphylococcus aureus	99.910	0.0
+CR_212_Contig_9	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_212_Contig_10	93061	Staphylococcus aureus subsp. aureus NCTC 8325	Staphylococcus aureus subsp. aureus NCTC 8325	99.903	0.0
+CR_212_Contig_11	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_212_Contig_12	93061	Staphylococcus aureus subsp. aureus NCTC 8325	Staphylococcus aureus subsp. aureus NCTC 8325	99.955	0.0
+CR_212_Contig_13	1280	Staphylococcus aureus	Staphylococcus aureus	99.999	0.0
+CR_213_Contig_0	59201	Salmonella enterica subsp. enterica	Salmonella enterica subsp. enterica	87.826	0.0
+CR_213_Contig_1	569	Hafnia alvei	Hafnia alvei	98.862	0.0
+CR_213_Contig_2	1453496	Hafnia alvei FB1	Hafnia alvei FB1	94.355	0.0
+CR_214_Contig_0	50719	Vibrio diabolicus	Vibrio diabolicus	99.930	0.0
+CR_214_Contig_1	50719	Vibrio diabolicus	Vibrio diabolicus	99.996	0.0
+CR_214_Contig_2	50719	Vibrio diabolicus	Vibrio diabolicus	99.912	0.0
+CR_215_Contig_0	747	Pasteurella multocida	Pasteurella multocida	99.965	0.0
+CR_215_Contig_1	747	Pasteurella multocida	Pasteurella multocida	99.961	0.0
+CR_215_Contig_2	747	Pasteurella multocida	Pasteurella multocida	99.950	0.0
+CR_215_Contig_3	747	Pasteurella multocida	Pasteurella multocida	99.942	0.0
+CR_215_Contig_4	747	Pasteurella multocida	Pasteurella multocida	99.960	0.0
+CR_215_Contig_5	747	Pasteurella multocida	Pasteurella multocida	99.835	0.0
+CR_215_Contig_6	747	Pasteurella multocida	Pasteurella multocida	97.748	0.0
+CR_216_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_216_Contig_1	93061	Staphylococcus aureus subsp. aureus NCTC 8325	Staphylococcus aureus subsp. aureus NCTC 8325	93.818	0.0
+CR_216_Contig_2	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_217_Contig_0	40324	Stenotrophomonas maltophilia	Stenotrophomonas maltophilia	99.989	0.0
+CR_218_Contig_0	1353	Enterococcus gallinarum	Enterococcus gallinarum	99.994	0.0
+CR_218_Contig_1	1353	Enterococcus gallinarum	Enterococcus gallinarum	99.997	0.0
+CR_219_Contig_0	1338035	Campylobacter jejuni 32488	Campylobacter jejuni 32488	99.009	0.0
+CR_219_Contig_1	197	Campylobacter jejuni	Campylobacter jejuni	98.174	0.0
+CR_21_Contig_0	1303	Streptococcus oralis	Streptococcus oralis	96.464	0.0
+CR_21_Contig_1	1303	Streptococcus oralis	Streptococcus oralis	97.061	0.0
+CR_220_Contig_0	1354	Enterococcus hirae	Enterococcus hirae	99.993	0.0
+CR_221_Contig_0	287	Pseudomonas aeruginosa	Pseudomonas aeruginosa	99.992	0.0
+CR_221_Contig_1	287	Pseudomonas aeruginosa	Pseudomonas aeruginosa	99.996	0.0
+CR_222_Contig_0	126385	Providencia alcalifaciens	Providencia alcalifaciens	99.964	0.0
+CR_223_Contig_0	546367	Hafnia paralvei	Hafnia paralvei	99.994	0.0
+CR_224_Contig_0	83655	Leclercia adecarboxylata	Leclercia adecarboxylata	99.335	0.0
+CR_224_Contig_1	35703	Citrobacter amalonaticus	Citrobacter amalonaticus	93.855	0.0
+CR_225_Contig_0	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.986	0.0
+CR_225_Contig_1	562	Escherichia coli	Escherichia coli	99.455	0.0
+CR_225_Contig_2	61647	Pluralibacter gergoviae	Pluralibacter gergoviae	98.996	0.0
+CR_226_Contig_0	186538	Zaire ebolavirus	Zaire ebolavirus	99.995	0.0
+CR_227_Contig_0	59201	Salmonella enterica subsp. enterica	Salmonella enterica subsp. enterica	99.980	0.0
+CR_227_Contig_1	85569	Salmonella enterica subsp. enterica serovar Typhimurium str. DT104	Salmonella enterica subsp. enterica serovar Typhimurium str. DT104	99.977	0.0
+CR_228_Contig_0	360102	Yersinia pestis Antiqua	Yersinia pestis Antiqua	99.998	0.0
+CR_228_Contig_1	349746	Yersinia pestis Angola	Yersinia pestis Angola	99.906	0.0
+CR_228_Contig_2	360102	Yersinia pestis Antiqua	Yersinia pestis Antiqua	99.999	0.0
+CR_228_Contig_3	360102	Yersinia pestis Antiqua	Yersinia pestis Antiqua	99.911	0.0
+CR_229_Contig_0	333849	Enterococcus faecium DO	Enterococcus faecium DO	98.314	0.0
+CR_229_Contig_1	1352	Enterococcus faecium	Enterococcus faecium	99.913	0.0
+CR_229_Contig_2	1352	Enterococcus faecium	Enterococcus faecium	99.922	0.0
+CR_229_Contig_3	1155766	Enterococcus faecium Aus0004	Enterococcus faecium Aus0004	99.042	0.0
+CR_229_Contig_4	1352	Enterococcus faecium	Enterococcus faecium	99.964	0.0
+CR_229_Contig_5	1352	Enterococcus faecium	Enterococcus faecium	98.319	0.0
+CR_229_Contig_6	1352	Enterococcus faecium	Enterococcus faecium	99.694	0.0
+CR_229_Contig_7	333849	Enterococcus faecium DO	Enterococcus faecium DO	98.744	0.0
+CR_22_Contig_0	571	Klebsiella oxytoca	Klebsiella oxytoca	99.993	0.0
+CR_22_Contig_1	571	Klebsiella oxytoca	Klebsiella oxytoca	99.994	0.0
+CR_230_Contig_0	562	Escherichia coli	Escherichia coli	99.905	0.0
+CR_230_Contig_1	83334	Escherichia coli O157:H7	Escherichia coli O157:H7	99.985	0.0
+CR_230_Contig_2	194948	Escherichia Stx1 converting phage	Escherichia Stx1 converting phage	99.788	0.0
+CR_231_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.986	0.0
+CR_231_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.973	0.0
+CR_231_Contig_2	1006543	Staphylococcus aureus subsp. aureus T0131	Staphylococcus aureus subsp. aureus T0131	99.890	0.0
+CR_231_Contig_3	93061	Staphylococcus aureus subsp. aureus NCTC 8325	Staphylococcus aureus subsp. aureus NCTC 8325	99.891	0.0
+CR_231_Contig_4	1280	Staphylococcus aureus	Staphylococcus aureus	99.991	0.0
+CR_231_Contig_5	1280	Staphylococcus aureus	Staphylococcus aureus	99.997	0.0
+CR_231_Contig_6	1280	Staphylococcus aureus	Staphylococcus aureus	99.541	0.0
+CR_231_Contig_7	1280	Staphylococcus aureus	Staphylococcus aureus	99.560	0.0
+CR_231_Contig_8	1280	Staphylococcus aureus	Staphylococcus aureus	99.980	0.0
+CR_231_Contig_9	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_231_Contig_10	1280	Staphylococcus aureus	Staphylococcus aureus	99.965	0.0
+CR_231_Contig_11	1381115	Staphylococcus aureus subsp. aureus Tager 104	Staphylococcus aureus subsp. aureus Tager 104	99.119	0.0
+CR_231_Contig_12	1280	Staphylococcus aureus	Staphylococcus aureus	99.981	0.0
+CR_232_Contig_0	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.967	0.0
+CR_232_Contig_1	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.985	0.0
+CR_232_Contig_2	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.977	0.0
+CR_232_Contig_3	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.992	0.0
+CR_232_Contig_4	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.987	0.0
+CR_233_Contig_0	565995	Bundibugyo ebolavirus	Bundibugyo ebolavirus	100.000	0.0
+CR_234_Contig_0	28450	Burkholderia pseudomallei	Burkholderia pseudomallei	99.734	0.0
+CR_234_Contig_1	28450	Burkholderia pseudomallei	Burkholderia pseudomallei	99.348	0.0
+CR_235_Contig_0	747	Pasteurella multocida	Pasteurella multocida	100.000	0.0
+CR_236_Contig_0	93062	Staphylococcus aureus subsp. aureus COL	Staphylococcus aureus subsp. aureus COL	99.995	0.0
+CR_237_Contig_0	90105	Salmonella enterica subsp. enterica serovar Saintpaul	Salmonella enterica subsp. enterica serovar Saintpaul	100.000	0.0
+CR_238_Contig_0	562	Escherichia coli	Escherichia coli	99.998	0.0
+CR_238_Contig_1	562	Escherichia coli	Escherichia coli	99.321	0.0
+CR_238_Contig_2	562	Escherichia coli	Escherichia coli	99.939	0.0
+CR_238_Contig_3	562	Escherichia coli	Escherichia coli	99.942	0.0
+CR_238_Contig_4	562	Escherichia coli	Escherichia coli	99.987	0.0
+CR_238_Contig_5	562	Escherichia coli	Escherichia coli	99.075	0.0
+CR_238_Contig_6	562	Escherichia coli	Escherichia coli	99.475	0.0
+CR_238_Contig_7	562	Escherichia coli	Escherichia coli	99.909	0.0
+CR_238_Contig_8	562	Escherichia coli	Escherichia coli	99.145	0.0
+CR_238_Contig_9	562	Escherichia coli	Escherichia coli	99.978	0.0
+CR_238_Contig_10	562	Escherichia coli	Escherichia coli	99.944	0.0
+CR_238_Contig_11	562	Escherichia coli	Escherichia coli	99.961	0.0
+CR_238_Contig_12	562	Escherichia coli	Escherichia coli	99.902	0.0
+CR_238_Contig_13	562	Escherichia coli	Escherichia coli	99.509	0.0
+CR_238_Contig_14	562	Escherichia coli	Escherichia coli	100.000	0.0
+CR_238_Contig_15	562	Escherichia coli	Escherichia coli	99.959	0.0
+CR_238_Contig_16	562	Escherichia coli	Escherichia coli	99.975	0.0
+CR_238_Contig_17	562	Escherichia coli	Escherichia coli	99.985	0.0
+CR_238_Contig_18	562	Escherichia coli	Escherichia coli	99.966	0.0
+CR_239_Contig_0	1352	Enterococcus faecium	Enterococcus faecium	99.774	0.0
+CR_239_Contig_1	1352	Enterococcus faecium	Enterococcus faecium	98.903	0.0
+CR_239_Contig_2	1352	Enterococcus faecium	Enterococcus faecium	99.839	0.0
+CR_239_Contig_3	1352	Enterococcus faecium	Enterococcus faecium	98.147	0.0
+CR_239_Contig_4	1155766	Enterococcus faecium Aus0004	Enterococcus faecium Aus0004	99.897	0.0
+CR_23_Contig_0	61651	Serratia ficaria	Serratia ficaria	86.374	0.0
+CR_23_Contig_1	615	Serratia marcescens	Serratia marcescens	84.825	0.0
+CR_23_Contig_2	61651	Serratia ficaria	Serratia ficaria	90.989	0.0
+CR_23_Contig_3	573	Klebsiella pneumoniae	Klebsiella pneumoniae	97.233	0.0
+CR_23_Contig_4	554	Pectobacterium carotovorum	Pectobacterium carotovorum	94.231	0.0
+CR_23_Contig_5	615	Serratia marcescens	Serratia marcescens	87.206	0.0
+CR_240_Contig_0	93218	Pandoraea apista	Pandoraea apista	99.994	0.0
+CR_241_Contig_0	85698	Achromobacter xylosoxidans	Achromobacter xylosoxidans	99.909	0.0
+CR_242_Contig_0	582	Morganella morganii	Morganella morganii	100.000	0.0
+CR_242_Contig_1	582	Morganella morganii	Morganella morganii	99.291	0.0
+CR_242_Contig_2	582	Morganella morganii	Morganella morganii	100.000	0.0
+CR_243_Contig_0	631	Yersinia intermedia	Yersinia intermedia	99.975	0.0
+CR_244_Contig_0	1290	Staphylococcus hominis	Staphylococcus hominis	100.000	0.0
+CR_244_Contig_1	1290	Staphylococcus hominis	Staphylococcus hominis	100.000	0.0
+CR_244_Contig_2	1290	Staphylococcus hominis	Staphylococcus hominis	100.000	0.0
+CR_244_Contig_3	1290	Staphylococcus hominis	Staphylococcus hominis	99.987	0.0
+CR_244_Contig_4	1290	Staphylococcus hominis	Staphylococcus hominis	98.832	0.0
+CR_244_Contig_5	1290	Staphylococcus hominis	Staphylococcus hominis	99.838	0.0
+CR_244_Contig_6	1290	Staphylococcus hominis	Staphylococcus hominis	100.000	0.0
+CR_245_Contig_0	57975	Burkholderia thailandensis	Burkholderia thailandensis	99.980	0.0
+CR_245_Contig_1	57975	Burkholderia thailandensis	Burkholderia thailandensis	99.981	0.0
+CR_246_Contig_0	1282	Staphylococcus epidermidis	Staphylococcus epidermidis	100.000	0.0
+CR_246_Contig_1	1282	Staphylococcus epidermidis	Staphylococcus epidermidis	100.000	0.0
+CR_246_Contig_2	1282	Staphylococcus epidermidis	Staphylococcus epidermidis	100.000	0.0
+CR_247_Contig_0	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.821	0.0
+CR_247_Contig_1	574	Klebsiella pneumoniae subsp. ozaenae	Klebsiella pneumoniae subsp. ozaenae	99.969	0.0
+CR_247_Contig_2	550	Enterobacter cloacae	Enterobacter cloacae	99.537	0.0
+CR_248_Contig_0	1117645	Elizabethkingia anophelis	Elizabethkingia anophelis	99.999	0.0
+CR_249_Contig_0	562	Escherichia coli	Escherichia coli	99.892	0.0
+CR_249_Contig_1	562	Escherichia coli	Escherichia coli	99.979	0.0
+CR_249_Contig_2	562	Escherichia coli	Escherichia coli	99.992	0.0
+CR_249_Contig_3	562	Escherichia coli	Escherichia coli	99.978	0.0
+CR_24_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.989	0.0
+CR_24_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.988	0.0
+CR_24_Contig_2	1280	Staphylococcus aureus	Staphylococcus aureus	99.992	0.0
+CR_24_Contig_3	1280	Staphylococcus aureus	Staphylococcus aureus	98.948	0.0
+CR_24_Contig_4	1280	Staphylococcus aureus	Staphylococcus aureus	99.929	0.0
+CR_24_Contig_5	1280	Staphylococcus aureus	Staphylococcus aureus	99.686	0.0
+CR_250_Contig_0	584	Proteus mirabilis	Proteus mirabilis	99.998	0.0
+CR_251_Contig_0	548	Klebsiella aerogenes	Klebsiella aerogenes	99.989	0.0
+CR_252_Contig_0	57706	Citrobacter braakii	Citrobacter braakii	99.996	0.0
+CR_253_Contig_0	584	Proteus mirabilis	Proteus mirabilis	99.994	0.0
+CR_253_Contig_1	584	Proteus mirabilis	Proteus mirabilis	99.971	0.0
+CR_253_Contig_2	584	Proteus mirabilis	Proteus mirabilis	99.989	0.0
+CR_254_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.999	0.0
+CR_255_Contig_0	28035	Staphylococcus lugdunensis	Staphylococcus lugdunensis	99.997	0.0
+CR_256_Contig_0	1311	Streptococcus agalactiae	Streptococcus agalactiae	99.993	0.0
+CR_257_Contig_0	28901	Salmonella enterica	Salmonella enterica	99.987	0.0
+CR_257_Contig_1	1271862	Salmonella enterica subsp. enterica serovar Typhimurium var. 5- str. CFSAN001921	Salmonella enterica subsp. enterica serovar Typhimurium var. 5- str. CFSAN001921	99.989	0.0
+CR_257_Contig_2	28901	Salmonella enterica	Salmonella enterica	99.984	0.0
+CR_257_Contig_3	28901	Salmonella enterica	Salmonella enterica	99.980	0.0
+CR_257_Contig_4	28901	Salmonella enterica	Salmonella enterica	99.907	0.0
+CR_257_Contig_5	28901	Salmonella enterica	Salmonella enterica	99.965	0.0
+CR_258_Contig_0	518	Bordetella bronchiseptica	Bordetella bronchiseptica	99.989	0.0
+CR_259_Contig_0	485	Neisseria gonorrhoeae	Neisseria gonorrhoeae	99.954	0.0
+CR_25_Contig_0	575	Raoultella planticola	Raoultella planticola	99.903	0.0
+CR_25_Contig_1	575	Raoultella planticola	Raoultella planticola	99.967	0.0
+CR_25_Contig_2	575	Raoultella planticola	Raoultella planticola	99.962	0.0
+CR_260_Contig_0	93061	Staphylococcus aureus subsp. aureus NCTC 8325	Staphylococcus aureus subsp. aureus NCTC 8325	99.989	0.0
+CR_260_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.981	0.0
+CR_261_Contig_0	13373	Burkholderia mallei	Burkholderia mallei	99.996	0.0
+CR_261_Contig_1	13373	Burkholderia mallei	Burkholderia mallei	99.997	0.0
+CR_262_Contig_0	673	Grimontia hollisae	Grimontia hollisae	99.995	0.0
+CR_262_Contig_1	673	Grimontia hollisae	Grimontia hollisae	99.996	0.0
+CR_263_Contig_0	1305849	Enterococcus faecium Aus0085	Enterococcus faecium Aus0085	97.616	0.0
+CR_263_Contig_1	1351	Enterococcus faecalis	Enterococcus faecalis	96.128	0.0
+CR_263_Contig_2	160453	Enterococcus gilvus	Enterococcus gilvus	96.990	0.0
+CR_263_Contig_3	1287066	Enterococcus faecalis DENG1	Enterococcus faecalis DENG1	98.693	0.0
+CR_264_Contig_0	588	Providencia stuartii	Providencia stuartii	99.608	0.0
+CR_264_Contig_1	584	Proteus mirabilis	Proteus mirabilis	96.187	0.0
+CR_264_Contig_2	548	Klebsiella aerogenes	Klebsiella aerogenes	98.021	0.0
+CR_264_Contig_3	548	Klebsiella aerogenes	Klebsiella aerogenes	98.326	0.0
+CR_264_Contig_4	562	Escherichia coli	Escherichia coli	99.974	0.0
+CR_265_Contig_0	1938820	Serratia sp. JKS000199	Serratia sp. JKS000199	99.145	0.0
+CR_265_Contig_1	615	Serratia marcescens	Serratia marcescens	99.371	0.0
+CR_265_Contig_2	1938820	Serratia sp. JKS000199	Serratia sp. JKS000199	98.804	0.0
+CR_265_Contig_3	615	Serratia marcescens	Serratia marcescens	99.040	0.0
+CR_266_Contig_0	623	Shigella flexneri	Shigella flexneri	99.999	0.0
+CR_266_Contig_1	623	Shigella flexneri	Shigella flexneri	99.999	0.0
+CR_267_Contig_0	186538	Zaire ebolavirus	Zaire ebolavirus	100.000	0.0
+CR_268_Contig_0	1335	Streptococcus equinus	Streptococcus equinus	99.992	0.0
+CR_268_Contig_1	1335	Streptococcus equinus	Streptococcus equinus	99.994	0.0
+CR_269_Contig_0	56460	Xanthomonas vesicatoria	Xanthomonas vesicatoria	97.783	0.0
+CR_269_Contig_1	85698	Achromobacter xylosoxidans	Achromobacter xylosoxidans	98.829	0.0
+CR_269_Contig_2	85698	Achromobacter xylosoxidans	Achromobacter xylosoxidans	98.830	0.0
+CR_269_Contig_3	85698	Achromobacter xylosoxidans	Achromobacter xylosoxidans	98.928	0.0
+CR_269_Contig_4	85698	Achromobacter xylosoxidans	Achromobacter xylosoxidans	98.801	0.0
+CR_269_Contig_5	85698	Achromobacter xylosoxidans	Achromobacter xylosoxidans	98.263	0.0
+CR_269_Contig_6	85698	Achromobacter xylosoxidans	Achromobacter xylosoxidans	99.452	0.0
+CR_269_Contig_7	85698	Achromobacter xylosoxidans	Achromobacter xylosoxidans	98.568	0.0
+CR_26_Contig_0	1038927	Escherichia coli O104:H4	Escherichia coli O104:H4	99.962	0.0
+CR_26_Contig_1	1038927	Escherichia coli O104:H4	Escherichia coli O104:H4	100.000	0.0
+CR_26_Contig_2	1048254	Escherichia coli O104:H4 str. C227-11	Escherichia coli O104:H4 str. C227-11	99.972	0.0
+CR_26_Contig_3	1038927	Escherichia coli O104:H4	Escherichia coli O104:H4	99.937	0.0
+CR_26_Contig_4	1038927	Escherichia coli O104:H4	Escherichia coli O104:H4	99.995	0.0
+CR_270_Contig_0	670	Vibrio parahaemolyticus	Vibrio parahaemolyticus	98.792	0.0
+CR_270_Contig_1	670	Vibrio parahaemolyticus	Vibrio parahaemolyticus	99.360	0.0
+CR_270_Contig_2	670	Vibrio parahaemolyticus	Vibrio parahaemolyticus	99.028	0.0
+CR_271_Contig_0	29484	Yersinia frederiksenii	Yersinia frederiksenii	99.982	0.0
+CR_272_Contig_0	1314	Streptococcus pyogenes	Streptococcus pyogenes	99.987	0.0
+CR_273_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.967	0.0
+CR_273_Contig_1	46170	Staphylococcus aureus subsp. aureus	Staphylococcus aureus subsp. aureus	99.425	0.0
+CR_273_Contig_2	1280	Staphylococcus aureus	Staphylococcus aureus	99.670	0.0
+CR_274_Contig_0	2019568	Citrobacter sp. 92	Citrobacter sp. 92	98.885	0.0
+CR_275_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.999	0.0
+CR_276_Contig_0	119857	Francisella tularensis subsp. holarctica	Francisella tularensis subsp. holarctica	99.973	0.0
+CR_277_Contig_0	562	Escherichia coli	Escherichia coli	99.833	0.0
+CR_277_Contig_1	562	Escherichia coli	Escherichia coli	99.930	0.0
+CR_277_Contig_2	562	Escherichia coli	Escherichia coli	99.913	0.0
+CR_277_Contig_3	562	Escherichia coli	Escherichia coli	99.964	0.0
+CR_277_Contig_4	562	Escherichia coli	Escherichia coli	99.938	0.0
+CR_277_Contig_5	562	Escherichia coli	Escherichia coli	99.937	0.0
+CR_277_Contig_6	562	Escherichia coli	Escherichia coli	99.988	0.0
+CR_278_Contig_0	59201	Salmonella enterica subsp. enterica	Salmonella enterica subsp. enterica	99.986	0.0
+CR_278_Contig_1	990282	Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1	Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1	99.967	0.0
+CR_278_Contig_2	59201	Salmonella enterica subsp. enterica	Salmonella enterica subsp. enterica	99.965	0.0
+CR_278_Contig_3	59201	Salmonella enterica subsp. enterica	Salmonella enterica subsp. enterica	99.874	0.0
+CR_279_Contig_0	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.981	0.0
+CR_279_Contig_1	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.895	0.0
+CR_279_Contig_2	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.984	0.0
+CR_27_Contig_0	676	Vibrio fluvialis	Vibrio fluvialis	100.000	0.0
+CR_27_Contig_1	676	Vibrio fluvialis	Vibrio fluvialis	100.000	0.0
+CR_280_Contig_0	614	Serratia liquefaciens	Serratia liquefaciens	99.997	0.0
+CR_281_Contig_0	1747	Cutibacterium acnes	Cutibacterium acnes	99.979	0.0
+CR_282_Contig_0	1311	Streptococcus agalactiae	Streptococcus agalactiae	99.766	0.0
+CR_282_Contig_1	1311	Streptococcus agalactiae	Streptococcus agalactiae	99.361	0.0
+CR_282_Contig_2	1326	Streptococcus acidominimus	Streptococcus acidominimus	90.146	0.0
+CR_282_Contig_3	1326	Streptococcus acidominimus	Streptococcus acidominimus	90.146	0.0
+CR_282_Contig_4	1311	Streptococcus agalactiae	Streptococcus agalactiae	99.138	0.0
+CR_282_Contig_5	208435	Streptococcus agalactiae 2603V/R	Streptococcus agalactiae 2603V/R	98.262	0.0
+CR_282_Contig_6	1311	Streptococcus agalactiae	Streptococcus agalactiae	99.033	0.0
+CR_282_Contig_7	1307	Streptococcus suis	Streptococcus suis	82.694	0.0
+CR_282_Contig_8	1311	Streptococcus agalactiae	Streptococcus agalactiae	95.035	0.0
+CR_282_Contig_9	1311	Streptococcus agalactiae	Streptococcus agalactiae	98.904	0.0
+CR_282_Contig_10	1311	Streptococcus agalactiae	Streptococcus agalactiae	95.148	0.0
+CR_283_Contig_0	90371	Salmonella enterica subsp. enterica serovar Typhimurium	Salmonella enterica subsp. enterica serovar Typhimurium	99.983	0.0
+CR_283_Contig_1	909946	Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74	Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74	99.977	0.0
+CR_283_Contig_2	59201	Salmonella enterica subsp. enterica	Salmonella enterica subsp. enterica	99.711	0.0
+CR_283_Contig_3	90371	Salmonella enterica subsp. enterica serovar Typhimurium	Salmonella enterica subsp. enterica serovar Typhimurium	99.980	0.0
+CR_283_Contig_4	28901	Salmonella enterica	Salmonella enterica	99.484	0.0
+CR_284_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.977	0.0
+CR_284_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.997	0.0
+CR_284_Contig_2	158878	Staphylococcus aureus subsp. aureus Mu50	Staphylococcus aureus subsp. aureus Mu50	99.472	0.0
+CR_285_Contig_0	562	Escherichia coli	Escherichia coli	99.556	0.0
+CR_285_Contig_1	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.968	0.0
+CR_285_Contig_2	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.431	0.0
+CR_286_Contig_0	61646	Lelliottia amnigena	Lelliottia amnigena	99.994	0.0
+CR_287_Contig_0	332097	Rio Negro virus	Rio Negro virus	99.938	0.0
+CR_288_Contig_0	509173	Acinetobacter baumannii AYE	Acinetobacter baumannii AYE	99.959	0.0
+CR_288_Contig_1	106654	Acinetobacter nosocomialis	Acinetobacter nosocomialis	98.031	0.0
+CR_288_Contig_2	106654	Acinetobacter nosocomialis	Acinetobacter nosocomialis	99.612	0.0
+CR_288_Contig_3	470	Acinetobacter baumannii	Acinetobacter baumannii	95.558	0.0
+CR_288_Contig_4	106654	Acinetobacter nosocomialis	Acinetobacter nosocomialis	99.952	0.0
+CR_288_Contig_5	48296	Acinetobacter pittii	Acinetobacter pittii	99.911	0.0
+CR_288_Contig_6	48296	Acinetobacter pittii	Acinetobacter pittii	94.058	0.0
+CR_288_Contig_7	1809055	Acinetobacter sp. DUT-2	Acinetobacter sp. DUT-2	99.426	0.0
+CR_289_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.934	0.0
+CR_289_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.964	0.0
+CR_289_Contig_2	1280	Staphylococcus aureus	Staphylococcus aureus	99.743	0.0
+CR_289_Contig_3	1280	Staphylococcus aureus	Staphylococcus aureus	99.961	0.0
+CR_28_Contig_0	47917	Serratia fonticola	Serratia fonticola	99.983	0.0
+CR_290_Contig_0	1282	Staphylococcus epidermidis	Staphylococcus epidermidis	100.000	0.0
+CR_290_Contig_1	1282	Staphylococcus epidermidis	Staphylococcus epidermidis	99.996	0.0
+CR_290_Contig_2	1282	Staphylococcus epidermidis	Staphylococcus epidermidis	100.000	0.0
+CR_290_Contig_3	1282	Staphylococcus epidermidis	Staphylococcus epidermidis	100.000	0.0
+CR_290_Contig_4	1282	Staphylococcus epidermidis	Staphylococcus epidermidis	100.000	0.0
+CR_291_Contig_0	565655	Enterococcus casseliflavus EC20	Enterococcus casseliflavus EC20	96.646	0.0
+CR_291_Contig_1	1352	Enterococcus faecium	Enterococcus faecium	97.859	0.0
+CR_291_Contig_2	1352	Enterococcus faecium	Enterococcus faecium	98.121	0.0
+CR_292_Contig_0	299766	Enterobacter hormaechei subsp. steigerwaltii	Enterobacter hormaechei subsp. steigerwaltii	90.137	0.0
+CR_292_Contig_1	69218	Enterobacter cancerogenus	Enterobacter cancerogenus	90.175	0.0
+CR_292_Contig_2	1453496	Hafnia alvei FB1	Hafnia alvei FB1	81.440	0.0
+CR_292_Contig_3	1453496	Hafnia alvei FB1	Hafnia alvei FB1	82.683	0.0
+CR_292_Contig_4	550	Enterobacter cloacae	Enterobacter cloacae	89.945	0.0
+CR_292_Contig_5	69218	Enterobacter cancerogenus	Enterobacter cancerogenus	99.114	0.0
+CR_293_Contig_0	633	Yersinia pseudotuberculosis	Yersinia pseudotuberculosis	99.636	0.0
+CR_293_Contig_1	748672	Yersinia pseudotuberculosis str. PA3606	Yersinia pseudotuberculosis str. PA3606	98.689	0.0
+CR_293_Contig_2	1345702	Yersinia pestis 2944	Yersinia pestis 2944	98.482	0.0
+CR_294_Contig_0	93062	Staphylococcus aureus subsp. aureus COL	Staphylococcus aureus subsp. aureus COL	99.991	0.0
+CR_294_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.993	0.0
+CR_294_Contig_2	46170	Staphylococcus aureus subsp. aureus	Staphylococcus aureus subsp. aureus	99.989	0.0
+CR_294_Contig_3	46170	Staphylococcus aureus subsp. aureus	Staphylococcus aureus subsp. aureus	99.997	0.0
+CR_295_Contig_0	208224	Enterobacter kobei	Enterobacter kobei	99.609	0.0
+CR_295_Contig_1	571	Klebsiella oxytoca	Klebsiella oxytoca	99.785	0.0
+CR_295_Contig_2	1006551	Klebsiella michiganensis KCTC 1686	Klebsiella michiganensis KCTC 1686	99.944	0.0
+CR_295_Contig_3	571	Klebsiella oxytoca	Klebsiella oxytoca	99.637	0.0
+CR_295_Contig_4	574	Klebsiella pneumoniae subsp. ozaenae	Klebsiella pneumoniae subsp. ozaenae	99.828	0.0
+CR_296_Contig_0	28901	Salmonella enterica	Salmonella enterica	100.000	0.0
+CR_296_Contig_1	28901	Salmonella enterica	Salmonella enterica	99.976	0.0
+CR_297_Contig_0	299766	Enterobacter hormaechei subsp. steigerwaltii	Enterobacter hormaechei subsp. steigerwaltii	99.206	0.0
+CR_298_Contig_0	11036	Venezuelan equine encephalitis virus	Venezuelan equine encephalitis virus	99.414	0.0
+CR_299_Contig_0	548	Klebsiella aerogenes	Klebsiella aerogenes	100.000	0.0
+CR_29_Contig_0	253	Chryseobacterium indologenes	Chryseobacterium indologenes	99.998	0.0
+CR_2_Contig_0	272831	Neisseria meningitidis FAM18	Neisseria meningitidis FAM18	99.997	0.0
+CR_300_Contig_0	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.996	0.0
+CR_300_Contig_1	573	Klebsiella pneumoniae	Klebsiella pneumoniae	100.000	0.0
+CR_300_Contig_2	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.995	0.0
+CR_300_Contig_3	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.995	0.0
+CR_300_Contig_4	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.956	0.0
+CR_301_Contig_0	637386	Yersinia pestis Z176003	Yersinia pestis Z176003	99.754	0.0
+CR_301_Contig_1	633	Yersinia pseudotuberculosis	Yersinia pseudotuberculosis	99.647	0.0
+CR_302_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.418	0.0
+CR_302_Contig_1	670	Vibrio parahaemolyticus	Vibrio parahaemolyticus	99.942	0.0
+CR_302_Contig_2	889933	Staphylococcus aureus subsp. aureus ECT-R 2	Staphylococcus aureus subsp. aureus ECT-R 2	99.994	0.0
+CR_302_Contig_3	1280	Staphylococcus aureus	Staphylococcus aureus	99.964	0.0
+CR_303_Contig_0	263	Francisella tularensis	Francisella tularensis	99.990	0.0
+CR_303_Contig_1	263	Francisella tularensis	Francisella tularensis	99.991	0.0
+CR_304_Contig_0	1496	Clostridioides difficile	Clostridioides difficile	99.713	0.0
+CR_304_Contig_1	272563	Clostridioides difficile 630	Clostridioides difficile 630	99.982	0.0
+CR_305_Contig_0	502801	Yersinia pseudotuberculosis PB1/+	Yersinia pseudotuberculosis PB1/+	99.982	0.0
+CR_305_Contig_1	502801	Yersinia pseudotuberculosis PB1/+	Yersinia pseudotuberculosis PB1/+	99.956	0.0
+CR_306_Contig_0	1045010	Escherichia coli O157	Escherichia coli O157	99.995	0.0
+CR_306_Contig_1	1045010	Escherichia coli O157	Escherichia coli O157	99.925	0.0
+CR_306_Contig_2	1045010	Escherichia coli O157	Escherichia coli O157	99.997	0.0
+CR_307_Contig_0	1241616	Staphylococcus aureus subsp. aureus DSM 20231	Staphylococcus aureus subsp. aureus DSM 20231	99.610	0.0
+CR_307_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.998	0.0
+CR_307_Contig_2	1280	Staphylococcus aureus	Staphylococcus aureus	99.997	0.0
+CR_308_Contig_0	672	Vibrio vulnificus	Vibrio vulnificus	98.786	0.0
+CR_308_Contig_1	672	Vibrio vulnificus	Vibrio vulnificus	98.227	0.0
+CR_308_Contig_2	672	Vibrio vulnificus	Vibrio vulnificus	93.000	0.0
+CR_308_Contig_3	1219061	Vibrio vulnificus NBRC 15645 = ATCC 27562	Vibrio vulnificus NBRC 15645 = ATCC 27562	99.504	0.0
+CR_309_Contig_0	546	Citrobacter freundii	Citrobacter freundii	99.999	0.0
+CR_309_Contig_1	546	Citrobacter freundii	Citrobacter freundii	99.997	0.0
+CR_309_Contig_2	546	Citrobacter freundii	Citrobacter freundii	99.998	0.0
+CR_30_Contig_0	1304	Streptococcus salivarius	Streptococcus salivarius	89.047	0.0
+CR_30_Contig_1	198620	Pseudomonas koreensis	Pseudomonas koreensis	96.216	0.0
+CR_30_Contig_2	1903686	Jeotgalibaca sp. PTS2502	Jeotgalibaca sp. PTS2502	82.844	8.99e-101
+CR_310_Contig_0	320388	Burkholderia mallei SAVP1	Burkholderia mallei SAVP1	99.995	0.0
+CR_310_Contig_1	320388	Burkholderia mallei SAVP1	Burkholderia mallei SAVP1	99.997	0.0
+CR_311_Contig_0	186540	Sudan ebolavirus	Sudan ebolavirus	100.000	0.0
+CR_312_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_313_Contig_0	1194526	Staphylococcus warneri SG1	Staphylococcus warneri SG1	99.629	0.0
+CR_313_Contig_1	2100421	uncultured Caudovirales phage	uncultured Caudovirales phage	98.785	0.0
+CR_313_Contig_2	1280	Staphylococcus aureus	Staphylococcus aureus	99.930	0.0
+CR_313_Contig_3	1194526	Staphylococcus warneri SG1	Staphylococcus warneri SG1	99.938	0.0
+CR_313_Contig_4	2100421	uncultured Caudovirales phage	uncultured Caudovirales phage	99.850	0.0
+CR_313_Contig_5	1194526	Staphylococcus warneri SG1	Staphylococcus warneri SG1	99.942	0.0
+CR_314_Contig_0	485	Neisseria gonorrhoeae	Neisseria gonorrhoeae	99.997	0.0
+CR_314_Contig_1	485	Neisseria gonorrhoeae	Neisseria gonorrhoeae	99.998	0.0
+CR_314_Contig_2	485	Neisseria gonorrhoeae	Neisseria gonorrhoeae	100.000	0.0
+CR_315_Contig_0	670	Vibrio parahaemolyticus	Vibrio parahaemolyticus	99.996	0.0
+CR_315_Contig_1	670	Vibrio parahaemolyticus	Vibrio parahaemolyticus	99.995	0.0
+CR_316_Contig_0	670	Vibrio parahaemolyticus	Vibrio parahaemolyticus	98.522	0.0
+CR_316_Contig_1	1338034	Vibrio parahaemolyticus O1:Kuk str. FDA_R31	Vibrio parahaemolyticus O1:Kuk str. FDA_R31	98.956	0.0
+CR_316_Contig_2	670	Vibrio parahaemolyticus	Vibrio parahaemolyticus	98.802	0.0
+CR_316_Contig_3	670	Vibrio parahaemolyticus	Vibrio parahaemolyticus	98.365	0.0
+CR_317_Contig_0	1351	Enterococcus faecalis	Enterococcus faecalis	99.937	0.0
+CR_317_Contig_1	1351	Enterococcus faecalis	Enterococcus faecalis	99.891	0.0
+CR_318_Contig_0	1839799	Streptococcus sp. FDAARGOS_192	Streptococcus sp. FDAARGOS_192	99.995	0.0
+CR_318_Contig_1	1839799	Streptococcus sp. FDAARGOS_192	Streptococcus sp. FDAARGOS_192	99.999	0.0
+CR_318_Contig_2	1839799	Streptococcus sp. FDAARGOS_192	Streptococcus sp. FDAARGOS_192	100.000	0.0
+CR_319_Contig_0	37326	Nocardia brasiliensis	Nocardia brasiliensis	99.990	0.0
+CR_31_Contig_0	58100	Salmonella enterica subsp. houtenae serovar Houten	Salmonella enterica subsp. houtenae serovar Houten	98.350	0.0
+CR_31_Contig_1	562	Escherichia coli	Escherichia coli	99.166	0.0
+CR_31_Contig_2	28901	Salmonella enterica	Salmonella enterica	99.488	0.0
+CR_31_Contig_3	28901	Salmonella enterica	Salmonella enterica	99.707	0.0
+CR_31_Contig_4	58100	Salmonella enterica subsp. houtenae serovar Houten	Salmonella enterica subsp. houtenae serovar Houten	99.515	0.0
+CR_31_Contig_5	28901	Salmonella enterica	Salmonella enterica	99.603	0.0
+CR_31_Contig_6	28901	Salmonella enterica	Salmonella enterica	99.213	0.0
+CR_320_Contig_0	72000	Kocuria rhizophila	Kocuria rhizophila	99.997	0.0
+CR_321_Contig_0	1117645	Elizabethkingia anophelis	Elizabethkingia anophelis	99.998	0.0
+CR_322_Contig_0	1302	Streptococcus gordonii	Streptococcus gordonii	100.000	0.0
+CR_323_Contig_0	730	[Haemophilus] ducreyi	[Haemophilus] ducreyi	100.000	0.0
+CR_324_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.998	0.0
+CR_324_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.978	0.0
+CR_324_Contig_2	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_324_Contig_3	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_324_Contig_4	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_324_Contig_5	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_324_Contig_6	1280	Staphylococcus aureus	Staphylococcus aureus	96.514	0.0
+CR_325_Contig_0	674	Vibrio mimicus	Vibrio mimicus	97.541	0.0
+CR_325_Contig_1	674	Vibrio mimicus	Vibrio mimicus	97.889	0.0
+CR_326_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_326_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	98.054	0.0
+CR_326_Contig_2	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_326_Contig_3	1280	Staphylococcus aureus	Staphylococcus aureus	99.954	0.0
+CR_326_Contig_4	1280	Staphylococcus aureus	Staphylococcus aureus	99.906	0.0
+CR_327_Contig_0	487	Neisseria meningitidis	Neisseria meningitidis	100.000	0.0
+CR_328_Contig_0	487	Neisseria meningitidis	Neisseria meningitidis	99.999	0.0
+CR_329_Contig_0	520	Bordetella pertussis	Bordetella pertussis	99.973	0.0
+CR_32_Contig_0	35703	Citrobacter amalonaticus	Citrobacter amalonaticus	99.998	0.0
+CR_330_Contig_0	331271	Burkholderia cenocepacia AU 1054	Burkholderia cenocepacia AU 1054	99.954	0.0
+CR_330_Contig_1	331272	Burkholderia cenocepacia HI2424	Burkholderia cenocepacia HI2424	99.949	0.0
+CR_330_Contig_2	331271	Burkholderia cenocepacia AU 1054	Burkholderia cenocepacia AU 1054	99.963	0.0
+CR_330_Contig_3	331271	Burkholderia cenocepacia AU 1054	Burkholderia cenocepacia AU 1054	99.949	0.0
+CR_330_Contig_4	331272	Burkholderia cenocepacia HI2424	Burkholderia cenocepacia HI2424	99.802	0.0
+CR_330_Contig_5	331272	Burkholderia cenocepacia HI2424	Burkholderia cenocepacia HI2424	100.000	0.0
+CR_330_Contig_6	331271	Burkholderia cenocepacia AU 1054	Burkholderia cenocepacia AU 1054	99.942	0.0
+CR_330_Contig_7	331272	Burkholderia cenocepacia HI2424	Burkholderia cenocepacia HI2424	99.961	0.0
+CR_330_Contig_8	331271	Burkholderia cenocepacia AU 1054	Burkholderia cenocepacia AU 1054	99.942	0.0
+CR_330_Contig_9	331271	Burkholderia cenocepacia AU 1054	Burkholderia cenocepacia AU 1054	99.951	0.0
+CR_330_Contig_10	331271	Burkholderia cenocepacia AU 1054	Burkholderia cenocepacia AU 1054	99.615	0.0
+CR_330_Contig_11	331272	Burkholderia cenocepacia HI2424	Burkholderia cenocepacia HI2424	99.941	0.0
+CR_330_Contig_12	331272	Burkholderia cenocepacia HI2424	Burkholderia cenocepacia HI2424	99.515	0.0
+CR_330_Contig_13	331272	Burkholderia cenocepacia HI2424	Burkholderia cenocepacia HI2424	99.750	0.0
+CR_330_Contig_14	331272	Burkholderia cenocepacia HI2424	Burkholderia cenocepacia HI2424	99.188	0.0
+CR_330_Contig_15	95486	Burkholderia cenocepacia	Burkholderia cenocepacia	97.899	0.0
+CR_331_Contig_0	139	Borreliella burgdorferi	Lyme disease spirochete	99.951	0.0
+CR_331_Contig_1	139	Borreliella burgdorferi	Lyme disease spirochete	99.900	0.0
+CR_331_Contig_2	139	Borreliella burgdorferi	Lyme disease spirochete	99.976	0.0
+CR_331_Contig_3	139	Borreliella burgdorferi	Lyme disease spirochete	99.982	0.0
+CR_331_Contig_4	139	Borreliella burgdorferi	Lyme disease spirochete	99.898	0.0
+CR_331_Contig_5	139	Borreliella burgdorferi	Lyme disease spirochete	99.985	0.0
+CR_331_Contig_6	139	Borreliella burgdorferi	Lyme disease spirochete	99.930	0.0
+CR_331_Contig_7	139	Borreliella burgdorferi	Lyme disease spirochete	99.970	0.0
+CR_331_Contig_8	139	Borreliella burgdorferi	Lyme disease spirochete	99.805	0.0
+CR_331_Contig_9	139	Borreliella burgdorferi	Lyme disease spirochete	99.795	0.0
+CR_331_Contig_10	139	Borreliella burgdorferi	Lyme disease spirochete	99.979	0.0
+CR_331_Contig_11	139	Borreliella burgdorferi	Lyme disease spirochete	99.962	0.0
+CR_332_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.952	0.0
+CR_332_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	98.046	0.0
+CR_332_Contig_2	1280	Staphylococcus aureus	Staphylococcus aureus	98.665	0.0
+CR_332_Contig_3	1280	Staphylococcus aureus	Staphylococcus aureus	98.918	0.0
+CR_332_Contig_4	1280	Staphylococcus aureus	Staphylococcus aureus	99.829	0.0
+CR_332_Contig_5	1280	Staphylococcus aureus	Staphylococcus aureus	99.010	0.0
+CR_332_Contig_6	1280	Staphylococcus aureus	Staphylococcus aureus	99.587	0.0
+CR_332_Contig_7	1280	Staphylococcus aureus	Staphylococcus aureus	99.818	0.0
+CR_332_Contig_8	93062	Staphylococcus aureus subsp. aureus COL	Staphylococcus aureus subsp. aureus COL	97.805	0.0
+CR_333_Contig_0	301102	Enterobacter hormaechei subsp. oharae	Enterobacter hormaechei subsp. oharae	98.245	0.0
+CR_333_Contig_1	571	Klebsiella oxytoca	Klebsiella oxytoca	98.064	0.0
+CR_333_Contig_2	562	Escherichia coli	Escherichia coli	91.303	0.0
+CR_333_Contig_3	571	Klebsiella oxytoca	Klebsiella oxytoca	99.261	0.0
+CR_333_Contig_4	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.810	0.0
+CR_333_Contig_5	562	Escherichia coli	Escherichia coli	91.251	0.0
+CR_333_Contig_6	562	Escherichia coli	Escherichia coli	99.263	0.0
+CR_333_Contig_7	573	Klebsiella pneumoniae	Klebsiella pneumoniae	96.908	0.0
+CR_333_Contig_8	1420013	Klebsiella pneumoniae 30684/NJST258_2	Klebsiella pneumoniae 30684/NJST258_2	99.946	0.0
+CR_333_Contig_9	550	Enterobacter cloacae	Enterobacter cloacae	99.862	0.0
+CR_334_Contig_0	28035	Staphylococcus lugdunensis	Staphylococcus lugdunensis	99.859	0.0
+CR_334_Contig_1	1282	Staphylococcus epidermidis	Staphylococcus epidermidis	99.287	0.0
+CR_334_Contig_2	1282	Staphylococcus epidermidis	Staphylococcus epidermidis	99.674	0.0
+CR_335_Contig_0	87883	Burkholderia multivorans	Burkholderia multivorans	100.000	0.0
+CR_335_Contig_1	87883	Burkholderia multivorans	Burkholderia multivorans	100.000	0.0
+CR_335_Contig_2	87883	Burkholderia multivorans	Burkholderia multivorans	99.999	0.0
+CR_336_Contig_0	548	Klebsiella aerogenes	Klebsiella aerogenes	100.000	0.0
+CR_336_Contig_1	548	Klebsiella aerogenes	Klebsiella aerogenes	100.000	0.0
+CR_337_Contig_0	50719	Vibrio diabolicus	Vibrio diabolicus	99.999	0.0
+CR_337_Contig_1	50719	Vibrio diabolicus	Vibrio diabolicus	100.000	0.0
+CR_338_Contig_0	134047	Salmonella enterica subsp. enterica serovar Bredeney	Salmonella enterica subsp. enterica serovar Bredeney	99.984	0.0
+CR_338_Contig_1	90370	Salmonella enterica subsp. enterica serovar Typhi	Salmonella enterica subsp. enterica serovar Typhi	98.093	0.0
+CR_338_Contig_2	1147140	Salmonella phage SPN3UB	Salmonella phage SPN3UB	97.749	0.0
+CR_338_Contig_3	439843	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633	98.789	0.0
+CR_338_Contig_4	134047	Salmonella enterica subsp. enterica serovar Bredeney	Salmonella enterica subsp. enterica serovar Bredeney	99.475	0.0
+CR_339_Contig_0	669	Vibrio harveyi	Vibrio harveyi	99.140	0.0
+CR_339_Contig_1	669	Vibrio harveyi	Vibrio harveyi	98.970	0.0
+CR_33_Contig_0	290338	Citrobacter koseri ATCC BAA-895	Citrobacter koseri ATCC BAA-895	99.112	0.0
+CR_340_Contig_0	41276	Brevundimonas vesicularis	Brevundimonas vesicularis	99.998	0.0
+CR_341_Contig_0	345073	Vibrio cholerae O395	Vibrio cholerae O395	99.998	0.0
+CR_341_Contig_1	345073	Vibrio cholerae O395	Vibrio cholerae O395	99.711	0.0
+CR_341_Contig_2	345073	Vibrio cholerae O395	Vibrio cholerae O395	99.897	0.0
+CR_341_Contig_3	345073	Vibrio cholerae O395	Vibrio cholerae O395	99.997	0.0
+CR_341_Contig_4	345073	Vibrio cholerae O395	Vibrio cholerae O395	99.336	0.0
+CR_341_Contig_5	345073	Vibrio cholerae O395	Vibrio cholerae O395	99.998	0.0
+CR_341_Contig_6	345073	Vibrio cholerae O395	Vibrio cholerae O395	98.859	0.0
+CR_342_Contig_0	1296	Staphylococcus sciuri	Staphylococcus sciuri	99.996	0.0
+CR_342_Contig_1	1296	Staphylococcus sciuri	Staphylococcus sciuri	100.000	0.0
+CR_343_Contig_0	562	Escherichia coli	Escherichia coli	99.819	0.0
+CR_343_Contig_1	562	Escherichia coli	Escherichia coli	99.734	0.0
+CR_343_Contig_2	562	Escherichia coli	Escherichia coli	99.991	0.0
+CR_343_Contig_3	562	Escherichia coli	Escherichia coli	99.691	0.0
+CR_343_Contig_4	562	Escherichia coli	Escherichia coli	99.989	0.0
+CR_343_Contig_5	562	Escherichia coli	Escherichia coli	99.396	0.0
+CR_343_Contig_6	562	Escherichia coli	Escherichia coli	99.465	0.0
+CR_343_Contig_7	562	Escherichia coli	Escherichia coli	99.991	0.0
+CR_343_Contig_8	562	Escherichia coli	Escherichia coli	99.100	0.0
+CR_343_Contig_9	562	Escherichia coli	Escherichia coli	99.777	0.0
+CR_343_Contig_10	562	Escherichia coli	Escherichia coli	99.358	0.0
+CR_343_Contig_11	562	Escherichia coli	Escherichia coli	99.913	0.0
+CR_343_Contig_12	562	Escherichia coli	Escherichia coli	99.988	0.0
+CR_344_Contig_0	1303	Streptococcus oralis	Streptococcus oralis	100.000	0.0
+CR_345_Contig_0	13373	Burkholderia mallei	Burkholderia mallei	99.992	0.0
+CR_345_Contig_1	13373	Burkholderia mallei	Burkholderia mallei	99.995	0.0
+CR_346_Contig_0	1249665	Burkholderia thailandensis E254	Burkholderia thailandensis E254	99.954	0.0
+CR_346_Contig_1	1249665	Burkholderia thailandensis E254	Burkholderia thailandensis E254	99.973	0.0
+CR_347_Contig_0	1380908	Klebsiella pneumoniae JM45	Klebsiella pneumoniae JM45	96.335	0.0
+CR_347_Contig_1	548	Klebsiella aerogenes	Klebsiella aerogenes	99.951	0.0
+CR_347_Contig_2	548	Klebsiella aerogenes	Klebsiella aerogenes	99.949	0.0
+CR_347_Contig_3	548	Klebsiella aerogenes	Klebsiella aerogenes	96.272	0.0
+CR_347_Contig_4	573	Klebsiella pneumoniae	Klebsiella pneumoniae	93.556	0.0
+CR_347_Contig_5	548	Klebsiella aerogenes	Klebsiella aerogenes	99.938	0.0
+CR_347_Contig_6	548	Klebsiella aerogenes	Klebsiella aerogenes	99.939	0.0
+CR_347_Contig_7	548	Klebsiella aerogenes	Klebsiella aerogenes	99.942	0.0
+CR_348_Contig_0	1134687	Klebsiella michiganensis	Klebsiella michiganensis	99.890	0.0
+CR_348_Contig_1	582	Morganella morganii	Morganella morganii	98.762	0.0
+CR_348_Contig_2	582	Morganella morganii	Morganella morganii	99.987	0.0
+CR_348_Contig_3	582	Morganella morganii	Morganella morganii	99.580	0.0
+CR_348_Contig_4	582	Morganella morganii	Morganella morganii	98.692	0.0
+CR_348_Contig_5	582	Morganella morganii	Morganella morganii	94.644	0.0
+CR_349_Contig_0	11029	Ross River virus	Ross River virus	99.740	0.0
+CR_349_Contig_1	11029	Ross River virus	Ross River virus	100.000	4.74e-104
+CR_34_Contig_0	553199	Cutibacterium acnes SK137	Cutibacterium acnes SK137	100.000	0.0
+CR_350_Contig_0	28035	Staphylococcus lugdunensis	Staphylococcus lugdunensis	99.998	0.0
+CR_351_Contig_0	1351	Enterococcus faecalis	Enterococcus faecalis	99.933	0.0
+CR_351_Contig_1	1351	Enterococcus faecalis	Enterococcus faecalis	99.955	0.0
+CR_351_Contig_2	1351	Enterococcus faecalis	Enterococcus faecalis	99.970	0.0
+CR_351_Contig_3	1351	Enterococcus faecalis	Enterococcus faecalis	98.263	0.0
+CR_351_Contig_4	1351	Enterococcus faecalis	Enterococcus faecalis	99.978	0.0
+CR_351_Contig_5	1351	Enterococcus faecalis	Enterococcus faecalis	98.934	0.0
+CR_352_Contig_0	615	Serratia marcescens	Serratia marcescens	98.199	0.0
+CR_352_Contig_1	615	Serratia marcescens	Serratia marcescens	99.149	0.0
+CR_352_Contig_2	615	Serratia marcescens	Serratia marcescens	99.689	0.0
+CR_352_Contig_3	615	Serratia marcescens	Serratia marcescens	99.521	0.0
+CR_352_Contig_4	1758196	Serratia sp. SSNIH1	Serratia sp. SSNIH1	97.760	0.0
+CR_352_Contig_5	615	Serratia marcescens	Serratia marcescens	99.097	0.0
+CR_352_Contig_6	615	Serratia marcescens	Serratia marcescens	98.993	0.0
+CR_352_Contig_7	198431	uncultured prokaryote	uncultured prokaryote	83.696	2.13e-10
+CR_352_Contig_8	615	Serratia marcescens	Serratia marcescens	99.643	0.0
+CR_352_Contig_9	615	Serratia marcescens	Serratia marcescens	99.287	0.0
+CR_352_Contig_10	615	Serratia marcescens	Serratia marcescens	99.152	0.0
+CR_352_Contig_11	615	Serratia marcescens	Serratia marcescens	99.366	0.0
+CR_352_Contig_12	615	Serratia marcescens	Serratia marcescens	97.721	0.0
+CR_352_Contig_13	615	Serratia marcescens	Serratia marcescens	98.942	0.0
+CR_353_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.989	0.0
+CR_354_Contig_0	1117645	Elizabethkingia anophelis	Elizabethkingia anophelis	99.995	0.0
+CR_355_Contig_0	1194526	Staphylococcus warneri SG1	Staphylococcus warneri SG1	96.142	0.0
+CR_355_Contig_1	1283	Staphylococcus haemolyticus	Staphylococcus haemolyticus	99.449	0.0
+CR_355_Contig_2	1194526	Staphylococcus warneri SG1	Staphylococcus warneri SG1	99.959	0.0
+CR_356_Contig_0	582	Morganella morganii	Morganella morganii	99.998	0.0
+CR_357_Contig_0	562	Escherichia coli	Escherichia coli	99.928	0.0
+CR_357_Contig_1	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.434	0.0
+CR_357_Contig_2	562	Escherichia coli	Escherichia coli	99.969	0.0
+CR_358_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.984	0.0
+CR_358_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.986	0.0
+CR_358_Contig_2	1280	Staphylococcus aureus	Staphylococcus aureus	99.977	0.0
+CR_358_Contig_3	1280	Staphylococcus aureus	Staphylococcus aureus	99.980	0.0
+CR_358_Contig_4	1280	Staphylococcus aureus	Staphylococcus aureus	99.981	0.0
+CR_358_Contig_5	1280	Staphylococcus aureus	Staphylococcus aureus	99.957	0.0
+CR_358_Contig_6	1280	Staphylococcus aureus	Staphylococcus aureus	99.853	0.0
+CR_358_Contig_7	1280	Staphylococcus aureus	Staphylococcus aureus	99.987	0.0
+CR_359_Contig_0	11029	Ross River virus	Ross River virus	99.045	0.0
+CR_359_Contig_1	11029	Ross River virus	Ross River virus	98.592	1.03e-100
+CR_35_Contig_0	76759	Pseudomonas monteilii	Pseudomonas monteilii	99.995	0.0
+CR_35_Contig_1	76759	Pseudomonas monteilii	Pseudomonas monteilii	99.994	0.0
+CR_360_Contig_0	663	Vibrio alginolyticus	Vibrio alginolyticus	100.000	0.0
+CR_360_Contig_1	663	Vibrio alginolyticus	Vibrio alginolyticus	99.998	0.0
+CR_360_Contig_2	663	Vibrio alginolyticus	Vibrio alginolyticus	100.000	0.0
+CR_361_Contig_0	57975	Burkholderia thailandensis	Burkholderia thailandensis	99.999	0.0
+CR_361_Contig_1	57975	Burkholderia thailandensis	Burkholderia thailandensis	99.999	0.0
+CR_362_Contig_0	487	Neisseria meningitidis	Neisseria meningitidis	99.916	0.0
+CR_363_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.991	0.0
+CR_363_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.982	0.0
+CR_363_Contig_2	1280	Staphylococcus aureus	Staphylococcus aureus	99.351	0.0
+CR_364_Contig_0	1132496	Pasteurella multocida subsp. multocida str. HN06	Pasteurella multocida subsp. multocida str. HN06	98.838	0.0
+CR_364_Contig_1	747	Pasteurella multocida	Pasteurella multocida	99.007	0.0
+CR_365_Contig_0	253	Chryseobacterium indologenes	Chryseobacterium indologenes	100.000	0.0
+CR_366_Contig_0	2018065	Roseomonas sp. FDAARGOS_362	Roseomonas sp. FDAARGOS_362	99.992	0.0
+CR_366_Contig_1	2018065	Roseomonas sp. FDAARGOS_362	Roseomonas sp. FDAARGOS_362	99.991	0.0
+CR_366_Contig_2	2018065	Roseomonas sp. FDAARGOS_362	Roseomonas sp. FDAARGOS_362	99.992	0.0
+CR_366_Contig_3	2018065	Roseomonas sp. FDAARGOS_362	Roseomonas sp. FDAARGOS_362	99.995	0.0
+CR_366_Contig_4	2018065	Roseomonas sp. FDAARGOS_362	Roseomonas sp. FDAARGOS_362	99.991	0.0
+CR_366_Contig_5	2018065	Roseomonas sp. FDAARGOS_362	Roseomonas sp. FDAARGOS_362	99.989	0.0
+CR_366_Contig_6	2018065	Roseomonas sp. FDAARGOS_362	Roseomonas sp. FDAARGOS_362	99.991	0.0
+CR_366_Contig_7	2018065	Roseomonas sp. FDAARGOS_362	Roseomonas sp. FDAARGOS_362	100.000	0.0
+CR_367_Contig_0	330922	Psychrobacter cryohalolentis	Psychrobacter cryohalolentis	99.998	0.0
+CR_367_Contig_1	330922	Psychrobacter cryohalolentis	Psychrobacter cryohalolentis	99.999	0.0
+CR_368_Contig_0	575	Raoultella planticola	Raoultella planticola	99.997	0.0
+CR_368_Contig_1	575	Raoultella planticola	Raoultella planticola	99.998	0.0
+CR_368_Contig_2	575	Raoultella planticola	Raoultella planticola	99.996	0.0
+CR_369_Contig_0	119857	Francisella tularensis subsp. holarctica	Francisella tularensis subsp. holarctica	99.987	0.0
+CR_36_Contig_0	186538	Zaire ebolavirus	Zaire ebolavirus	100.000	0.0
+CR_370_Contig_0	480	Moraxella catarrhalis	Moraxella catarrhalis	98.956	0.0
+CR_371_Contig_0	2060307	Enterococcus sp. FDAARGOS_375	Enterococcus sp. FDAARGOS_375	100.000	0.0
+CR_371_Contig_1	2060307	Enterococcus sp. FDAARGOS_375	Enterococcus sp. FDAARGOS_375	100.000	0.0
+CR_371_Contig_2	2060307	Enterococcus sp. FDAARGOS_375	Enterococcus sp. FDAARGOS_375	100.000	0.0
+CR_372_Contig_0	158822	Cedecea neteri	Cedecea neteri	99.968	0.0
+CR_372_Contig_1	158822	Cedecea neteri	Cedecea neteri	99.988	0.0
+CR_373_Contig_0	11029	Ross River virus	Ross River virus	99.599	0.0
+CR_373_Contig_1	11029	Ross River virus	Ross River virus	99.288	2.87e-140
+CR_374_Contig_0	1249664	Burkholderia thailandensis 34	Burkholderia thailandensis 34	99.985	0.0
+CR_374_Contig_1	1249664	Burkholderia thailandensis 34	Burkholderia thailandensis 34	99.977	0.0
+CR_375_Contig_0	1009464	Gardnerella vaginalis HMP9231	Gardnerella vaginalis HMP9231	97.758	0.0
+CR_375_Contig_1	1009464	Gardnerella vaginalis HMP9231	Gardnerella vaginalis HMP9231	99.132	0.0
+CR_376_Contig_0	747	Pasteurella multocida	Pasteurella multocida	99.999	0.0
+CR_377_Contig_0	562	Escherichia coli	Escherichia coli	92.706	0.0
+CR_377_Contig_1	574	Klebsiella pneumoniae subsp. ozaenae	Klebsiella pneumoniae subsp. ozaenae	98.276	0.0
+CR_377_Contig_2	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.983	0.0
+CR_377_Contig_3	1225181	Klebsiella pneumoniae subsp. pneumoniae KPNIH24	Klebsiella pneumoniae subsp. pneumoniae KPNIH24	99.547	0.0
+CR_377_Contig_4	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.988	0.0
+CR_377_Contig_5	1355100	Escherichia coli JJ1886	Escherichia coli JJ1886	98.064	0.0
+CR_377_Contig_6	1304922	Klebsiella pneumoniae 500_1420	Klebsiella pneumoniae 500_1420	99.368	0.0
+CR_377_Contig_7	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.951	0.0
+CR_378_Contig_0	674	Vibrio mimicus	Vibrio mimicus	100.000	0.0
+CR_378_Contig_1	674	Vibrio mimicus	Vibrio mimicus	100.000	0.0
+CR_379_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.970	0.0
+CR_379_Contig_1	1352	Enterococcus faecium	Enterococcus faecium	99.976	0.0
+CR_379_Contig_2	1280	Staphylococcus aureus	Staphylococcus aureus	99.961	0.0
+CR_379_Contig_3	1323661	Staphylococcus aureus CA-347	Staphylococcus aureus CA-347	99.959	0.0
+CR_379_Contig_4	1352	Enterococcus faecium	Enterococcus faecium	99.915	0.0
+CR_37_Contig_0	32009	Burkholderia gladioli pv. gladioli	Burkholderia gladioli pv. gladioli	99.972	0.0
+CR_37_Contig_1	32009	Burkholderia gladioli pv. gladioli	Burkholderia gladioli pv. gladioli	99.980	0.0
+CR_37_Contig_2	32009	Burkholderia gladioli pv. gladioli	Burkholderia gladioli pv. gladioli	99.959	0.0
+CR_37_Contig_3	32009	Burkholderia gladioli pv. gladioli	Burkholderia gladioli pv. gladioli	99.971	0.0
+CR_37_Contig_4	32009	Burkholderia gladioli pv. gladioli	Burkholderia gladioli pv. gladioli	99.982	0.0
+CR_380_Contig_0	584	Proteus mirabilis	Proteus mirabilis	99.998	0.0
+CR_381_Contig_0	546	Citrobacter freundii	Citrobacter freundii	99.999	0.0
+CR_382_Contig_0	634176	Aggregatibacter aphrophilus NJ8700	Aggregatibacter aphrophilus NJ8700	97.775	0.0
+CR_382_Contig_1	732	Aggregatibacter aphrophilus	Aggregatibacter aphrophilus	97.559	0.0
+CR_382_Contig_2	634176	Aggregatibacter aphrophilus NJ8700	Aggregatibacter aphrophilus NJ8700	98.235	0.0
+CR_382_Contig_3	634176	Aggregatibacter aphrophilus NJ8700	Aggregatibacter aphrophilus NJ8700	96.453	0.0
+CR_382_Contig_4	634176	Aggregatibacter aphrophilus NJ8700	Aggregatibacter aphrophilus NJ8700	90.192	0.0
+CR_383_Contig_0	914127	Vibrio vulnificus MO6-24/O	Vibrio vulnificus MO6-24/O	99.424	0.0
+CR_383_Contig_1	914127	Vibrio vulnificus MO6-24/O	Vibrio vulnificus MO6-24/O	99.397	0.0
+CR_383_Contig_2	914127	Vibrio vulnificus MO6-24/O	Vibrio vulnificus MO6-24/O	99.947	0.0
+CR_384_Contig_0	271848	Burkholderia thailandensis E264	Burkholderia thailandensis E264	99.996	0.0
+CR_384_Contig_1	1249660	Burkholderia thailandensis 2002721643	Burkholderia thailandensis 2002721643	99.998	0.0
+CR_385_Contig_0	1286	Staphylococcus simulans	Staphylococcus simulans	100.000	0.0
+CR_385_Contig_1	1286	Staphylococcus simulans	Staphylococcus simulans	100.000	0.0
+CR_386_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_386_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_387_Contig_0	53345	Enterococcus durans	Enterococcus durans	99.801	0.0
+CR_387_Contig_1	53345	Enterococcus durans	Enterococcus durans	98.280	0.0
+CR_387_Contig_2	1104325	Enterococcus faecium NRRL B-2354	Enterococcus faecium NRRL B-2354	97.503	0.0
+CR_387_Contig_3	1351	Enterococcus faecalis	Enterococcus faecalis	99.825	0.0
+CR_388_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.999	0.0
+CR_388_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.997	0.0
+CR_389_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_389_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.989	0.0
+CR_38_Contig_0	186540	Sudan ebolavirus	Sudan ebolavirus	100.000	0.0
+CR_390_Contig_0	28901	Salmonella enterica	Salmonella enterica	99.969	0.0
+CR_390_Contig_1	595	Salmonella enterica subsp. enterica serovar Infantis	Salmonella enterica subsp. enterica serovar Infantis	99.965	0.0
+CR_390_Contig_2	59201	Salmonella enterica subsp. enterica	Salmonella enterica subsp. enterica	99.673	0.0
+CR_390_Contig_3	562	Escherichia coli	Escherichia coli	99.742	0.0
+CR_391_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.893	0.0
+CR_391_Contig_1	196620	Staphylococcus aureus subsp. aureus MW2	Staphylococcus aureus subsp. aureus MW2	95.672	0.0
+CR_391_Contig_2	948563	Staphylococcus aureus O46	Staphylococcus aureus O46	99.153	0.0
+CR_391_Contig_3	1280	Staphylococcus aureus	Staphylococcus aureus	97.573	0.0
+CR_391_Contig_4	1280	Staphylococcus aureus	Staphylococcus aureus	97.668	0.0
+CR_392_Contig_0	880632	Yersinia pestis Java 9	Yersinia pestis Java 9	100.000	0.0
+CR_392_Contig_1	880632	Yersinia pestis Java 9	Yersinia pestis Java 9	100.000	0.0
+CR_392_Contig_2	880632	Yersinia pestis Java 9	Yersinia pestis Java 9	100.000	0.0
+CR_392_Contig_3	880632	Yersinia pestis Java 9	Yersinia pestis Java 9	100.000	0.0
+CR_392_Contig_4	632	Yersinia pestis	Yersinia pestis	99.987	0.0
+CR_393_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.995	0.0
+CR_393_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.740	0.0
+CR_393_Contig_2	1280	Staphylococcus aureus	Staphylococcus aureus	99.951	0.0
+CR_393_Contig_3	1280	Staphylococcus aureus	Staphylococcus aureus	99.616	0.0
+CR_393_Contig_4	1280	Staphylococcus aureus	Staphylococcus aureus	99.976	0.0
+CR_393_Contig_5	46170	Staphylococcus aureus subsp. aureus	Staphylococcus aureus subsp. aureus	99.909	0.0
+CR_394_Contig_0	106654	Acinetobacter nosocomialis	Acinetobacter nosocomialis	99.997	0.0
+CR_395_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.976	0.0
+CR_395_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.759	0.0
+CR_395_Contig_2	2029631	Staphylococcus phage UPMK_2	Staphylococcus phage UPMK_2	98.447	0.0
+CR_396_Contig_0	519	Bordetella parapertussis	Bordetella parapertussis	99.977	0.0
+CR_397_Contig_0	1324960	Aeromonas salmonicida subsp. pectinolytica 34mel	Aeromonas salmonicida subsp. pectinolytica 34mel	99.940	0.0
+CR_397_Contig_1	472695	Pantoea septica	Pantoea septica	95.983	0.0
+CR_397_Contig_2	665914	Pantoea gaviniae	Pantoea gaviniae	99.286	0.0
+CR_397_Contig_3	1159491	Cronobacter malonaticus LMG 23826	Cronobacter malonaticus LMG 23826	99.351	0.0
+CR_397_Contig_4	665913	Pantoea calida	Pantoea calida	81.567	0.0
+CR_397_Contig_5	562	Escherichia coli	Escherichia coli	88.762	0.0
+CR_398_Contig_0	32009	Burkholderia gladioli pv. gladioli	Burkholderia gladioli pv. gladioli	99.537	0.0
+CR_398_Contig_1	292	Burkholderia cepacia	Burkholderia cepacia	84.914	0.0
+CR_398_Contig_2	32009	Burkholderia gladioli pv. gladioli	Burkholderia gladioli pv. gladioli	99.561	0.0
+CR_398_Contig_3	32009	Burkholderia gladioli pv. gladioli	Burkholderia gladioli pv. gladioli	99.020	0.0
+CR_399_Contig_0	32022	Campylobacter jejuni subsp. jejuni	Campylobacter jejuni subsp. jejuni	99.976	0.0
+CR_39_Contig_0	72407	Klebsiella pneumoniae subsp. pneumoniae	Klebsiella pneumoniae subsp. pneumoniae	99.933	0.0
+CR_39_Contig_1	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.960	0.0
+CR_39_Contig_2	1420013	Klebsiella pneumoniae 30684/NJST258_2	Klebsiella pneumoniae 30684/NJST258_2	99.956	0.0
+CR_39_Contig_3	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.968	0.0
+CR_3_Contig_0	584	Proteus mirabilis	Proteus mirabilis	100.000	0.0
+CR_400_Contig_0	520	Bordetella pertussis	Bordetella pertussis	99.992	0.0
+CR_401_Contig_0	28035	Staphylococcus lugdunensis	Staphylococcus lugdunensis	100.000	0.0
+CR_402_Contig_0	186538	Zaire ebolavirus	Zaire ebolavirus	100.000	0.0
+CR_403_Contig_0	32022	Campylobacter jejuni subsp. jejuni	Campylobacter jejuni subsp. jejuni	99.970	0.0
+CR_404_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.980	0.0
+CR_404_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.936	0.0
+CR_404_Contig_2	93061	Staphylococcus aureus subsp. aureus NCTC 8325	Staphylococcus aureus subsp. aureus NCTC 8325	99.967	0.0
+CR_405_Contig_0	61647	Pluralibacter gergoviae	Pluralibacter gergoviae	99.996	0.0
+CR_406_Contig_0	2083198	Everglades virus	Everglades virus	99.932	0.0
+CR_407_Contig_0	29388	Staphylococcus capitis	Staphylococcus capitis	100.000	0.0
+CR_407_Contig_1	29388	Staphylococcus capitis	Staphylococcus capitis	100.000	0.0
+CR_408_Contig_0	147645	Paracoccus yeei	Paracoccus yeei	99.995	0.0
+CR_408_Contig_1	147645	Paracoccus yeei	Paracoccus yeei	99.995	0.0
+CR_408_Contig_2	147645	Paracoccus yeei	Paracoccus yeei	99.994	0.0
+CR_408_Contig_3	147645	Paracoccus yeei	Paracoccus yeei	99.994	0.0
+CR_408_Contig_4	147645	Paracoccus yeei	Paracoccus yeei	99.995	0.0
+CR_408_Contig_5	147645	Paracoccus yeei	Paracoccus yeei	99.996	0.0
+CR_408_Contig_6	147645	Paracoccus yeei	Paracoccus yeei	99.995	0.0
+CR_408_Contig_7	147645	Paracoccus yeei	Paracoccus yeei	99.994	0.0
+CR_409_Contig_0	562	Escherichia coli	Escherichia coli	99.979	0.0
+CR_409_Contig_1	1171376	Salmonella enterica subsp. enterica serovar Typhimurium str. U288	Salmonella enterica subsp. enterica serovar Typhimurium str. U288	99.909	0.0
+CR_40_Contig_0	1302	Streptococcus gordonii	Streptococcus gordonii	99.989	0.0
+CR_410_Contig_0	663	Vibrio alginolyticus	Vibrio alginolyticus	98.555	0.0
+CR_410_Contig_1	663	Vibrio alginolyticus	Vibrio alginolyticus	98.857	0.0
+CR_410_Contig_2	670	Vibrio parahaemolyticus	Vibrio parahaemolyticus	93.522	0.0
+CR_411_Contig_0	119857	Francisella tularensis subsp. holarctica	Francisella tularensis subsp. holarctica	99.989	0.0
+CR_412_Contig_0	90245	Oligella urethralis	Oligella urethralis	99.943	0.0
+CR_413_Contig_0	1702170	Citrobacter sp. FDAARGOS_156	Citrobacter sp. FDAARGOS_156	99.999	0.0
+CR_414_Contig_0	573	Klebsiella pneumoniae	Klebsiella pneumoniae	95.084	0.0
+CR_414_Contig_1	59201	Salmonella enterica subsp. enterica	Salmonella enterica subsp. enterica	99.971	0.0
+CR_415_Contig_0	1717	Corynebacterium diphtheriae	Corynebacterium diphtheriae	99.998	0.0
+CR_416_Contig_0	1570291	Ebola virus	Ebola virus	99.718	0.0
+CR_416_Contig_1	186538	Zaire ebolavirus	Zaire ebolavirus	99.939	0.0
+CR_416_Contig_2	186538	Zaire ebolavirus	Zaire ebolavirus	100.000	0.0
+CR_416_Contig_3	2282461	Vector pEBO_BDBV-GP	Vector pEBO_BDBV-GP	99.662	0.0
+CR_416_Contig_4	186538	Zaire ebolavirus	Zaire ebolavirus	100.000	0.0
+CR_416_Contig_5	186538	Zaire ebolavirus	Zaire ebolavirus	100.000	0.0
+CR_416_Contig_6	2282461	Vector pEBO_BDBV-GP	Vector pEBO_BDBV-GP	99.883	0.0
+CR_416_Contig_7	186538	Zaire ebolavirus	Zaire ebolavirus	100.000	0.0
+CR_416_Contig_8	186538	Zaire ebolavirus	Zaire ebolavirus	100.000	3.12e-160
+CR_416_Contig_9	2282461	Vector pEBO_BDBV-GP	Vector pEBO_BDBV-GP	99.746	0.0
+CR_417_Contig_0	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.984	0.0
+CR_417_Contig_1	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.991	0.0
+CR_417_Contig_2	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.988	0.0
+CR_417_Contig_3	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.991	0.0
+CR_417_Contig_4	573	Klebsiella pneumoniae	Klebsiella pneumoniae	100.000	0.0
+CR_417_Contig_5	573	Klebsiella pneumoniae	Klebsiella pneumoniae	100.000	0.0
+CR_417_Contig_6	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.988	0.0
+CR_418_Contig_0	562	Escherichia coli	Escherichia coli	99.973	0.0
+CR_418_Contig_1	562	Escherichia coli	Escherichia coli	99.970	0.0
+CR_419_Contig_0	60879	Cabassou virus	Cabassou virus	99.909	0.0
+CR_419_Contig_1	60879	Cabassou virus	Cabassou virus	99.947	0.0
+CR_419_Contig_2	60879	Cabassou virus	Cabassou virus	99.820	0.0
+CR_41_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_41_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.996	0.0
+CR_420_Contig_0	13373	Burkholderia mallei	Burkholderia mallei	99.994	0.0
+CR_420_Contig_1	13373	Burkholderia mallei	Burkholderia mallei	99.994	0.0
+CR_421_Contig_0	247156	Nocardia farcinica IFM 10152	Nocardia farcinica IFM 10152	100.000	0.0
+CR_421_Contig_1	37329	Nocardia farcinica	Nocardia farcinica	99.333	0.0
+CR_422_Contig_0	37124	Chikungunya virus	Chikungunya virus	99.983	0.0
+CR_422_Contig_1	37124	Chikungunya virus	Chikungunya virus	100.000	1.98e-126
+CR_423_Contig_0	2434	Roseobacter denitrificans	Roseobacter denitrificans	99.991	0.0
+CR_423_Contig_1	2434	Roseobacter denitrificans	Roseobacter denitrificans	99.979	0.0
+CR_423_Contig_2	2434	Roseobacter denitrificans	Roseobacter denitrificans	99.960	0.0
+CR_424_Contig_0	585	Proteus vulgaris	Proteus vulgaris	95.806	0.0
+CR_425_Contig_0	60876	Pixuna virus	Pixuna virus	99.345	0.0
+CR_425_Contig_1	60876	Pixuna virus	Pixuna virus	99.158	0.0
+CR_426_Contig_0	648	Aeromonas caviae	Aeromonas caviae	98.524	0.0
+CR_427_Contig_0	329	Ralstonia pickettii	Ralstonia pickettii	99.995	0.0
+CR_427_Contig_1	329	Ralstonia pickettii	Ralstonia pickettii	99.994	0.0
+CR_428_Contig_0	292	Burkholderia cepacia	Burkholderia cepacia	99.997	0.0
+CR_428_Contig_1	292	Burkholderia cepacia	Burkholderia cepacia	99.998	0.0
+CR_428_Contig_2	292	Burkholderia cepacia	Burkholderia cepacia	99.998	0.0
+CR_428_Contig_3	292	Burkholderia cepacia	Burkholderia cepacia	99.998	0.0
+CR_429_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.997	0.0
+CR_42_Contig_0	565995	Bundibugyo ebolavirus	Bundibugyo ebolavirus	100.000	0.0
+CR_430_Contig_0	28450	Burkholderia pseudomallei	Burkholderia pseudomallei	99.441	0.0
+CR_430_Contig_1	28450	Burkholderia pseudomallei	Burkholderia pseudomallei	99.610	0.0
+CR_431_Contig_0	186538	Zaire ebolavirus	Zaire ebolavirus	100.000	0.0
+CR_432_Contig_0	485	Neisseria gonorrhoeae	Neisseria gonorrhoeae	99.950	0.0
+CR_432_Contig_1	485	Neisseria gonorrhoeae	Neisseria gonorrhoeae	99.491	0.0
+CR_433_Contig_0	59201	Salmonella enterica subsp. enterica	Salmonella enterica subsp. enterica	100.000	0.0
+CR_433_Contig_1	59201	Salmonella enterica subsp. enterica	Salmonella enterica subsp. enterica	99.869	0.0
+CR_434_Contig_0	587	Providencia rettgeri	Providencia rettgeri	99.967	0.0
+CR_435_Contig_0	28152	Yersinia kristensenii	Yersinia kristensenii	96.257	0.0
+CR_436_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_436_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.962	0.0
+CR_437_Contig_0	57706	Citrobacter braakii	Citrobacter braakii	99.997	0.0
+CR_438_Contig_0	1352	Enterococcus faecium	Enterococcus faecium	99.038	0.0
+CR_438_Contig_1	1287066	Enterococcus faecalis DENG1	Enterococcus faecalis DENG1	99.307	0.0
+CR_439_Contig_0	186538	Zaire ebolavirus	Zaire ebolavirus	100.000	0.0
+CR_43_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_43_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_43_Contig_2	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_440_Contig_0	582	Morganella morganii	Morganella morganii	99.999	0.0
+CR_441_Contig_0	663	Vibrio alginolyticus	Vibrio alginolyticus	100.000	0.0
+CR_441_Contig_1	663	Vibrio alginolyticus	Vibrio alginolyticus	100.000	0.0
+CR_442_Contig_0	28450	Burkholderia pseudomallei	Burkholderia pseudomallei	99.562	0.0
+CR_442_Contig_1	360118	Burkholderia pseudomallei 406e	Burkholderia pseudomallei 406e	99.521	0.0
+CR_443_Contig_0	60875	Mucambo virus	Mucambo virus	99.936	0.0
+CR_444_Contig_0	66712	Propionibacterium freudenreichii subsp. freudenreichii	Propionibacterium freudenreichii subsp. freudenreichii	86.627	0.0
+CR_445_Contig_0	1440170	Madariaga virus	Madariaga virus	99.956	0.0
+CR_446_Contig_0	186540	Sudan ebolavirus	Sudan ebolavirus	100.000	0.0
+CR_447_Contig_0	349106	Psychrobacter sp. PRwf-1	Psychrobacter sp. PRwf-1	93.077	0.0
+CR_448_Contig_0	565995	Bundibugyo ebolavirus	Bundibugyo ebolavirus	100.000	0.0
+CR_449_Contig_0	345073	Vibrio cholerae O395	Vibrio cholerae O395	99.564	0.0
+CR_449_Contig_1	1051646	Vibrio tubiashii ATCC 19109	Vibrio tubiashii ATCC 19109	92.208	2.35e-116
+CR_449_Contig_2	666	Vibrio cholerae	Vibrio cholerae	99.350	0.0
+CR_44_Contig_0	28035	Staphylococcus lugdunensis	Staphylococcus lugdunensis	100.000	0.0
+CR_44_Contig_1	28035	Staphylococcus lugdunensis	Staphylococcus lugdunensis	100.000	0.0
+CR_450_Contig_0	1283	Staphylococcus haemolyticus	Staphylococcus haemolyticus	99.810	0.0
+CR_450_Contig_1	1282	Staphylococcus epidermidis	Staphylococcus epidermidis	99.109	0.0
+CR_451_Contig_0	487	Neisseria meningitidis	Neisseria meningitidis	99.999	0.0
+CR_452_Contig_0	1081940	Pseudomonas putida B6-2	Pseudomonas putida B6-2	99.121	0.0
+CR_453_Contig_0	28132	Prevotella melaninogenica	Prevotella melaninogenica	99.996	0.0
+CR_453_Contig_1	28132	Prevotella melaninogenica	Prevotella melaninogenica	99.996	0.0
+CR_453_Contig_2	28132	Prevotella melaninogenica	Prevotella melaninogenica	98.819	0.0
+CR_454_Contig_0	1283	Staphylococcus haemolyticus	Staphylococcus haemolyticus	98.170	0.0
+CR_454_Contig_1	1283	Staphylococcus haemolyticus	Staphylococcus haemolyticus	98.885	0.0
+CR_454_Contig_2	279808	Staphylococcus haemolyticus JCSC1435	Staphylococcus haemolyticus JCSC1435	97.458	0.0
+CR_454_Contig_3	1283	Staphylococcus haemolyticus	Staphylococcus haemolyticus	99.158	0.0
+CR_454_Contig_4	1280	Staphylococcus aureus	Staphylococcus aureus	98.356	0.0
+CR_454_Contig_5	1283	Staphylococcus haemolyticus	Staphylococcus haemolyticus	99.170	0.0
+CR_454_Contig_6	678601	Staphylococcus sp. CDC3	Staphylococcus sp. CDC3	95.197	0.0
+CR_454_Contig_7	1283	Staphylococcus haemolyticus	Staphylococcus haemolyticus	99.855	0.0
+CR_454_Contig_8	1282	Staphylococcus epidermidis	Staphylococcus epidermidis	99.976	0.0
+CR_454_Contig_9	1282	Staphylococcus epidermidis	Staphylococcus epidermidis	97.671	0.0
+CR_454_Contig_10	1280	Staphylococcus aureus	Staphylococcus aureus	99.710	0.0
+CR_454_Contig_11	1280	Staphylococcus aureus	Staphylococcus aureus	99.713	0.0
+CR_454_Contig_12	1283	Staphylococcus haemolyticus	Staphylococcus haemolyticus	97.013	0.0
+CR_454_Contig_13	1283	Staphylococcus haemolyticus	Staphylococcus haemolyticus	99.539	0.0
+CR_454_Contig_14	1283	Staphylococcus haemolyticus	Staphylococcus haemolyticus	97.721	0.0
+CR_454_Contig_15	46170	Staphylococcus aureus subsp. aureus	Staphylococcus aureus subsp. aureus	98.211	0.0
+CR_455_Contig_0	29385	Staphylococcus saprophyticus	Staphylococcus saprophyticus	99.996	0.0
+CR_455_Contig_1	29385	Staphylococcus saprophyticus	Staphylococcus saprophyticus	99.999	0.0
+CR_456_Contig_0	83334	Escherichia coli O157:H7	Escherichia coli O157:H7	99.948	0.0
+CR_456_Contig_1	562	Escherichia coli	Escherichia coli	99.994	0.0
+CR_457_Contig_0	1211776	Campylobacter jejuni subsp. jejuni NCTC 11168-BN148	Campylobacter jejuni subsp. jejuni NCTC 11168-BN148	99.953	0.0
+CR_458_Contig_0	186538	Zaire ebolavirus	Zaire ebolavirus	100.000	0.0
+CR_459_Contig_0	54388	Salmonella enterica subsp. enterica serovar Paratyphi A	Salmonella enterica subsp. enterica serovar Paratyphi A	100.000	0.0
+CR_45_Contig_0	28082	Legionella anisa	Legionella anisa	99.215	0.0
+CR_45_Contig_1	28082	Legionella anisa	Legionella anisa	99.996	0.0
+CR_45_Contig_2	28087	Legionella sainthelensi	Legionella sainthelensi	99.912	0.0
+CR_45_Contig_3	28082	Legionella anisa	Legionella anisa	99.997	0.0
+CR_460_Contig_0	615	Serratia marcescens	Serratia marcescens	99.997	0.0
+CR_461_Contig_0	1304922	Klebsiella pneumoniae 500_1420	Klebsiella pneumoniae 500_1420	99.978	0.0
+CR_461_Contig_1	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.986	0.0
+CR_461_Contig_2	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.980	0.0
+CR_462_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_463_Contig_0	470934	Pantoea vagans	Pantoea vagans	99.998	0.0
+CR_463_Contig_1	470934	Pantoea vagans	Pantoea vagans	99.999	0.0
+CR_463_Contig_2	470934	Pantoea vagans	Pantoea vagans	99.996	0.0
+CR_463_Contig_3	470934	Pantoea vagans	Pantoea vagans	99.999	0.0
+CR_464_Contig_0	1930557	Shewanella sp. FDAARGOS_354	Shewanella sp. FDAARGOS_354	99.995	0.0
+CR_464_Contig_1	1930557	Shewanella sp. FDAARGOS_354	Shewanella sp. FDAARGOS_354	99.996	0.0
+CR_465_Contig_0	562	Escherichia coli	Escherichia coli	99.943	0.0
+CR_465_Contig_1	562	Escherichia coli	Escherichia coli	99.942	0.0
+CR_465_Contig_2	562	Escherichia coli	Escherichia coli	99.936	0.0
+CR_465_Contig_3	562	Escherichia coli	Escherichia coli	99.950	0.0
+CR_466_Contig_0	119856	Francisella tularensis subsp. tularensis	Francisella tularensis subsp. tularensis	99.985	0.0
+CR_467_Contig_0	562	Escherichia coli	Escherichia coli	98.376	0.0
+CR_467_Contig_1	386585	Escherichia coli O157:H7 str. Sakai	Escherichia coli O157:H7 str. Sakai	99.972	0.0
+CR_467_Contig_2	155864	Escherichia coli O157:H7 str. EDL933	Escherichia coli O157:H7 str. EDL933	99.990	0.0
+CR_467_Contig_3	386585	Escherichia coli O157:H7 str. Sakai	Escherichia coli O157:H7 str. Sakai	99.862	0.0
+CR_467_Contig_4	562	Escherichia coli	Escherichia coli	99.471	0.0
+CR_468_Contig_0	1463165	Klebsiella quasipneumoniae	Klebsiella quasipneumoniae	99.999	0.0
+CR_468_Contig_1	1463165	Klebsiella quasipneumoniae	Klebsiella quasipneumoniae	99.999	0.0
+CR_468_Contig_2	1463165	Klebsiella quasipneumoniae	Klebsiella quasipneumoniae	99.999	0.0
+CR_469_Contig_0	1351	Enterococcus faecalis	Enterococcus faecalis	99.937	0.0
+CR_469_Contig_1	1351	Enterococcus faecalis	Enterococcus faecalis	99.389	0.0
+CR_469_Contig_2	1351	Enterococcus faecalis	Enterococcus faecalis	99.363	0.0
+CR_46_Contig_0	666	Vibrio cholerae	Vibrio cholerae	98.281	0.0
+CR_46_Contig_1	666	Vibrio cholerae	Vibrio cholerae	97.772	0.0
+CR_470_Contig_0	85698	Achromobacter xylosoxidans	Achromobacter xylosoxidans	99.891	0.0
+CR_470_Contig_1	85698	Achromobacter xylosoxidans	Achromobacter xylosoxidans	99.973	0.0
+CR_471_Contig_0	263	Francisella tularensis	Francisella tularensis	99.996	0.0
+CR_471_Contig_1	119856	Francisella tularensis subsp. tularensis	Francisella tularensis subsp. tularensis	99.864	0.0
+CR_472_Contig_0	85698	Achromobacter xylosoxidans	Achromobacter xylosoxidans	99.277	0.0
+CR_473_Contig_0	419947	Mycobacterium tuberculosis H37Ra	Mycobacterium tuberculosis H37Ra	99.979	0.0
+CR_474_Contig_0	633	Yersinia pseudotuberculosis	Yersinia pseudotuberculosis	99.675	0.0
+CR_474_Contig_1	502800	Yersinia pseudotuberculosis YPIII	Yersinia pseudotuberculosis YPIII	99.990	0.0
+CR_475_Contig_0	5661	Leishmania donovani	Leishmania donovani	98.368	0.0
+CR_475_Contig_1	5661	Leishmania donovani	Leishmania donovani	98.956	0.0
+CR_475_Contig_2	5661	Leishmania donovani	Leishmania donovani	99.291	0.0
+CR_475_Contig_3	5661	Leishmania donovani	Leishmania donovani	99.283	0.0
+CR_475_Contig_4	5661	Leishmania donovani	Leishmania donovani	91.816	0.0
+CR_475_Contig_5	5661	Leishmania donovani	Leishmania donovani	99.141	0.0
+CR_475_Contig_6	5661	Leishmania donovani	Leishmania donovani	99.181	0.0
+CR_475_Contig_7	5661	Leishmania donovani	Leishmania donovani	98.750	0.0
+CR_475_Contig_8	5661	Leishmania donovani	Leishmania donovani	99.107	0.0
+CR_475_Contig_9	5661	Leishmania donovani	Leishmania donovani	99.428	0.0
+CR_475_Contig_10	5661	Leishmania donovani	Leishmania donovani	99.218	0.0
+CR_475_Contig_11	5661	Leishmania donovani	Leishmania donovani	99.400	0.0
+CR_475_Contig_12	5661	Leishmania donovani	Leishmania donovani	97.409	0.0
+CR_475_Contig_13	5661	Leishmania donovani	Leishmania donovani	99.198	0.0
+CR_475_Contig_14	5661	Leishmania donovani	Leishmania donovani	99.100	0.0
+CR_475_Contig_15	5661	Leishmania donovani	Leishmania donovani	99.339	0.0
+CR_475_Contig_16	5661	Leishmania donovani	Leishmania donovani	99.969	0.0
+CR_475_Contig_17	5661	Leishmania donovani	Leishmania donovani	99.295	0.0
+CR_475_Contig_18	5661	Leishmania donovani	Leishmania donovani	99.520	0.0
+CR_475_Contig_19	5661	Leishmania donovani	Leishmania donovani	99.386	0.0
+CR_475_Contig_20	5661	Leishmania donovani	Leishmania donovani	99.314	0.0
+CR_475_Contig_21	435258	Leishmania infantum JPCM5	Leishmania infantum JPCM5	98.982	0.0
+CR_475_Contig_22	5661	Leishmania donovani	Leishmania donovani	99.165	0.0
+CR_475_Contig_23	435258	Leishmania infantum JPCM5	Leishmania infantum JPCM5	99.262	0.0
+CR_475_Contig_24	5661	Leishmania donovani	Leishmania donovani	99.461	0.0
+CR_475_Contig_25	435258	Leishmania infantum JPCM5	Leishmania infantum JPCM5	99.331	0.0
+CR_475_Contig_26	435258	Leishmania infantum JPCM5	Leishmania infantum JPCM5	99.091	0.0
+CR_475_Contig_27	5661	Leishmania donovani	Leishmania donovani	99.440	0.0
+CR_475_Contig_28	5661	Leishmania donovani	Leishmania donovani	99.959	0.0
+CR_475_Contig_29	5661	Leishmania donovani	Leishmania donovani	99.943	0.0
+CR_475_Contig_30	5661	Leishmania donovani	Leishmania donovani	99.950	0.0
+CR_475_Contig_31	5661	Leishmania donovani	Leishmania donovani	99.940	0.0
+CR_475_Contig_32	5661	Leishmania donovani	Leishmania donovani	99.149	0.0
+CR_475_Contig_33	5661	Leishmania donovani	Leishmania donovani	99.438	0.0
+CR_475_Contig_34	5661	Leishmania donovani	Leishmania donovani	99.165	0.0
+CR_475_Contig_35	435258	Leishmania infantum JPCM5	Leishmania infantum JPCM5	99.107	0.0
+CR_475_Contig_36	5661	Leishmania donovani	Leishmania donovani	99.942	0.0
+CR_475_Contig_37	5661	Leishmania donovani	Leishmania donovani	99.122	0.0
+CR_475_Contig_38	5661	Leishmania donovani	Leishmania donovani	99.331	0.0
+CR_475_Contig_39	5661	Leishmania donovani	Leishmania donovani	99.273	0.0
+CR_475_Contig_40	5661	Leishmania donovani	Leishmania donovani	99.093	0.0
+CR_475_Contig_41	5661	Leishmania donovani	Leishmania donovani	99.945	0.0
+CR_475_Contig_42	5661	Leishmania donovani	Leishmania donovani	98.989	0.0
+CR_475_Contig_43	5661	Leishmania donovani	Leishmania donovani	99.980	0.0
+CR_475_Contig_44	5661	Leishmania donovani	Leishmania donovani	99.447	0.0
+CR_475_Contig_45	5661	Leishmania donovani	Leishmania donovani	99.968	0.0
+CR_475_Contig_46	435258	Leishmania infantum JPCM5	Leishmania infantum JPCM5	99.106	0.0
+CR_475_Contig_47	435258	Leishmania infantum JPCM5	Leishmania infantum JPCM5	99.180	0.0
+CR_475_Contig_48	435258	Leishmania infantum JPCM5	Leishmania infantum JPCM5	99.422	0.0
+CR_475_Contig_49	5661	Leishmania donovani	Leishmania donovani	97.938	0.0
+CR_475_Contig_50	5661	Leishmania donovani	Leishmania donovani	99.964	0.0
+CR_475_Contig_51	5661	Leishmania donovani	Leishmania donovani	93.023	0.0
+CR_475_Contig_52	5661	Leishmania donovani	Leishmania donovani	98.419	0.0
+CR_475_Contig_53	5661	Leishmania donovani	Leishmania donovani	99.189	0.0
+CR_475_Contig_54	5661	Leishmania donovani	Leishmania donovani	99.242	0.0
+CR_475_Contig_55	5661	Leishmania donovani	Leishmania donovani	98.410	0.0
+CR_476_Contig_0	672	Vibrio vulnificus	Vibrio vulnificus	99.999	0.0
+CR_476_Contig_1	672	Vibrio vulnificus	Vibrio vulnificus	100.000	0.0
+CR_477_Contig_0	624	Shigella sonnei	Shigella sonnei	99.996	0.0
+CR_477_Contig_1	562	Escherichia coli	Escherichia coli	99.529	0.0
+CR_478_Contig_0	34105	Streptobacillus moniliformis	Streptobacillus moniliformis	99.776	0.0
+CR_478_Contig_1	34105	Streptobacillus moniliformis	Streptobacillus moniliformis	99.857	0.0
+CR_479_Contig_0	630	Yersinia enterocolitica	Yersinia enterocolitica	99.695	0.0
+CR_479_Contig_1	630	Yersinia enterocolitica	Yersinia enterocolitica	99.680	0.0
+CR_479_Contig_2	630	Yersinia enterocolitica	Yersinia enterocolitica	99.415	0.0
+CR_479_Contig_3	630	Yersinia enterocolitica	Yersinia enterocolitica	99.381	0.0
+CR_479_Contig_4	630	Yersinia enterocolitica	Yersinia enterocolitica	99.368	0.0
+CR_479_Contig_5	630	Yersinia enterocolitica	Yersinia enterocolitica	99.554	0.0
+CR_479_Contig_6	630	Yersinia enterocolitica	Yersinia enterocolitica	99.276	0.0
+CR_479_Contig_7	630	Yersinia enterocolitica	Yersinia enterocolitica	98.996	0.0
+CR_479_Contig_8	630	Yersinia enterocolitica	Yersinia enterocolitica	99.470	0.0
+CR_479_Contig_9	630	Yersinia enterocolitica	Yersinia enterocolitica	99.296	0.0
+CR_479_Contig_10	630	Yersinia enterocolitica	Yersinia enterocolitica	99.693	0.0
+CR_479_Contig_11	630	Yersinia enterocolitica	Yersinia enterocolitica	98.855	0.0
+CR_479_Contig_12	630	Yersinia enterocolitica	Yersinia enterocolitica	99.435	0.0
+CR_479_Contig_13	630	Yersinia enterocolitica	Yersinia enterocolitica	99.150	0.0
+CR_479_Contig_14	630	Yersinia enterocolitica	Yersinia enterocolitica	98.598	0.0
+CR_479_Contig_15	630	Yersinia enterocolitica	Yersinia enterocolitica	99.614	0.0
+CR_479_Contig_16	630	Yersinia enterocolitica	Yersinia enterocolitica	98.673	0.0
+CR_479_Contig_17	630	Yersinia enterocolitica	Yersinia enterocolitica	99.051	0.0
+CR_479_Contig_18	630	Yersinia enterocolitica	Yersinia enterocolitica	99.608	0.0
+CR_479_Contig_19	630	Yersinia enterocolitica	Yersinia enterocolitica	97.124	0.0
+CR_479_Contig_20	630	Yersinia enterocolitica	Yersinia enterocolitica	98.147	0.0
+CR_479_Contig_21	393305	Yersinia enterocolitica subsp. enterocolitica 8081	Yersinia enterocolitica subsp. enterocolitica 8081	99.012	0.0
+CR_479_Contig_22	630	Yersinia enterocolitica	Yersinia enterocolitica	98.583	0.0
+CR_479_Contig_23	630	Yersinia enterocolitica	Yersinia enterocolitica	99.345	0.0
+CR_47_Contig_0	93061	Staphylococcus aureus subsp. aureus NCTC 8325	Staphylococcus aureus subsp. aureus NCTC 8325	99.276	0.0
+CR_47_Contig_1	93061	Staphylococcus aureus subsp. aureus NCTC 8325	Staphylococcus aureus subsp. aureus NCTC 8325	99.810	0.0
+CR_47_Contig_2	1280	Staphylococcus aureus	Staphylococcus aureus	99.999	0.0
+CR_47_Contig_3	93061	Staphylococcus aureus subsp. aureus NCTC 8325	Staphylococcus aureus subsp. aureus NCTC 8325	99.921	0.0
+CR_47_Contig_4	1280	Staphylococcus aureus	Staphylococcus aureus	99.992	0.0
+CR_480_Contig_0	562	Escherichia coli	Escherichia coli	99.983	0.0
+CR_481_Contig_0	575	Raoultella planticola	Raoultella planticola	99.908	0.0
+CR_481_Contig_1	575	Raoultella planticola	Raoultella planticola	99.873	0.0
+CR_481_Contig_2	575	Raoultella planticola	Raoultella planticola	99.987	0.0
+CR_481_Contig_3	575	Raoultella planticola	Raoultella planticola	99.946	0.0
+CR_481_Contig_4	575	Raoultella planticola	Raoultella planticola	99.077	0.0
+CR_481_Contig_5	575	Raoultella planticola	Raoultella planticola	99.832	0.0
+CR_482_Contig_0	186538	Zaire ebolavirus	Zaire ebolavirus	100.000	0.0
+CR_483_Contig_0	450	Legionella longbeachae	Legionella longbeachae	100.000	0.0
+CR_484_Contig_0	186541	Tai Forest ebolavirus	Tai Forest ebolavirus	100.000	0.0
+CR_485_Contig_0	2027919	Enterobacter cloacae complex sp.	Enterobacter cloacae complex sp.	99.999	0.0
+CR_485_Contig_1	61645	Enterobacter asburiae	Enterobacter asburiae	98.724	0.0
+CR_485_Contig_2	2027919	Enterobacter cloacae complex sp.	Enterobacter cloacae complex sp.	99.753	0.0
+CR_486_Contig_0	419257	Yersinia massiliensis	Yersinia massiliensis	96.294	0.0
+CR_486_Contig_1	631	Yersinia intermedia	Yersinia intermedia	92.544	0.0
+CR_487_Contig_0	5661	Leishmania donovani	Leishmania donovani	99.872	0.0
+CR_487_Contig_1	5661	Leishmania donovani	Leishmania donovani	99.906	0.0
+CR_487_Contig_2	5661	Leishmania donovani	Leishmania donovani	99.906	0.0
+CR_487_Contig_3	5661	Leishmania donovani	Leishmania donovani	99.862	0.0
+CR_487_Contig_4	5661	Leishmania donovani	Leishmania donovani	99.892	0.0
+CR_487_Contig_5	5661	Leishmania donovani	Leishmania donovani	99.720	0.0
+CR_487_Contig_6	5661	Leishmania donovani	Leishmania donovani	98.632	0.0
+CR_487_Contig_7	5661	Leishmania donovani	Leishmania donovani	99.939	0.0
+CR_487_Contig_8	5661	Leishmania donovani	Leishmania donovani	99.281	0.0
+CR_487_Contig_9	5661	Leishmania donovani	Leishmania donovani	99.830	0.0
+CR_487_Contig_10	435258	Leishmania infantum JPCM5	Leishmania infantum JPCM5	99.104	0.0
+CR_487_Contig_11	5661	Leishmania donovani	Leishmania donovani	99.940	0.0
+CR_487_Contig_12	5661	Leishmania donovani	Leishmania donovani	99.946	0.0
+CR_487_Contig_13	5661	Leishmania donovani	Leishmania donovani	99.807	0.0
+CR_487_Contig_14	5661	Leishmania donovani	Leishmania donovani	99.926	0.0
+CR_487_Contig_15	5661	Leishmania donovani	Leishmania donovani	99.895	0.0
+CR_487_Contig_16	5661	Leishmania donovani	Leishmania donovani	97.835	0.0
+CR_487_Contig_17	5661	Leishmania donovani	Leishmania donovani	99.839	0.0
+CR_487_Contig_18	5661	Leishmania donovani	Leishmania donovani	99.454	0.0
+CR_487_Contig_19	5661	Leishmania donovani	Leishmania donovani	98.839	0.0
+CR_487_Contig_20	5661	Leishmania donovani	Leishmania donovani	99.866	0.0
+CR_487_Contig_21	5661	Leishmania donovani	Leishmania donovani	99.951	0.0
+CR_487_Contig_22	5661	Leishmania donovani	Leishmania donovani	99.914	0.0
+CR_487_Contig_23	5661	Leishmania donovani	Leishmania donovani	99.870	0.0
+CR_487_Contig_24	5661	Leishmania donovani	Leishmania donovani	99.780	0.0
+CR_487_Contig_25	5661	Leishmania donovani	Leishmania donovani	99.867	0.0
+CR_487_Contig_26	5661	Leishmania donovani	Leishmania donovani	99.927	0.0
+CR_487_Contig_27	5661	Leishmania donovani	Leishmania donovani	99.909	0.0
+CR_487_Contig_28	5661	Leishmania donovani	Leishmania donovani	99.893	0.0
+CR_487_Contig_29	5661	Leishmania donovani	Leishmania donovani	99.864	0.0
+CR_487_Contig_30	5661	Leishmania donovani	Leishmania donovani	99.910	0.0
+CR_487_Contig_31	5661	Leishmania donovani	Leishmania donovani	99.815	0.0
+CR_487_Contig_32	5661	Leishmania donovani	Leishmania donovani	99.937	0.0
+CR_487_Contig_33	5661	Leishmania donovani	Leishmania donovani	99.808	0.0
+CR_487_Contig_34	5661	Leishmania donovani	Leishmania donovani	99.897	0.0
+CR_487_Contig_35	5661	Leishmania donovani	Leishmania donovani	99.156	0.0
+CR_487_Contig_36	5661	Leishmania donovani	Leishmania donovani	99.961	0.0
+CR_487_Contig_37	5661	Leishmania donovani	Leishmania donovani	99.943	0.0
+CR_487_Contig_38	5661	Leishmania donovani	Leishmania donovani	99.869	0.0
+CR_487_Contig_39	5661	Leishmania donovani	Leishmania donovani	99.858	0.0
+CR_487_Contig_40	5661	Leishmania donovani	Leishmania donovani	99.384	0.0
+CR_487_Contig_41	5661	Leishmania donovani	Leishmania donovani	99.880	0.0
+CR_487_Contig_42	347515	Leishmania major strain Friedlin	Leishmania major strain Friedlin	92.394	0.0
+CR_487_Contig_43	5661	Leishmania donovani	Leishmania donovani	98.851	0.0
+CR_487_Contig_44	5661	Leishmania donovani	Leishmania donovani	99.863	0.0
+CR_487_Contig_45	5661	Leishmania donovani	Leishmania donovani	99.006	0.0
+CR_487_Contig_46	5661	Leishmania donovani	Leishmania donovani	99.767	0.0
+CR_487_Contig_47	5661	Leishmania donovani	Leishmania donovani	99.863	0.0
+CR_487_Contig_48	5661	Leishmania donovani	Leishmania donovani	99.855	0.0
+CR_487_Contig_49	5661	Leishmania donovani	Leishmania donovani	97.365	0.0
+CR_487_Contig_50	5661	Leishmania donovani	Leishmania donovani	99.902	0.0
+CR_487_Contig_51	5661	Leishmania donovani	Leishmania donovani	97.689	0.0
+CR_487_Contig_52	5661	Leishmania donovani	Leishmania donovani	99.876	0.0
+CR_487_Contig_53	5661	Leishmania donovani	Leishmania donovani	99.887	0.0
+CR_487_Contig_54	5661	Leishmania donovani	Leishmania donovani	99.288	0.0
+CR_487_Contig_55	5661	Leishmania donovani	Leishmania donovani	99.867	0.0
+CR_487_Contig_56	5661	Leishmania donovani	Leishmania donovani	99.939	0.0
+CR_487_Contig_57	5661	Leishmania donovani	Leishmania donovani	99.830	0.0
+CR_487_Contig_58	5661	Leishmania donovani	Leishmania donovani	99.880	0.0
+CR_487_Contig_59	5661	Leishmania donovani	Leishmania donovani	99.867	0.0
+CR_487_Contig_60	5661	Leishmania donovani	Leishmania donovani	99.907	0.0
+CR_487_Contig_61	5661	Leishmania donovani	Leishmania donovani	99.845	0.0
+CR_487_Contig_62	5661	Leishmania donovani	Leishmania donovani	99.929	0.0
+CR_487_Contig_63	5661	Leishmania donovani	Leishmania donovani	99.865	0.0
+CR_487_Contig_64	5661	Leishmania donovani	Leishmania donovani	99.812	0.0
+CR_487_Contig_65	5661	Leishmania donovani	Leishmania donovani	99.602	0.0
+CR_487_Contig_66	435258	Leishmania infantum JPCM5	Leishmania infantum JPCM5	99.475	0.0
+CR_487_Contig_67	5661	Leishmania donovani	Leishmania donovani	99.894	0.0
+CR_487_Contig_68	5661	Leishmania donovani	Leishmania donovani	93.827	1.08e-93
+CR_487_Contig_69	5661	Leishmania donovani	Leishmania donovani	87.950	0.0
+CR_487_Contig_70	5661	Leishmania donovani	Leishmania donovani	99.473	0.0
+CR_488_Contig_0	29385	Staphylococcus saprophyticus	Staphylococcus saprophyticus	99.984	0.0
+CR_488_Contig_1	29385	Staphylococcus saprophyticus	Staphylococcus saprophyticus	99.998	0.0
+CR_488_Contig_2	29385	Staphylococcus saprophyticus	Staphylococcus saprophyticus	99.992	0.0
+CR_488_Contig_3	29385	Staphylococcus saprophyticus	Staphylococcus saprophyticus	99.994	0.0
+CR_489_Contig_0	562	Escherichia coli	Escherichia coli	99.933	0.0
+CR_489_Contig_1	1133852	Escherichia coli O104:H4 str. 2011C-3493	Escherichia coli O104:H4 str. 2011C-3493	99.954	0.0
+CR_489_Contig_2	1133852	Escherichia coli O104:H4 str. 2011C-3493	Escherichia coli O104:H4 str. 2011C-3493	99.889	0.0
+CR_489_Contig_3	562	Escherichia coli	Escherichia coli	99.588	0.0
+CR_489_Contig_4	562	Escherichia coli	Escherichia coli	99.941	0.0
+CR_48_Contig_0	28901	Salmonella enterica	Salmonella enterica	99.930	0.0
+CR_48_Contig_1	28901	Salmonella enterica	Salmonella enterica	100.000	0.0
+CR_48_Contig_2	28901	Salmonella enterica	Salmonella enterica	99.909	0.0
+CR_48_Contig_3	28901	Salmonella enterica	Salmonella enterica	99.996	0.0
+CR_490_Contig_0	562	Escherichia coli	Escherichia coli	99.314	0.0
+CR_490_Contig_1	562	Escherichia coli	Escherichia coli	99.648	0.0
+CR_490_Contig_2	562	Escherichia coli	Escherichia coli	99.959	0.0
+CR_490_Contig_3	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.823	0.0
+CR_490_Contig_4	562	Escherichia coli	Escherichia coli	97.732	0.0
+CR_490_Contig_5	562	Escherichia coli	Escherichia coli	98.808	0.0
+CR_490_Contig_6	562	Escherichia coli	Escherichia coli	99.962	0.0
+CR_490_Contig_7	562	Escherichia coli	Escherichia coli	99.866	0.0
+CR_490_Contig_8	562	Escherichia coli	Escherichia coli	99.980	0.0
+CR_490_Contig_9	562	Escherichia coli	Escherichia coli	99.947	0.0
+CR_490_Contig_10	562	Escherichia coli	Escherichia coli	99.037	0.0
+CR_490_Contig_11	562	Escherichia coli	Escherichia coli	99.521	0.0
+CR_490_Contig_12	498388	Escherichia coli C	Escherichia coli C	99.904	0.0
+CR_490_Contig_13	941323	Escherichia coli VR50	Escherichia coli VR50	99.946	0.0
+CR_490_Contig_14	562	Escherichia coli	Escherichia coli	98.975	0.0
+CR_490_Contig_15	511145	Escherichia coli str. K-12 substr. MG1655	Escherichia coli str. K-12 substr. MG1655	99.956	0.0
+CR_490_Contig_16	562	Escherichia coli	Escherichia coli	98.291	0.0
+CR_490_Contig_17	562	Escherichia coli	Escherichia coli	99.907	0.0
+CR_490_Contig_18	562	Escherichia coli	Escherichia coli	99.038	0.0
+CR_490_Contig_19	216592	Escherichia coli 042	Escherichia coli 042	95.065	0.0
+CR_490_Contig_20	562	Escherichia coli	Escherichia coli	99.969	0.0
+CR_490_Contig_21	28901	Salmonella enterica	Salmonella enterica	99.214	0.0
+CR_491_Contig_0	197	Campylobacter jejuni	Campylobacter jejuni	99.983	0.0
+CR_492_Contig_0	584	Proteus mirabilis	Proteus mirabilis	99.211	0.0
+CR_492_Contig_1	584	Proteus mirabilis	Proteus mirabilis	98.831	0.0
+CR_492_Contig_2	584	Proteus mirabilis	Proteus mirabilis	99.004	0.0
+CR_492_Contig_3	584	Proteus mirabilis	Proteus mirabilis	99.852	0.0
+CR_492_Contig_4	584	Proteus mirabilis	Proteus mirabilis	99.223	0.0
+CR_492_Contig_5	584	Proteus mirabilis	Proteus mirabilis	99.950	0.0
+CR_492_Contig_6	584	Proteus mirabilis	Proteus mirabilis	99.185	0.0
+CR_492_Contig_7	584	Proteus mirabilis	Proteus mirabilis	99.887	0.0
+CR_492_Contig_8	584	Proteus mirabilis	Proteus mirabilis	99.878	0.0
+CR_493_Contig_0	186538	Zaire ebolavirus	Zaire ebolavirus	100.000	0.0
+CR_494_Contig_0	630	Yersinia enterocolitica	Yersinia enterocolitica	99.524	0.0
+CR_494_Contig_1	630	Yersinia enterocolitica	Yersinia enterocolitica	99.944	0.0
+CR_494_Contig_2	630	Yersinia enterocolitica	Yersinia enterocolitica	99.976	0.0
+CR_494_Contig_3	630	Yersinia enterocolitica	Yersinia enterocolitica	99.970	0.0
+CR_495_Contig_0	774	Bartonella bacilliformis	Bartonella bacilliformis	100.000	0.0
+CR_496_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.999	0.0
+CR_497_Contig_0	1319	Streptococcus sp. 'group B'	Streptococcus sp. 'group B'	99.991	0.0
+CR_498_Contig_0	485	Neisseria gonorrhoeae	Neisseria gonorrhoeae	99.999	0.0
+CR_499_Contig_0	32022	Campylobacter jejuni subsp. jejuni	Campylobacter jejuni subsp. jejuni	99.814	0.0
+CR_499_Contig_1	1338035	Campylobacter jejuni 32488	Campylobacter jejuni 32488	99.044	0.0
+CR_49_Contig_0	1309	Streptococcus mutans	Streptococcus mutans	99.157	0.0
+CR_4_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.998	0.0
+CR_500_Contig_0	77133	uncultured bacterium	uncultured bacterium	99.590	0.0
+CR_500_Contig_1	1352	Enterococcus faecium	Enterococcus faecium	99.471	0.0
+CR_500_Contig_2	1352	Enterococcus faecium	Enterococcus faecium	98.390	0.0
+CR_501_Contig_0	1811975	Enterobacter sp. HP19	Enterobacter sp. HP19	99.962	0.0
+CR_501_Contig_1	299766	Enterobacter hormaechei subsp. steigerwaltii	Enterobacter hormaechei subsp. steigerwaltii	98.792	0.0
+CR_501_Contig_2	299766	Enterobacter hormaechei subsp. steigerwaltii	Enterobacter hormaechei subsp. steigerwaltii	98.827	0.0
+CR_501_Contig_3	550	Enterobacter cloacae	Enterobacter cloacae	99.438	0.0
+CR_502_Contig_0	1262462	Yersinia enterocolitica (type O:5) str. YE53/03	Yersinia enterocolitica (type O:5) str. YE53/03	99.963	0.0
+CR_503_Contig_0	670	Vibrio parahaemolyticus	Vibrio parahaemolyticus	99.999	0.0
+CR_503_Contig_1	670	Vibrio parahaemolyticus	Vibrio parahaemolyticus	99.999	0.0
+CR_504_Contig_0	632	Yersinia pestis	Yersinia pestis	99.988	0.0
+CR_504_Contig_1	632	Yersinia pestis	Yersinia pestis	99.971	0.0
+CR_504_Contig_2	349746	Yersinia pestis Angola	Yersinia pestis Angola	99.917	0.0
+CR_504_Contig_3	1345702	Yersinia pestis 2944	Yersinia pestis 2944	99.869	0.0
+CR_504_Contig_4	547048	Yersinia pestis biovar Medievalis str. Harbin 35	Yersinia pestis biovar Medievalis str. Harbin 35	99.957	0.0
+CR_505_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.999	0.0
+CR_506_Contig_0	186538	Zaire ebolavirus	Zaire ebolavirus	100.000	0.0
+CR_507_Contig_0	186538	Zaire ebolavirus	Zaire ebolavirus	100.000	0.0
+CR_508_Contig_0	1352	Enterococcus faecium	Enterococcus faecium	99.972	0.0
+CR_508_Contig_1	1352	Enterococcus faecium	Enterococcus faecium	99.967	0.0
+CR_509_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.999	0.0
+CR_50_Contig_0	1420013	Klebsiella pneumoniae 30684/NJST258_2	Klebsiella pneumoniae 30684/NJST258_2	99.953	0.0
+CR_50_Contig_1	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.934	0.0
+CR_510_Contig_0	13373	Burkholderia mallei	Burkholderia mallei	99.968	0.0
+CR_510_Contig_1	13373	Burkholderia mallei	Burkholderia mallei	99.979	0.0
+CR_511_Contig_0	186538	Zaire ebolavirus	Zaire ebolavirus	100.000	0.0
+CR_512_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	98.931	0.0
+CR_512_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.883	0.0
+CR_512_Contig_2	46170	Staphylococcus aureus subsp. aureus	Staphylococcus aureus subsp. aureus	99.989	0.0
+CR_513_Contig_0	1314	Streptococcus pyogenes	Streptococcus pyogenes	100.000	0.0
+CR_514_Contig_0	636	Edwardsiella tarda	Edwardsiella tarda	84.668	0.0
+CR_514_Contig_1	636	Edwardsiella tarda	Edwardsiella tarda	99.671	0.0
+CR_514_Contig_2	636	Edwardsiella tarda	Edwardsiella tarda	99.433	0.0
+CR_514_Contig_3	636	Edwardsiella tarda	Edwardsiella tarda	98.821	0.0
+CR_514_Contig_4	636	Edwardsiella tarda	Edwardsiella tarda	98.734	0.0
+CR_514_Contig_5	636	Edwardsiella tarda	Edwardsiella tarda	99.330	0.0
+CR_514_Contig_6	636	Edwardsiella tarda	Edwardsiella tarda	98.986	0.0
+CR_514_Contig_7	636	Edwardsiella tarda	Edwardsiella tarda	99.232	0.0
+CR_514_Contig_8	636	Edwardsiella tarda	Edwardsiella tarda	98.939	0.0
+CR_514_Contig_9	636	Edwardsiella tarda	Edwardsiella tarda	99.372	0.0
+CR_514_Contig_10	636	Edwardsiella tarda	Edwardsiella tarda	99.262	0.0
+CR_514_Contig_11	636	Edwardsiella tarda	Edwardsiella tarda	98.915	0.0
+CR_514_Contig_12	636	Edwardsiella tarda	Edwardsiella tarda	99.316	0.0
+CR_514_Contig_13	636	Edwardsiella tarda	Edwardsiella tarda	94.670	0.0
+CR_514_Contig_14	636	Edwardsiella tarda	Edwardsiella tarda	99.071	0.0
+CR_515_Contig_0	28035	Staphylococcus lugdunensis	Staphylococcus lugdunensis	100.000	0.0
+CR_515_Contig_1	28035	Staphylococcus lugdunensis	Staphylococcus lugdunensis	99.107	0.0
+CR_516_Contig_0	186538	Zaire ebolavirus	Zaire ebolavirus	99.989	0.0
+CR_517_Contig_0	197	Campylobacter jejuni	Campylobacter jejuni	99.976	0.0
+CR_51_Contig_0	1839798	Bacillus sp. FDAARGOS_235	Bacillus sp. FDAARGOS_235	99.993	0.0
+CR_51_Contig_1	1839798	Bacillus sp. FDAARGOS_235	Bacillus sp. FDAARGOS_235	99.992	0.0
+CR_51_Contig_2	1839798	Bacillus sp. FDAARGOS_235	Bacillus sp. FDAARGOS_235	100.000	0.0
+CR_51_Contig_3	1839798	Bacillus sp. FDAARGOS_235	Bacillus sp. FDAARGOS_235	99.996	0.0
+CR_52_Contig_0	1286	Staphylococcus simulans	Staphylococcus simulans	100.000	0.0
+CR_53_Contig_0	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.993	0.0
+CR_53_Contig_1	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.987	0.0
+CR_53_Contig_2	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.990	0.0
+CR_53_Contig_3	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.983	0.0
+CR_53_Contig_4	573	Klebsiella pneumoniae	Klebsiella pneumoniae	99.991	0.0
+CR_54_Contig_0	380021	Pseudomonas protegens	Pseudomonas protegens	99.996	0.0
+CR_55_Contig_0	228400	Histophilus somni 2336	Histophilus somni 2336	93.827	9.40e-95
+CR_55_Contig_1	747	Pasteurella multocida	Pasteurella multocida	99.122	0.0
+CR_55_Contig_2	584721	Pasteurella multocida subsp. multocida str. 3480	Pasteurella multocida subsp. multocida str. 3480	94.068	0.0
+CR_56_Contig_0	29382	Staphylococcus cohnii	Staphylococcus cohnii	99.959	0.0
+CR_56_Contig_1	29382	Staphylococcus cohnii	Staphylococcus cohnii	99.930	0.0
+CR_56_Contig_2	29382	Staphylococcus cohnii	Staphylococcus cohnii	99.983	0.0
+CR_56_Contig_3	29382	Staphylococcus cohnii	Staphylococcus cohnii	99.964	0.0
+CR_56_Contig_4	29382	Staphylococcus cohnii	Staphylococcus cohnii	99.251	0.0
+CR_57_Contig_0	747	Pasteurella multocida	Pasteurella multocida	99.234	0.0
+CR_57_Contig_1	1304890	Pasteurella multocida OH1905	Pasteurella multocida OH1905	98.996	0.0
+CR_57_Contig_2	1304890	Pasteurella multocida OH1905	Pasteurella multocida OH1905	97.780	0.0
+CR_57_Contig_3	747	Pasteurella multocida	Pasteurella multocida	98.873	0.0
+CR_57_Contig_4	747	Pasteurella multocida	Pasteurella multocida	98.129	0.0
+CR_57_Contig_5	1132496	Pasteurella multocida subsp. multocida str. HN06	Pasteurella multocida subsp. multocida str. HN06	98.923	0.0
+CR_57_Contig_6	115545	Pasteurella multocida subsp. septica	Pasteurella multocida subsp. septica	98.583	0.0
+CR_57_Contig_7	747	Pasteurella multocida	Pasteurella multocida	96.604	0.0
+CR_57_Contig_8	1304890	Pasteurella multocida OH1905	Pasteurella multocida OH1905	97.764	0.0
+CR_57_Contig_9	1304890	Pasteurella multocida OH1905	Pasteurella multocida OH1905	99.258	0.0
+CR_57_Contig_10	747	Pasteurella multocida	Pasteurella multocida	99.227	0.0
+CR_57_Contig_11	747	Pasteurella multocida	Pasteurella multocida	99.110	0.0
+CR_57_Contig_12	747	Pasteurella multocida	Pasteurella multocida	98.800	0.0
+CR_58_Contig_0	1028799	Staphylococcus aureus subsp. aureus VC40	Staphylococcus aureus subsp. aureus VC40	99.399	0.0
+CR_58_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.998	0.0
+CR_58_Contig_2	93061	Staphylococcus aureus subsp. aureus NCTC 8325	Staphylococcus aureus subsp. aureus NCTC 8325	99.711	0.0
+CR_59_Contig_0	64320	Zika virus	Zika virus	100.000	0.0
+CR_5_Contig_0	43675	Rothia mucilaginosa	Rothia mucilaginosa	100.000	0.0
+CR_5_Contig_1	43675	Rothia mucilaginosa	Rothia mucilaginosa	100.000	0.0
+CR_60_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.113	0.0
+CR_60_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.564	0.0
+CR_60_Contig_2	1280	Staphylococcus aureus	Staphylococcus aureus	99.999	0.0
+CR_60_Contig_3	1280	Staphylococcus aureus	Staphylococcus aureus	99.903	0.0
+CR_61_Contig_0	568706	Bordetella pertussis 18323	Bordetella pertussis 18323	99.920	0.0
+CR_61_Contig_1	568706	Bordetella pertussis 18323	Bordetella pertussis 18323	99.972	0.0
+CR_61_Contig_2	568706	Bordetella pertussis 18323	Bordetella pertussis 18323	98.807	0.0
+CR_61_Contig_3	568706	Bordetella pertussis 18323	Bordetella pertussis 18323	99.952	0.0
+CR_62_Contig_0	1296619	Staphylococcus capitis CR01	Staphylococcus capitis CR01	99.988	0.0
+CR_62_Contig_1	1296619	Staphylococcus capitis CR01	Staphylococcus capitis CR01	99.983	0.0
+CR_62_Contig_2	1296619	Staphylococcus capitis CR01	Staphylococcus capitis CR01	99.980	0.0
+CR_62_Contig_3	1283	Staphylococcus haemolyticus	Staphylococcus haemolyticus	99.846	0.0
+CR_63_Contig_0	1352	Enterococcus faecium	Enterococcus faecium	99.968	0.0
+CR_63_Contig_1	1352	Enterococcus faecium	Enterococcus faecium	99.954	0.0
+CR_63_Contig_2	1305849	Enterococcus faecium Aus0085	Enterococcus faecium Aus0085	99.485	0.0
+CR_63_Contig_3	1352	Enterococcus faecium	Enterococcus faecium	99.864	0.0
+CR_64_Contig_0	54291	Raoultella ornithinolytica	Raoultella ornithinolytica	99.962	0.0
+CR_64_Contig_1	54291	Raoultella ornithinolytica	Raoultella ornithinolytica	99.963	0.0
+CR_64_Contig_2	54291	Raoultella ornithinolytica	Raoultella ornithinolytica	99.961	0.0
+CR_64_Contig_3	54291	Raoultella ornithinolytica	Raoultella ornithinolytica	99.973	0.0
+CR_65_Contig_0	11029	Ross River virus	Ross River virus	99.864	0.0
+CR_65_Contig_1	11029	Ross River virus	Ross River virus	99.288	2.87e-140
+CR_66_Contig_0	1249	Weissella paramesenteroides	Weissella paramesenteroides	99.994	0.0
+CR_67_Contig_0	502800	Yersinia pseudotuberculosis YPIII	Yersinia pseudotuberculosis YPIII	100.000	0.0
+CR_68_Contig_0	1639	Listeria monocytogenes	Listeria monocytogenes	99.999	0.0
+CR_68_Contig_1	1639	Listeria monocytogenes	Listeria monocytogenes	99.992	0.0
+CR_69_Contig_0	11029	Ross River virus	Ross River virus	99.949	0.0
+CR_69_Contig_1	11029	Ross River virus	Ross River virus	100.000	4.74e-104
+CR_6_Contig_0	623	Shigella flexneri	Shigella flexneri	99.347	0.0
+CR_6_Contig_1	623	Shigella flexneri	Shigella flexneri	99.529	0.0
+CR_6_Contig_2	623	Shigella flexneri	Shigella flexneri	99.967	0.0
+CR_6_Contig_3	623	Shigella flexneri	Shigella flexneri	99.976	0.0
+CR_6_Contig_4	621	Shigella boydii	Shigella boydii	99.450	0.0
+CR_6_Contig_5	623	Shigella flexneri	Shigella flexneri	99.977	0.0
+CR_6_Contig_6	623	Shigella flexneri	Shigella flexneri	99.639	0.0
+CR_6_Contig_7	623	Shigella flexneri	Shigella flexneri	99.703	0.0
+CR_70_Contig_0	186538	Zaire ebolavirus	Zaire ebolavirus	100.000	0.0
+CR_71_Contig_0	1484157	Pantoea sp. PSNIH2	Pantoea sp. PSNIH2	99.842	0.0
+CR_71_Contig_1	665913	Pantoea calida	Pantoea calida	99.766	0.0
+CR_72_Contig_0	225991	Comamonas aquatica	Comamonas aquatica	90.144	0.0
+CR_73_Contig_0	93220	Pandoraea pnomenusa	Pandoraea pnomenusa	83.408	0.0
+CR_73_Contig_1	134537	Paraburkholderia fungorum	Paraburkholderia fungorum	99.996	0.0
+CR_73_Contig_2	134537	Paraburkholderia fungorum	Paraburkholderia fungorum	98.594	0.0
+CR_73_Contig_3	134537	Paraburkholderia fungorum	Paraburkholderia fungorum	98.631	0.0
+CR_73_Contig_5	1385591	Burkholderia sp. BDU6	Burkholderia sp. BDU6	81.872	5.78e-156
+CR_73_Contig_6	1385591	Burkholderia sp. BDU6	Burkholderia sp. BDU6	81.872	1.11e-155
+CR_74_Contig_0	64320	Zika virus	Zika virus	99.889	0.0
+CR_75_Contig_0	562	Escherichia coli	Escherichia coli	99.960	0.0
+CR_75_Contig_1	562	Escherichia coli	Escherichia coli	99.984	0.0
+CR_75_Contig_2	562	Escherichia coli	Escherichia coli	99.560	0.0
+CR_75_Contig_3	562	Escherichia coli	Escherichia coli	99.662	0.0
+CR_76_Contig_0	1201292	Enterococcus faecalis ATCC 29212	Enterococcus faecalis ATCC 29212	99.928	0.0
+CR_76_Contig_1	1201292	Enterococcus faecalis ATCC 29212	Enterococcus faecalis ATCC 29212	98.288	0.0
+CR_76_Contig_2	1351	Enterococcus faecalis	Enterococcus faecalis	99.943	0.0
+CR_76_Contig_3	1351	Enterococcus faecalis	Enterococcus faecalis	98.398	0.0
+CR_77_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_78_Contig_0	481787	Cloning vector pCHIK-37997ic	Cloning vector pCHIK-37997ic	99.975	0.0
+CR_79_Contig_0	548	Klebsiella aerogenes	Klebsiella aerogenes	99.998	0.0
+CR_7_Contig_0	1323661	Staphylococcus aureus CA-347	Staphylococcus aureus CA-347	99.992	0.0
+CR_7_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.813	0.0
+CR_80_Contig_0	77133	uncultured bacterium	uncultured bacterium	99.553	0.0
+CR_80_Contig_1	562	Escherichia coli	Escherichia coli	99.977	0.0
+CR_80_Contig_2	1355100	Escherichia coli JJ1886	Escherichia coli JJ1886	99.965	0.0
+CR_80_Contig_3	562	Escherichia coli	Escherichia coli	99.644	0.0
+CR_81_Contig_0	545	Citrobacter koseri	Citrobacter koseri	99.967	0.0
+CR_81_Contig_1	545	Citrobacter koseri	Citrobacter koseri	99.995	0.0
+CR_82_Contig_0	1038927	Escherichia coli O104:H4	Escherichia coli O104:H4	99.997	0.0
+CR_82_Contig_1	1038927	Escherichia coli O104:H4	Escherichia coli O104:H4	99.985	0.0
+CR_82_Contig_2	1038927	Escherichia coli O104:H4	Escherichia coli O104:H4	99.995	0.0
+CR_83_Contig_0	1770	Mycobacterium avium subsp. paratuberculosis	Mycobacterium avium subsp. paratuberculosis	99.996	0.0
+CR_84_Contig_0	28901	Salmonella enterica	Salmonella enterica	99.999	0.0
+CR_84_Contig_1	28901	Salmonella enterica	Salmonella enterica	100.000	0.0
+CR_84_Contig_2	28901	Salmonella enterica	Salmonella enterica	99.998	0.0
+CR_85_Contig_0	32009	Burkholderia gladioli pv. gladioli	Burkholderia gladioli pv. gladioli	99.991	0.0
+CR_85_Contig_1	32009	Burkholderia gladioli pv. gladioli	Burkholderia gladioli pv. gladioli	99.984	0.0
+CR_85_Contig_2	32009	Burkholderia gladioli pv. gladioli	Burkholderia gladioli pv. gladioli	99.991	0.0
+CR_86_Contig_0	1280	Staphylococcus aureus	Staphylococcus aureus	99.967	0.0
+CR_86_Contig_1	1280	Staphylococcus aureus	Staphylococcus aureus	99.994	0.0
+CR_87_Contig_0	747	Pasteurella multocida	Pasteurella multocida	100.000	0.0
+CR_88_Contig_0	217204	Achromobacter insolitus	Achromobacter insolitus	99.976	0.0
+CR_88_Contig_1	217204	Achromobacter insolitus	Achromobacter insolitus	98.694	0.0
+CR_88_Contig_2	217204	Achromobacter insolitus	Achromobacter insolitus	99.979	0.0
+CR_89_Contig_0	1812935	Enterobacter roggenkampii	Enterobacter roggenkampii	93.803	0.0
+CR_89_Contig_1	72407	Klebsiella pneumoniae subsp. pneumoniae	Klebsiella pneumoniae subsp. pneumoniae	99.924	0.0
+CR_8_Contig_0	487	Neisseria meningitidis	Neisseria meningitidis	99.999	0.0
+CR_90_Contig_0	670	Vibrio parahaemolyticus	Vibrio parahaemolyticus	99.997	0.0
+CR_90_Contig_1	670	Vibrio parahaemolyticus	Vibrio parahaemolyticus	99.997	0.0
+CR_91_Contig_0	186538	Zaire ebolavirus	Zaire ebolavirus	100.000	0.0
+CR_92_Contig_0	490	Neisseria sicca	Neisseria sicca	99.999	0.0
+CR_93_Contig_0	451515	Staphylococcus aureus subsp. aureus USA300_FPR3757	Staphylococcus aureus subsp. aureus USA300_FPR3757	98.623	0.0
+CR_93_Contig_1	46170	Staphylococcus aureus subsp. aureus	Staphylococcus aureus subsp. aureus	99.845	0.0
+CR_93_Contig_2	1280	Staphylococcus aureus	Staphylococcus aureus	100.000	0.0
+CR_93_Contig_3	1280	Staphylococcus aureus	Staphylococcus aureus	96.524	0.0
+CR_93_Contig_4	1280	Staphylococcus aureus	Staphylococcus aureus	99.986	0.0
+CR_93_Contig_5	1280	Staphylococcus aureus	Staphylococcus aureus	99.828	0.0
+CR_93_Contig_6	1280	Staphylococcus aureus	Staphylococcus aureus	99.971	0.0
+CR_93_Contig_7	1280	Staphylococcus aureus	Staphylococcus aureus	99.952	0.0
+CR_93_Contig_8	1280	Staphylococcus aureus	Staphylococcus aureus	99.982	0.0
+CR_93_Contig_9	46170	Staphylococcus aureus subsp. aureus	Staphylococcus aureus subsp. aureus	99.378	0.0
+CR_93_Contig_10	1280	Staphylococcus aureus	Staphylococcus aureus	99.955	0.0
+CR_94_Contig_0	40324	Stenotrophomonas maltophilia	Stenotrophomonas maltophilia	99.992	0.0
+CR_94_Contig_1	40324	Stenotrophomonas maltophilia	Stenotrophomonas maltophilia	98.187	0.0
+CR_95_Contig_0	32021	Campylobacter jejuni subsp. doylei	Campylobacter jejuni subsp. doylei	99.993	0.0
+CR_96_Contig_0	676	Vibrio fluvialis	Vibrio fluvialis	100.000	0.0
+CR_96_Contig_1	676	Vibrio fluvialis	Vibrio fluvialis	100.000	0.0
+CR_97_Contig_0	545	Citrobacter koseri	Citrobacter koseri	99.957	0.0
+CR_97_Contig_1	545	Citrobacter koseri	Citrobacter koseri	99.992	0.0
+CR_97_Contig_2	1064539	Azospirillum brasilense Sp245	Azospirillum brasilense Sp245	100.000	0.0
+CR_98_Contig_0	632	Yersinia pestis	Yersinia pestis	99.643	0.0
+CR_98_Contig_1	633	Yersinia pseudotuberculosis	Yersinia pseudotuberculosis	99.549	0.0
+CR_99_Contig_0	47880	Pseudomonas fulva	Pseudomonas fulva	99.995	0.0
+CR_9_Contig_0	37124	Chikungunya virus	Chikungunya virus	99.974	0.0
