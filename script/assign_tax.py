@@ -17,13 +17,32 @@ class AssignTaxID:
         tax_file = open(self.taxPath, "r")
         for line in tax_file:
             tmp = line.split("\t")
-            taxDict[tmp[0]] = tmp[1]
+            taxDict[tmp[0]] = {
+                'taxID': tmp[1],
+                'sciName': tmp[2],
+                'evalue': tmp[5]
+            }
+            taxDict[tmp[0]]['taxID'] = tmp[1]
+            taxDict[tmp[0]]['sciName'] = tmp[2]
+            taxDict[tmp[0]]['evalue'] = tmp[5]
         return taxDict
     def ConstructDB(self, taxDict=None, fastaObj=None):
         db = {}
+        db['taxonomy'] = {}
+        db['markers'] = {}
         for records in fastaObj:
-            print(taxDict[records.id])
-        
+            print("doing %s"%(records.id))
+            if records.id in taxDict:
+                db['taxonomy'][taxDict[records.id]['sciName']] = len(records.seq)
+                db['markers'][taxDict[records.id]['sciName']] = {
+                                                                'clade': '',
+                                                                'ext': {},
+                                                                'len':len(records.seq),
+                                                                'score': taxDict[records.id]['evalue'],
+                                                                'taxon': taxDict[records.id]['taxID']
+                                                                }
+            else:
+                continue    
         return db
     def main(self):
         taxDict = self.GenerateDict()
