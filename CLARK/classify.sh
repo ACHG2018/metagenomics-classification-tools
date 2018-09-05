@@ -8,7 +8,7 @@
 #        - <out_prefix>  output prefix
 #
 # Outputs:
-#		 - raw.csv       Each read mapped to taxonomic id
+#        - raw.csv       Each read mapped to taxonomic id
 #        - abundance.txt Overall abundance estimation
 
 if [ $# -lt 3 ]; then
@@ -30,8 +30,8 @@ fi
 
 # Clark classification
 ./classify_metagenome.sh -P Hello_World_R1.fa Hello_World_R2.fa \
-	-R "${current}/$3_raw" --light
+    -R "${current}/$3_raw" --light
 
 # Abundance estimation
 ./estimate_abundance.sh -F "${current}/$3_raw.csv" \
-	-D DIR_DB > "${current}/$3_abundance.txt"
+    -D DIR_DB > "${current}/$3_abundance.txt"
