@@ -29,7 +29,7 @@ if [ ! -d "DIR_DB/Custom" ]; then
 fi
 
 # Clark classification
-./classify_metagenome.sh -P Hello_World_R1.fa Hello_World_R2.fa \
+./classify_metagenome.sh -P $r1 $r2 \
     -R "${current}/$3_raw" --light
 
 # Abundance estimation

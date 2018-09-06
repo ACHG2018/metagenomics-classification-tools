@@ -13,6 +13,7 @@ if [ $# -lt 2 ]; then
 fi
 
 mapping=$(readlink -ev $1)
+db=$(readlink -ev $2)
 cd $(dirname $0)
 
 if [ ! -d "CLARKSCV1.2.5" ]; then
@@ -24,7 +25,7 @@ cd CLARKSCV1.2.5
 
 # Put reference files into a custom db folder
 mkdir -p DIR_DB/Custom
-cp "$2/*.fasta DIR_DB/Custom"
+cp $db/*.fasta DIR_DB/Custom
 
 # Reset any existing entries
 ./resetCustomDB.sh
