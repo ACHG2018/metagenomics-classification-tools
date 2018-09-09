@@ -1,5 +1,0 @@
-Name,TaxID,Lineage,Count,Proportion_All(%),Proportion_Classified(%)
-Francisella tularensis,263,Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella,1000,33.3333,33.3444
-Staphylococcus aureus,1280,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,999,33.3,33.3111
-Zika virus,64320,;;;;Flaviviridae;Flavivirus,1000,33.3333,33.3444
-UNKNOWN,UNKNOWN,UNKNOWN,1,0.0333333,-
