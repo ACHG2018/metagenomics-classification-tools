@@ -1,0 +1,30 @@
+  0.03	1	1	U	0	unclassified
+ 99.97	2999	137	R	1	root
+ 62.07	1862	5	R1	131567	  cellular organisms
+ 61.90	1857	0	D	2	    Bacteria
+ 33.33	1000	0	P	1224	      Proteobacteria
+ 33.33	1000	0	C	1236	        Gammaproteobacteria
+ 33.33	1000	0	O	72273	          Thiotrichales
+ 33.33	1000	0	F	34064	            Francisellaceae
+ 33.33	1000	0	G	262	              Francisella
+ 33.33	1000	354	S	263	                Francisella tularensis
+ 21.50	645	645	S1	119857	                  Francisella tularensis subsp. holarctica
+  0.03	1	1	S1	119856	                  Francisella tularensis subsp. tularensis
+ 28.57	857	0	D1	1783272	      Terrabacteria group
+ 28.57	857	0	P	1239	        Firmicutes
+ 28.57	857	0	C	91061	          Bacilli
+ 28.57	857	0	O	1385	            Bacillales
+ 28.57	857	0	F	90964	              Staphylococcaceae
+ 28.57	857	2	G	1279	                Staphylococcus
+ 28.43	853	839	S	1280	                  Staphylococcus aureus
+  0.30	9	9	S1	948563	                    Staphylococcus aureus O46
+  0.10	3	3	S1	1323661	                    Staphylococcus aureus CA-347
+  0.07	2	1	S1	46170	                    Staphylococcus aureus subsp. aureus
+  0.03	1	1	S2	1028799	                      Staphylococcus aureus subsp. aureus VC40
+  0.07	2	2	S	29388	                  Staphylococcus capitis
+ 33.33	1000	0	D	10239	  Viruses
+ 33.33	1000	0	D1	439488	    ssRNA viruses
+ 33.33	1000	0	D2	35278	      ssRNA positive-strand viruses, no DNA stage
+ 33.33	1000	0	F	11050	        Flaviviridae
+ 33.33	1000	0	G	11051	          Flavivirus
+ 33.33	1000	1000	S	64320	            Zika virus
