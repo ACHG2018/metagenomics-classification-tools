@@ -10,7 +10,7 @@ See [Wiki Page](https://github.com/ACHG2018/metagenomics-classification-tools/wi
 
 ## Usage of the Scripts
 
-Download and install CLARK
+Download and install Phylosift, Download datasets and running Phylosift on them
 ```
 ./phylosift.sh
 ```
