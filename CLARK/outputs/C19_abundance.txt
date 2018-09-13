@@ -1,0 +1,26 @@
+Name,TaxID,Lineage,Count,Proportion_All(%),Proportion_Classified(%)
+Aspergillus niger,5061,Eukaryota;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus,1,0.000294587,0.00029888
+Burkholderia pseudomallei,28450,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia,1,0.000294587,0.00029888
+Chikungunya virus,37124,;;;;Togaviridae;Alphavirus,24,0.00707009,0.00717311
+Cutibacterium acnes,1747,Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Cutibacterium,4,0.00117835,0.00119552
+Enterococcus faecalis,1351,Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus,6,0.00176752,0.00179328
+Enterococcus faecium,1352,Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus,634,0.186768,0.18949
+Escherichia coli,562,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia,36,0.0106051,0.0107597
+Leishmania donovani,5661,Eukaryota;;;Kinetoplastida;Trypanosomatidae;Leishmania,13,0.00382963,0.00388543
+Listeria monocytogenes,1639,Bacteria;Firmicutes;Bacilli;Bacillales;Listeriaceae;Listeria,1,0.000294587,0.00029888
+Pseudomonas aeruginosa,287,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,1,0.000294587,0.00029888
+Shigella sonnei,624,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella,1,0.000294587,0.00029888
+Staphylococcus aureus,1280,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,332319,97.8969,99.3233
+Staphylococcus capitis,29388,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,103,0.0303425,0.0307846
+Staphylococcus cohnii,29382,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,2,0.000589175,0.000597759
+Staphylococcus epidermidis,1282,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,394,0.116067,0.117759
+Staphylococcus haemolyticus,1283,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,568,0.167326,0.169764
+Staphylococcus hominis,1290,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,2,0.000589175,0.000597759
+Staphylococcus lugdunensis,28035,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,98,0.0288696,0.0292902
+Staphylococcus saprophyticus,29385,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,271,0.0798331,0.0809963
+Staphylococcus simulans,1286,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,19,0.00559716,0.00567871
+Staphylococcus warneri,1292,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,81,0.0238616,0.0242092
+Streptococcus agalactiae,1311,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,2,0.000589175,0.000597759
+Yersinia frederiksenii,29484,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Yersinia,1,0.000294587,0.00029888
+Yersinia pestis,632,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Yersinia,1,0.000294587,0.00029888
+UNKNOWN,UNKNOWN,UNKNOWN,4875,1.43611,-

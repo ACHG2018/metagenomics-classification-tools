@@ -1,0 +1,32 @@
+Name,TaxID,Lineage,Count,Proportion_All(%),Proportion_Classified(%)
+Achromobacter xylosoxidans,85698,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Achromobacter,1,0.000130735,0.000131175
+Aeromonas sp. ASNIH7,1920107,Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas,1,0.000130735,0.000131175
+Aspergillus niger,5061,Eukaryota;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus,3,0.000392204,0.000393524
+Bacillus anthracis,1392,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,1,0.000130735,0.000131175
+Bacillus sp. FDAARGOS_235,1839798,Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus,1,0.000130735,0.000131175
+Chikungunya virus,37124,;;;;Togaviridae;Alphavirus,35,0.00457571,0.00459111
+Cutibacterium acnes,1747,Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Cutibacterium,1,0.000130735,0.000131175
+Enterococcus faecalis,1351,Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus,4,0.000522939,0.000524698
+Enterococcus faecium,1352,Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus,926,0.12106,0.121468
+Escherichia coli,562,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia,114,0.0149038,0.0149539
+Klebsiella pneumoniae,573,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella,6,0.000784408,0.000787047
+Leishmania donovani,5661,Eukaryota;;;Kinetoplastida;Trypanosomatidae;Leishmania,9,0.00117661,0.00118057
+Pseudomonas aeruginosa,287,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,2,0.000261469,0.000262349
+Salmonella enterica,28901,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella,1,0.000130735,0.000131175
+Staphylococcus aureus,1280,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,759722,99.322,99.6562
+Staphylococcus capitis,29388,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,85,0.0111124,0.0111498
+Staphylococcus cohnii,29382,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,3,0.000392204,0.000393524
+Staphylococcus epidermidis,1282,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,485,0.0634063,0.0636197
+Staphylococcus haemolyticus,1283,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,608,0.0794867,0.0797541
+Staphylococcus hominis,1290,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,2,0.000261469,0.000262349
+Staphylococcus lugdunensis,28035,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,47,0.00614453,0.0061652
+Staphylococcus saprophyticus,29385,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,212,0.0277158,0.027809
+Staphylococcus sciuri,1296,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,2,0.000261469,0.000262349
+Staphylococcus simulans,1286,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,18,0.00235322,0.00236114
+Staphylococcus warneri,1292,Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus,46,0.0060138,0.00603403
+Stenotrophomonas maltophilia,40324,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,1,0.000130735,0.000131175
+Xanthomonas vesicatoria,56460,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas,1,0.000130735,0.000131175
+Yersinia pestis,632,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Yersinia,2,0.000261469,0.000262349
+Zaire ebolavirus,186538,;;;Mononegavirales;Filoviridae;Ebolavirus,3,0.000392204,0.000393524
+uncultured bacterium,77133,Bacteria;;;;;,1,0.000130735,0.000131175
+UNKNOWN,UNKNOWN,UNKNOWN,2565,0.335334,-
