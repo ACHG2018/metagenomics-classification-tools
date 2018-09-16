@@ -1,87 +1,97 @@
 Name,TaxID,Lineage,Count,Proportion_All(%),Proportion_Classified(%)
-Achromobacter xylosoxidans,85698,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Achromobacter,3,7.5e-05,0.00198689
-Acinetobacter nosocomialis,106654,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter,3,7.5e-05,0.00198689
-Aeromonas caviae,648,Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas,4,0.0001,0.00264918
-Aeromonas hydrophila,644,Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas,1,2.5e-05,0.000662296
-Aeromonas sp. ASNIH7,1920107,Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas,14,0.00035,0.00927214
-Aggregatibacter aphrophilus,732,Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Aggregatibacter,35,0.000875,0.0231803
-Aspergillus niger,5061,Eukaryota;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus,6602,0.16505,4.37247
-Bordetella bronchiseptica,518,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Bordetella,2,5e-05,0.00132459
-Brevundimonas vesicularis,41276,Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Brevundimonas,1,2.5e-05,0.000662296
-Burkholderia cenocepacia,95486,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia,4,0.0001,0.00264918
-Burkholderia cepacia,292,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia,5,0.000125,0.00331148
-Burkholderia mallei,13373,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia,17,0.000425,0.011259
-Burkholderia multivorans,87883,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia,1,2.5e-05,0.000662296
-Burkholderia pseudomallei,28450,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia,10,0.00025,0.00662296
-Burkholderia thailandensis,57975,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia,21,0.000525,0.0139082
-Campylobacter jejuni,197,Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter,30,0.00075,0.0198689
-Cedecea neteri,158822,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Cedecea,2,5e-05,0.00132459
-Chikungunya virus,37124,;;;;Togaviridae;Alphavirus,3,7.5e-05,0.00198689
-Citrobacter amalonaticus,35703,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter,4,0.0001,0.00264918
-Citrobacter freundii,546,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter,2,5e-05,0.00132459
-Citrobacter koseri,545,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter,145,0.003625,0.0960328
-Citrobacter sp. FDAARGOS_156,1702170,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter,2,5e-05,0.00132459
-Citrobacter werkmanii,67827,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter,1,2.5e-05,0.000662296
-Clostridioides difficile,1496,Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Clostridioides,2,5e-05,0.00132459
-Corynebacterium diphtheriae,1717,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium,5,0.000125,0.00331148
-Corynebacterium jeikeium,38289,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium,7,0.000175,0.00463607
-Cutibacterium acnes,1747,Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Cutibacterium,50281,1.25703,33.3009
-Edwardsiella tarda,636,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Hafniaceae;Edwardsiella,5,0.000125,0.00331148
-Enterobacter cloacae complex sp.,2027919,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter,4,0.0001,0.00264918
-Enterobacter hormaechei,158836,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter,2,5e-05,0.00132459
-Enterobacter kobei,208224,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter,7,0.000175,0.00463607
-Enterobacter roggenkampii,1812935,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter,10,0.00025,0.00662296
-Enterococcus faecalis,1351,Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus,3,7.5e-05,0.00198689
-Enterococcus faecium,1352,Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus,4,0.0001,0.00264918
-Escherichia coli,562,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia,76561,1.91403,50.706
-Gardnerella vaginalis,2702,Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Gardnerella,4,0.0001,0.00264918
-Grimontia hollisae,673,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Grimontia,2,5e-05,0.00132459
-Haemophilus influenzae,727,Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus,42,0.00105,0.0278164
-Helicobacter pylori,210,Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter,1,2.5e-05,0.000662296
-Jonesia denitrificans,43674,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Jonesiaceae;Jonesia,3,7.5e-05,0.00198689
-Klebsiella pneumoniae,573,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella,133,0.003325,0.0880853
-Kocuria rhizophila,72000,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Kocuria,11,0.000275,0.00728525
-Leishmania donovani,5661,Eukaryota;;;Kinetoplastida;Trypanosomatidae;Leishmania,12754,0.31885,8.44692
-Leptospira interrogans,173,Bacteria;Spirochaetes;Spirochaetia;;Leptospiraceae;Leptospira,70,0.00175,0.0463607
-Micrococcus luteus,1270,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Micrococcus,9,0.000225,0.00596066
-Mobiluncus curtisii,2051,Bacteria;Actinobacteria;Actinobacteria;Actinomycetales;Actinomycetaceae;Mobiluncus,1,2.5e-05,0.000662296
-Moraxella catarrhalis,480,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Moraxella,3,7.5e-05,0.00198689
-Morganella morganii,582,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Morganella,2,5e-05,0.00132459
-Mycobacterium avium,1764,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium,2,5e-05,0.00132459
-Mycobacterium tuberculosis,1773,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium,3,7.5e-05,0.00198689
-Neisseria gonorrhoeae,485,Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria,46,0.00115,0.0304656
-Neisseria meningitidis,487,Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria,471,0.011775,0.311941
-Nocardia brasiliensis,37326,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Nocardiaceae;Nocardia,10,0.00025,0.00662296
-Nocardia farcinica,37329,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Nocardiaceae;Nocardia,8,0.0002,0.00529836
-Pantoea vagans,470934,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea,1,2.5e-05,0.000662296
-Pasteurella multocida,747,Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Pasteurella,4,0.0001,0.00264918
-Propionibacterium freudenreichii,1744,Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium,26,0.00065,0.0172197
-Proteus mirabilis,584,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus,261,0.006525,0.172859
-Providencia stuartii,588,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Providencia,5,0.000125,0.00331148
-Pseudomonas putida,303,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,1,2.5e-05,0.000662296
-Pseudopropionibacterium propionicum,1750,Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Pseudopropionibacterium,20,0.0005,0.0132459
-Psychrobacter sp. PRwf-1,349106,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter,1,2.5e-05,0.000662296
-Ralstonia pickettii,329,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Ralstonia,1,2.5e-05,0.000662296
-Raoultella planticola,575,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Raoultella,3,7.5e-05,0.00198689
-Ross River virus,11029,;;;;Togaviridae;Alphavirus,7,0.000175,0.00463607
-Rothia mucilaginosa,43675,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Rothia,4,0.0001,0.00264918
-Salmonella enterica,28901,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella,79,0.001975,0.0523213
-Serratia fonticola,47917,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Serratia,5,0.000125,0.00331148
-Serratia marcescens,615,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Serratia,8,0.0002,0.00529836
-Shigella flexneri,623,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella,551,0.013775,0.364925
-Shigella sonnei,624,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella,2180,0.0545,1.4438
-Streptococcus pyogenes,1314,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,2,5e-05,0.00132459
-Streptococcus salivarius,1304,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,3,7.5e-05,0.00198689
-Vibrio alginolyticus,663,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,1,2.5e-05,0.000662296
-Vibrio cholerae,666,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,1,2.5e-05,0.000662296
-Vibrio diabolicus,50719,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,7,0.000175,0.00463607
-Vibrio mimicus,674,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,4,0.0001,0.00264918
-Vibrio parahaemolyticus,670,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,7,0.000175,0.00463607
-Vibrio vulnificus,672,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,2,5e-05,0.00132459
-Yersinia enterocolitica,630,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Yersinia,4,0.0001,0.00264918
-Yersinia frederiksenii,29484,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Yersinia,155,0.003875,0.102656
-Yersinia pestis,632,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Yersinia,243,0.006075,0.160938
-Yersinia pseudotuberculosis,633,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Yersinia,11,0.000275,0.00728525
-Zaire ebolavirus,186538,;;;Mononegavirales;Filoviridae;Ebolavirus,1,2.5e-05,0.000662296
-uncultured bacterium,77133,Bacteria;;;;;,14,0.00035,0.00927214
-UNKNOWN,UNKNOWN,UNKNOWN,3849010,96.2253,-
+Achromobacter xylosoxidans,85698,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Achromobacter,7,0.000175,0.00569351
+Aeromonas salmonicida,645,Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas,12,0.0003,0.0097603
+Aeromonas sp. ASNIH7,1920107,Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas,23,0.000575,0.0187072
+Aggregatibacter aphrophilus,732,Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Aggregatibacter,12,0.0003,0.0097603
+Aspergillus niger,5061,Eukaryota;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Aspergillus,7683,0.192075,6.24903
+Bordetella parapertussis,519,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Bordetella,1,2.5e-05,0.000813359
+Burkholderia cenocepacia,95486,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia,2,5e-05,0.00162672
+Burkholderia pseudomallei,28450,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia,1,2.5e-05,0.000813359
+Burkholderia thailandensis,57975,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia,11,0.000275,0.00894694
+Burkholderia vietnamiensis,60552,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia,1,2.5e-05,0.000813359
+Cedecea neteri,158822,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Cedecea,2,5e-05,0.00162672
+Citrobacter amalonaticus,35703,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter,21,0.000525,0.0170805
+Citrobacter braakii,57706,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter,11,0.000275,0.00894694
+Citrobacter freundii,546,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter,20,0.0005,0.0162672
+Citrobacter koseri,545,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter,6,0.00015,0.00488015
+Citrobacter sp. 92,2019568,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter,5,0.000125,0.00406679
+Citrobacter sp. FDAARGOS_156,1702170,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter,28,0.0007,0.022774
+Citrobacter werkmanii,67827,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter,18,0.00045,0.0146405
+Clostridioides difficile,1496,Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Clostridioides,1,2.5e-05,0.000813359
+Comamonas aquatica,225991,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Comamonas,2,5e-05,0.00162672
+Corynebacterium jeikeium,38289,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium,2,5e-05,0.00162672
+Cutibacterium acnes,1747,Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Cutibacterium,73448,1.8362,59.7396
+Edwardsiella tarda,636,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Hafniaceae;Edwardsiella,3,7.5e-05,0.00244008
+Enterobacter cloacae complex sp.,2027919,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter,15,0.000375,0.0122004
+Enterobacter hormaechei,158836,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter,16,0.0004,0.0130137
+Enterobacter kobei,208224,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter,12,0.0003,0.0097603
+Enterobacter roggenkampii,1812935,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter,9,0.000225,0.00732023
+Enterobacter sp. HP19,1811975,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter,1,2.5e-05,0.000813359
+Escherichia coli,562,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia,27737,0.693425,22.5601
+Francisella tularensis,263,Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella,124,0.0031,0.100856
+Grimontia hollisae,673,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Grimontia,2,5e-05,0.00162672
+Haemophilus influenzae,727,Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus,7,0.000175,0.00569351
+Helicobacter pylori,210,Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter,3,7.5e-05,0.00244008
+Histophilus somni,731,Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Histophilus,5,0.000125,0.00406679
+Jonesia denitrificans,43674,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Jonesiaceae;Jonesia,1,2.5e-05,0.000813359
+Klebsiella aerogenes,548,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella,1,2.5e-05,0.000813359
+Klebsiella oxytoca,571,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella,11,0.000275,0.00894694
+Klebsiella pneumoniae,573,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella,56,0.0014,0.0455481
+Klebsiella quasipneumoniae,1463165,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella,6,0.00015,0.00488015
+Leclercia adecarboxylata,83655,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Leclercia,16,0.0004,0.0130137
+Leishmania donovani,5661,Eukaryota;;;Kinetoplastida;Trypanosomatidae;Leishmania,9857,0.246425,8.01728
+Lelliottia amnigena,61646,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Lelliottia,10,0.00025,0.00813359
+Leptospira interrogans,173,Bacteria;Spirochaetes;Spirochaetia;;Leptospiraceae;Leptospira,1,2.5e-05,0.000813359
+Listeria monocytogenes,1639,Bacteria;Firmicutes;Bacilli;Bacillales;Listeriaceae;Listeria,2,5e-05,0.00162672
+Mobiluncus curtisii,2051,Bacteria;Actinobacteria;Actinobacteria;Actinomycetales;Actinomycetaceae;Mobiluncus,1,2.5e-05,0.000813359
+Moraxella catarrhalis,480,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Moraxella,28,0.0007,0.022774
+Morganella morganii,582,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Morganella,2,5e-05,0.00162672
+Mycobacterium tuberculosis,1773,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Mycobacteriaceae;Mycobacterium,1,2.5e-05,0.000813359
+Neisseria gonorrhoeae,485,Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria,8,0.0002,0.00650687
+Neisseria meningitidis,487,Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria,3,7.5e-05,0.00244008
+Nocardia brasiliensis,37326,Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Nocardiaceae;Nocardia,1,2.5e-05,0.000813359
+Oligella urethralis,90245,Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Oligella,1,2.5e-05,0.000813359
+Pantoea sp. PSNIH2,1484157,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea,53,0.001325,0.043108
+Pantoea vagans,470934,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Erwiniaceae;Pantoea,14,0.00035,0.011387
+Parabacteroides distasonis,823,Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides,1,2.5e-05,0.000813359
+Pasteurella multocida,747,Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Pasteurella,8,0.0002,0.00650687
+Pluralibacter gergoviae,61647,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Pluralibacter,3,7.5e-05,0.00244008
+Pragia fontium,82985,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Budviciaceae;Pragia,12,0.0003,0.0097603
+Propionibacterium freudenreichii,1744,Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium,7,0.000175,0.00569351
+Proteus mirabilis,584,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus,59,0.001475,0.0479882
+Proteus vulgaris,585,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus,71,0.001775,0.0577485
+Providencia alcalifaciens,126385,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Providencia,7,0.000175,0.00569351
+Providencia rettgeri,587,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Providencia,3,7.5e-05,0.00244008
+Providencia stuartii,588,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Providencia,4,0.0001,0.00325343
+Pseudomonas protegens,380021,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas,1,2.5e-05,0.000813359
+Pseudopropionibacterium propionicum,1750,Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Pseudopropionibacterium,2,5e-05,0.00162672
+Psychrobacter sp. PRwf-1,349106,Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter,1,2.5e-05,0.000813359
+Raoultella ornithinolytica,54291,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Raoultella,12,0.0003,0.0097603
+Ross River virus,11029,;;;;Togaviridae;Alphavirus,4,0.0001,0.00325343
+Rothia mucilaginosa,43675,Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Rothia,2,5e-05,0.00162672
+Salmonella enterica,28901,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella,32,0.0008,0.0260275
+Serratia ficaria,61651,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Serratia,1,2.5e-05,0.000813359
+Serratia fonticola,47917,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Serratia,2,5e-05,0.00162672
+Serratia liquefaciens,614,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Serratia,2,5e-05,0.00162672
+Serratia marcescens,615,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Serratia,10,0.00025,0.00813359
+Serratia sp. JKS000199,1938820,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Serratia,1,2.5e-05,0.000813359
+Shewanella sp. FDAARGOS_354,1930557,Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella,2,5e-05,0.00162672
+Shigella flexneri,623,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella,2023,0.050575,1.64542
+Shigella sonnei,624,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella,930,0.02325,0.756423
+Stenotrophomonas maltophilia,40324,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas,1,2.5e-05,0.000813359
+Streptococcus pyogenes,1314,Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus,12,0.0003,0.0097603
+Vibrio alginolyticus,663,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,2,5e-05,0.00162672
+Vibrio diabolicus,50719,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,8,0.0002,0.00650687
+Vibrio fluvialis,676,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,3,7.5e-05,0.00244008
+Vibrio harveyi,669,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,1,2.5e-05,0.000813359
+Vibrio mimicus,674,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,1,2.5e-05,0.000813359
+Vibrio parahaemolyticus,670,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,6,0.00015,0.00488015
+Vibrio vulnificus,672,Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio,14,0.00035,0.011387
+Xanthomonas vesicatoria,56460,Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas,8,0.0002,0.00650687
+Yersinia enterocolitica,630,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Yersinia,27,0.000675,0.0219607
+Yersinia frederiksenii,29484,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Yersinia,15,0.000375,0.0122004
+Yersinia kristensenii,28152,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Yersinia,53,0.001325,0.043108
+Yersinia massiliensis,419257,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Yersinia,1,2.5e-05,0.000813359
+Yersinia pestis,632,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Yersinia,253,0.006325,0.20578
+Yersinia pseudotuberculosis,633,Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Yersinia,18,0.00045,0.0146405
+UNKNOWN,UNKNOWN,UNKNOWN,3877053,96.9263,-
