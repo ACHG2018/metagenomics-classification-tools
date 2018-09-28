@@ -21,7 +21,7 @@ r1=$(readlink -ev $1)
 r2=$(readlink -ev $2)
 current=$(readlink -ev .)
 
-cd "$(dirname $0)/CLARKSCV1.2.5"
+cd "$(dirname $0)/CLARKSCV1.2.5.1"
 
 if [ ! -d "DIR_DB/Custom" ]; then
     >&2 echo "CLARK custom database not found. Please run db_setup.sh script first."

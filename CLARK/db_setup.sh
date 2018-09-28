@@ -16,12 +16,12 @@ mapping=$(readlink -ev $1)
 db=$(readlink -ev $2)
 cd $(dirname $0)
 
-if [ ! -d "CLARKSCV1.2.5" ]; then
+if [ ! -d "CLARKSCV1.2.5.1" ]; then
     >&2 echo "CLARK folder not found, please first install CLARK using install.sh script."
     exit
 fi
 
-cd CLARKSCV1.2.5
+cd CLARKSCV1.2.5.1
 
 # Put reference files into a custom db folder
 mkdir -p DIR_DB/Custom
