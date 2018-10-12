@@ -21,6 +21,9 @@ wget http://vannberg.biology.gatech.edu/data/ChallengeRefGenomes.tar.gz
 tar xzf ChallengeRefGenomes.tar.gz
 rm ChallengeRefGenomes.tar.gz
 
+git clone https://github.com/ACHG2018/metagenomics-classification-tools.git
+cp metagenomics-classification-tools/Blast/counter.pl ./
+
 ## building custom db
 cd ChallengeGenomes
 cat CR*.fasta > precisionFDA.fasta
@@ -28,7 +31,7 @@ makeblastdb -in precisionFDA.fasta -dbtype nucl
 
 # blast Challenge data against the reference
 mkdir -p ../result/tmp_folder
- cd ../result
+cd ../result
 ls ../Challenge_Data_NTC_POS/*R{1,2}.fastq | xargs -n1 sh -c 'fastx_clipper -Q33 -l 1 -i $0 -o $0.filtered'
 ls ../Challenge_Data_NTC_POS/*.filtered | xargs -n1 sh -c 'seqtk seq -a $0 > $0.fa'
 ls ../Challenge_Data_NTC_POS/*.fa | xargs -n1 sh -c 'time blastn -db ../ChallengeGenomes/precisionFDA.fasta -query $0 -max_target_seqs 1 -max_hsps 1 -outfmt 6 -out $0.output'
@@ -51,6 +54,7 @@ mkdir abundance
 ls ./tmp_folder/*R1.fq.*output | xargs -n1 sh -c 'cut -f 1,2 $0 | sed "s/\//|/g" | cut -d "|" -f 1,4 | sed "s/|/\t/" > $0.merge'
 ls ./tmp_folder/*R1.fastq.*output | xargs -n1 sh -c 'cut -f 1,2 $0 | sed "s/|/\t/g" | cut -f 1,4 > $0.merge'
 mv ./tmp_folder/*.merge ./result_merge_purpose/
+
 
 
 # generate results for submission
