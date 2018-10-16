@@ -1,9 +1,8 @@
 #!/usr/bin/env bash
 
 # Setup custom Kraken2 database
-# Usage: ./db_setup.sh <reference-tax_id-mapping> <db-directory>
+# Usage: ./db_setup.sh <db-directory>
 #
-#	<reference-tax_id-mapping> .tsv file consisting of contig-to-tax_id mappings
 #	<db-directory> path to the custom database for Kraken2
 
 if [[ $# -ne 2 ]]; then
@@ -11,8 +10,7 @@ if [[ $# -ne 2 ]]; then
 	exit
 fi
 
-taxMap=$(readlink -e $1)
-dbDir=$(readlink -e $2)
+dbDir=$(readlink -e $1)
 cd $(dirname $0)
 
 if [[ ! -d "kraken2-master" ]]; then
