@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 
 # Setup custom Kraken2 database
-# Usage: ./db_setup.sh <db-directory>
+# Usage: ./db_setup.sh <reference-taxID-mapping><fasta-directory>
 #
-#	<db-directory> path to the custom database for Kraken2
+#	<fasta-directory> path to the reference fasta files for the challenge
 
 if [[ $# -ne 2 ]]; then
-	>&2 echo -e "\nInvalid number of arguments.\nUsage: $0 <reference-tax_id-mapping> <db-directory>\n"
+	>&2 echo -e "\nInvalid number of arguments.\nUsage: $0 <reference-taxID-mapping> <fasta-directory>\n"
 	exit
 fi
 
