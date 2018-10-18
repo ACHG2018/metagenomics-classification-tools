@@ -1,0 +1,170 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+import os
+import re
+from shutil import copy2
+
+#Bowtie2 analysis across FDA ARGOS database and Challenge Samples
+#Download Bowtie2
+#wget https://sourceforge.net/projects/bowtie-bio/files/bowtie2/2.3.4.3/bowtie2-2.3.4.3-linux-x86_64.zip/download
+#unzip bowtie2-2.3.4.3-linux-x86_64.zip
+#export PATH=$PATH:$PWD/bowtie2-2.3.4.3-linux-x86_64
+#Download Samtools
+#wget https://github.com/samtools/samtools/releases/download/1.9/samtools-1.9.tar.bz2
+#tar - zxvf samtools-1.9.tar.bz2
+#export PATH=$PATH:$PWD/samtools-1.9
+
+#cd Vasanta
+
+#Looping through the directory
+
+ChallengeDir = '/data2/ACHG2018FALL/Vasanta/ChallengeGenomes'
+genomeDir = '/data2/ACHG2018FALL/Vasanta/fastq1'
+challengeoutputDir = '/data2/ACHG2018FALL/Vasanta/challengeOutput'
+#genomeDir = '/mnt/c/Users/Vasanta Chivukula/Documents/Vannbergclass/Challenge/Vasanta/fastq'
+outputDir = '/data2/ACHG2018FALL/Vasanta/fastqOutput1'
+#outputDir = '/mnt/c/Users/Vasanta Chivukula/Documents/Vannbergclass/Challenge/Vasanta/fastqOutput'
+#indexDir = '/data2/ACHG2018FALL/Vasanta/ref'
+createdIndexFolder='/data2/ACHG2018FALL/Vasanta/index1'
+#createdIndexFolder='/mnt/c/Users/Vasanta Chivukula/Documents/Vannbergclass/Challenge/Vasanta/index'
+genomeFileList = []
+challenge
+
+
+
+
+# Generating the index file
+
+#bowtie2-build humangenome.fasta humanindex.fasta
+# Download human genome from NCBI
+# Humangenome = '/data2/ACHG2018FALL/Vasanta/humangenome'
+HumanindexDir = '/data2/ACHG2018FALL/Vasanta/humanindex'
+# os.system("bowtie2-build "+Humangenome+" "+Humanindex)
+
+#####map the challenge genomes with the human index and grab whatever is unmapped and save them as fastqfiles in genomeDir as unmapped_reads
+
+# Getting unmapped reads after mapping with human genome
+for challengeFile in os.listdir(challengeDir):
+	if challengeFile.startswith("C"):
+		challengeFileList.append(challengeFile)
+		
+
+FileList = []
+# Looping through file list to get 2 consecutive files.
+for x,y in zip(sorted(challengeFileList)[::2],sorted(challengeFileList)[1::2]):
+	print (x,y)
+
+	data = x.split("_")
+	if not os.path.exists(challengeoutputDir+"/"+data[0]):
+		os.mkdir(challengeoutputDir+"/"+data[0])
+
+	Humanindex = HumanindexDir+"/"+re.findall(r'(.*\.fasta)(\..*)', index)[0][0]
+	#print(index)
+	# Running bowtie
+	#bowtie2 –x index -1 C16_R1.fastq -2 C16_R2.fastq –S C16_human_out.sam
+	print("bowtie2 -x " + Humanindex + " -1"+" "+challengegenomeDir+"/"+x+" -2 "+challengegenomeDir+"/"+y+" -S "+challengeoutputDir+"/"+data[0]+"/"+data[0]+".sam")
+	os.system("bowtie2 -x " + Humanindex + " -1"+" "+challengegenomeDir+"/"+x+" -2 "+challengegenomeDir+"/"+y+" -S "+challengeoutputDir+"/"+data[0]+"/"+data[0]+".sam")
+	
+		
+	# Running samtools
+	#samtools view –S –b C16_human_out.sam > C16_human_out.bam 
+	print("samtools view "+challengeoutputDir+"/"+data[0]+"/"+data[0]+".sam -bhS > "+challengeoutputDir+"/"+data[0]+"/"+data[0]+".bam")
+	os.system("samtools view "+challengeoutputDir+"/"+data[0]+"/"+data[0]+".sam -bhS > "+challengeoutputDir+"/"+data[0]+"/"+data[0]+".bam")
+	
+	
+	# Sorting bam file
+	#samtools sort C16_human_out.bam –o human.sorted.bam
+	print("samtools sort "+challengeoutputDir+"/"+data[0]+"/"+data[0]+".bam" + " -o " +challengeoutputDir+"/"+data[0]+"/"+data[0]+".sorted.bam")
+	os.system("samtools sort "+challengeoutputDir+"/"+data[0]+"/"+data[0]+".bam" + " -o " +challengeoutputDir+"/"+data[0]+"/"+data[0]+".sorted.bam")
+
+	# Getting unmapped reads.
+	#samtools view –f 12 -F 256 C16_human.sorted.bam > C16_human.unmapped.bam
+	print("samtools view "+challengeoutputDir+"/"+data[0]+"/"+data[0]+".sorted.bam -bh –f 4 > "+challengeoutputDir+"/"+data[0]+"/"+data[0]+".unmapped.bam")
+	os.system("samtools view "+challengeoutputDir+"/"+data[0]+"/"+data[0]+".sorted.bam -bh –f 4 > "+challengeoutputDir+"/"+data[0]+"/"+data[0]+".unmapped.bam")
+	
+	# Sorting the files to get the paired reads next to each other
+	#samtools sort -n C16_human_bothendsunmapped.bam -o C16_human_bothendsunmapped_sorted.bam
+	print("samtools sort -n "+challengeoutputDir+"/"+data[0]+"/"+data[0]+".unmapped.bam -o "+challengeoutputDir+"/"+data[0]+"/"+data[0]+".unmapped_sorted.bam")
+	os.system("samtools sort -n "+challengeoutputDir+"/"+data[0]+"/"+data[0]+".unmapped.bam -o "+challengeoutputDir+"/"+data[0]+"/"+data[0]+".unmapped_sorted.bam")
+	
+	# Splitting and converting to fastq
+	#bedtools bamtofastq -i C16_human_bothendsunmapped_sorted.bam -fq C16_human_unmapped_read1.fastq -fq2 C16_human_unmapped_read2.fastq
+	print("bamToFastq -i "+challengeoutputDir+"/"+data[0]+"/"+data[0]+".unmapped_sorted.bam -fq "+challengeoutputDir+"/"+data[0]+"/"+data[0]+"_unmapped_read1.fastq -fq2 " +outputDir+"/"+data[0]+"/"+data[0]+"_unmapped_read2.fastq")
+	os.system("bamToFastq -i "+challengeoutputDir+"/"+data[0]+"/"+data[0]+".unmapped_sorted.bam -fq "+challengeoutputDir+"/"+data[0]+"/"+data[0]+"_unmapped_read1.fastq -fq2 " +outputDir+"/"+data[0]+"/"+data[0]+"_unmapped_read2.fastq")
+
+	copy2(outputDir+"/"+data[0]+"/"+data[0]+"_unmapped_read2.fastq,	genomeDir)
+	copy2(outputDir+"/"+data[0]+"/"+data[0]+"_unmapped_read1.fastq,	genomeDir)
+	copy2(challengeoutputDir+"/"+data[0]+"/"+data[0]+".unmapped_sorted.bam,genomeDir)
+		
+# Check if the fastq file is empty
+def is_non_zero_file(fpath1,fpath2):  
+    return ((os.path.isfile(fpath1) and os.path.getsize(fpath1) == 0) or (os.path.isfile(fpath2) and os.path.getsize(fpath2) == 0))
+
+
+# #bowtie2-build for challenge genomes: Creating the index
+# for indexFile in os.listdir(indexDir):
+	# if indexFile.startswith("CR"):
+		# cStr = indexFile.split(".")
+		# #print("bowtie2-build "+indexDir+"/"+indexFile+" "+createdIndexFolder+"/"+cStr[0]+"index.fasta") 
+		# os.system("bowtie2-build "+indexDir+"/"+indexFile+" "+createdIndexFolder+"/"+cStr[0]+"index.fasta")
+
+
+
+for genomeFile in os.listdir(genomeDir):
+	if genomeFile.startswith("C"):
+		genomeFileList.append(genomeFile)
+		
+
+
+# Looping through file list to get 2 consecutive files.
+for x,y in zip(sorted(genomeFileList)[::2],sorted(genomeFileList)[1::2]):
+	print (x,y)
+
+	data = x.split("_")
+	if not os.path.exists(outputDir+"/"+data[0]):
+		os.mkdir(outputDir+"/"+data[0])
+	for file in os.listdir(createdIndexFolder):
+		file = createdIndexFolder+"/"+re.findall(r'(.*\.fasta)(\..*)', file)[0][0]
+		#print(file)
+		# Running bowtie
+		#bowtie2 –x file -1 C16_R1.fastq -2 C16_R2.fastq –S C16_human_out.sam
+		print("bowtie2 -x " + file + " -1"+" "+genomeDir+"/"+x+" -2 "+genomeDir+"/"+y+" -S "+outputDir+"/"+data[0]+"/"+data[0]+"t.sam 2>> stderr.txt")
+		os.system("bowtie2 -x " + file + " -1"+" "+genomeDir+"/"+x+" -2 "+genomeDir+"/"+y+" -S "+outputDir+"/"+data[0]+"/"+data[0]+".sam 2>> ./stderr.txt")
+		os.system("echo 'file', 'x' >> stderr.txt")
+			
+		# Running samtools
+		#samtools view –S –b C16_human_out.sam > C16_human_out.bam 
+		print("samtools view "+outputDir+"/"+data[0]+"/"+data[0]+".sam -b > "+outputDir+"/"+data[0]+"/"+data[0]+".bam")
+		os.system("samtools view "+outputDir+"/"+data[0]+"/"+data[0]+".sam -b > "+outputDir+"/"+data[0]+"/"+data[0]+".bam")
+		
+		
+		# Sorting bam file
+		#samtools sort C16_human_out.bam –o human.sorted.bam
+		print("samtools sort "+outputDir+"/"+data[0]+"/"+data[0]+".bam" + " -o " +outputDir+"/"+data[0]+"/"+data[0]+".sorted.bam")
+		os.system("samtools sort "+outputDir+"/"+data[0]+"/"+data[0]+".bam" + " -o " +outputDir+"/"+data[0]+"/"+data[0]+".sorted.bam")
+
+		# Getting unmapped reads.
+		#samtools view –f 12 -F 256 C16_human.sorted.bam > C16_human.unmapped.bam
+		print("samtools view "+outputDir+"/"+data[0]+"/"+data[0]+".sorted.bam –f 4 > "+outputDir+"/"+data[0]+"/"+data[0]+".unmapped.bam")
+		os.system("samtools view "+outputDir+"/"+data[0]+"/"+data[0]+".sorted.bam –f 4 > "+outputDir+"/"+data[0]+"/"+data[0]+".unmapped.bam")
+		
+		# Sorting the files to get the paired reads next to each other
+		#samtools sort -n C16_human_bothendsunmapped.bam -o C16_human_bothendsunmapped_sorted.bam
+		print("samtools sort -n "+outputDir+"/"+data[0]+"/"+data[0]+".unmapped.bam -o "+outputDir+"/"+data[0]+"/"+data[0]+".unmapped_sorted.bam")
+		os.system("samtools sort -n "+outputDir+"/"+data[0]+"/"+data[0]+".unmapped.bam -o "+outputDir+"/"+data[0]+"/"+data[0]+".unmapped_sorted.bam")
+		
+		# Splitting and converting to fastq
+		#bedtools bamtofastq -i C16_human_bothendsunmapped_sorted.bam -fq C16_human_unmapped_read1.fastq -fq2 C16_human_unmapped_read2.fastq
+		print("bamToFastq -i "+outputDir+"/"+data[0]+"/"+data[0]+".unmapped_sorted.bam -fq "+outputDir+"/"+data[0]+"/"+data[0]+"_unmapped_read1.fastq -fq2 " +outputDir+"/"+data[0]+"/"+data[0]+"_unmapped_read2.fastq")
+		os.system("bamToFastq -i "+outputDir+"/"+data[0]+"/"+data[0]+".unmapped_sorted.bam -fq "+outputDir+"/"+data[0]+"/"+data[0]+"_unmapped_read1.fastq -fq2 " +outputDir+"/"+data[0]+"/"+data[0]+"_unmapped_read2.fastq")
+		
+		outFile1 = outputDir+"/"+data[0]+"/"+data[0]+"_unmapped_read1.fastq"
+		#print(outFile1)
+		outFile2 = outputDir+"/"+data[0]+"/"+data[0]+"_unmapped_read2.fastq"
+		
+		if (is_non_zero_file(outFile1,outFile2)):
+			break
+		
+		
+
+		
