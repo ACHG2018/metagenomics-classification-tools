@@ -15,12 +15,12 @@ Download and install CLARK
 ```
 
 Build custom database, `reference_folder` is a path to the folder with the custom database
+* _unique_ flag forces the script to treat each database entry as an individual species, even if they are taxonomically from the same species
 ```
-./db_setup.sh ../refGenomeTaxMapping.tsv reference_folder
+./db_setup.sh ../refGenomeTaxMapping.tsv reference_folder [unique]
 ```
 
 Run, `OUT` is the prefix for the output files
 ```
-./classify.sh r1.fasta r2.fasta OUT
+./classify.sh r1.fasta r2.fasta OUT ../refGenomeTaxMapping.tsv [unique]
 ```
-
