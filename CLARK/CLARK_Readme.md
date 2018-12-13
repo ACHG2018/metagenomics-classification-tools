@@ -24,3 +24,8 @@ Run, `OUT` is the prefix for the output files
 ```
 ./classify.sh r1.fasta r2.fasta OUT ../refGenomeTaxMapping.tsv [unique]
 ```
+
+## Example run
+
+See [example run](https://github.com/ACHG2018/metagenomics-classification-tools/blob/master/CLARK/run_example.sh) in which these scripts were used to generate a result for https://precision.fda.gov/challenges/3.
+
